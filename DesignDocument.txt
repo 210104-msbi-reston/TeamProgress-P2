@@ -1,0 +1,77 @@
+Team Progress - Hotel Booking Data Warehouse
+Due: 2/16/2021
+
+Domain: United States
+Granularity: Country-Wide
+
+Technologies
+SQL Server
+SSIS: ETL
+SSAS: Cube (Schema - Star)
+	-Multi-Dimensional Expression
+	-DAX: Install a new instance of SQL Server, which will have
+		-SQLEngine
+		-Analysis Service in Tabular format
+SSRS: Design presentable, neat, and clean reports
+
+Objective
+This project will be a Hotel Booking Record System for a domestic Hotel Chain located within the United States of America.
+
+FactTable
+	-LocationID
+	-HotelID
+	-CustomerID
+	-StaffID
+	-RoomID
+	-TimeID
+	-PaymentID
+	-NumberOfPeople
+	-CheckInDay
+	-CheckOutDay
+
+Location Dimension
+	-LocationID
+	-Country
+	-State
+	-County
+	-City
+	-Taxation
+Hotel Dimension
+	-HotelID
+	-Name
+	-Address
+	-PhoneNumber
+	-CostPerDay
+	-ContinentalBreakfast
+	-Pool
+	-Laundry Services
+Customer Dimension
+	-CustomerID
+	-FirstName
+	-LastName
+	-EmailAddress
+	-PhoneNumber
+	-Age
+Staff Dimension
+	-StaffID
+	-DesingationID
+	-Name
+Room Dimension
+	-RoomID
+	-Room Number
+	-Foor
+	-Smoking/Nonsmoking
+	-Room Type
+	-Number of Beds{Single, Double}
+Time
+	-TimeID
+	-YearOfBooking
+	-MonthOfBooking
+	-DayOfBoooking
+	-TimeOfBooking
+Payment
+	-PaymentID
+	-CashOrCard
+	-BookingTotal
+	-OnlineOrWalkIn
+	-CardNumber
