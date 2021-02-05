@@ -1,1 +1,2 @@
-# H1 Team Progress Project Proposal
+# Global Hotel Booking Analysis
+## Description
