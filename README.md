@@ -22,3 +22,6 @@ Our project will analyze restaurant data that has been pulled from Zomato. Zomat
 * Kathleen Labog
 * Taylor Jernigan
 * Ricki Nguyen
+
+## Data Source
+[Zomato Restaurants in India](https://www.kaggle.com/rabhar/zomato-restaurants-in-india)
