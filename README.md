@@ -4,11 +4,12 @@ Our project will analyze restaurant data that has been pulled from Zomato. Zomat
 
 ## Action Plan
 1. Collect datasets that pertain to the Zomato website.
-2. Process data using integration services to filter and merge the data.
-3. Load data into data warehouse.
-4. Generate an OLAP structure to organize and provide meaning to the data.
-5. Generate visual aids to assist in making educated business decisions.
-6. Create detailed reports that draw relations between provided data.
+2. Clean the dataset and remove duplicate records.
+3. Process data using integration services to filter and merge the data.
+4. Load data into data warehouse.
+5. Generate an OLAP structure to organize and provide meaning to the data.
+6. Generate visual aids to assist in making educated business decisions.
+7. Create detailed reports that draw relations between provided data.
 
 ## Tech Stack
 * Microsoft Excel
