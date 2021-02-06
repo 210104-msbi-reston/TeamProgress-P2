@@ -14,6 +14,7 @@ Our project will analyze restaurant data that has been pulled from Zomato. Zomat
 ## Tech Stack
 * Microsoft Excel
 * Microsoft Server 2016/2019
+* Microsoft SQL Server Management Studio
 * SQL Server Integrations Services
 * SQL Server Analysis Services
 * SQL Server Reporting Services
