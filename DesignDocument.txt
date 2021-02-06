@@ -1,7 +1,7 @@
 Team Progress - Hotel Booking Data Warehouse
 Due: 2/16/2021
 
-THIS IS AN UPDATE
+Data Source: https://data.world/mgarfield/restaurants/workspace/file?filename=zomato.xlsx
 
 Domain: United States
 Granularity: Country-Wide
