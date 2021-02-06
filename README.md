@@ -11,14 +11,14 @@ Our project will analyze restaurant data that has been pulled from Zomato. Zomat
 6. Create detailed reports that draw relations between provided data.
 
 ## Tech Stack
-*Microsoft Excel
-*Microsoft Server 2016/2019
-*SQL Server Integrations Services
-*SQL Server Analysis Services
-*SQL Server Reporting Services
+* Microsoft Excel
+* Microsoft Server 2016/2019
+* SQL Server Integrations Services
+* SQL Server Analysis Services
+* SQL Server Reporting Services
 
 ## Team Members
-*Jonathan Tucker
-*Kathleen Labog
-*Taylor Jernigan
-*Ricki Nguyen
+* Jonathan Tucker
+* Kathleen Labog
+* Taylor Jernigan
+* Ricki Nguyen
