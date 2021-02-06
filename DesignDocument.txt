@@ -1,6 +1,8 @@
 Team Progress - Hotel Booking Data Warehouse
 Due: 2/16/2021
 
+THIS IS AN UPDATE
+
 Domain: United States
 Granularity: Country-Wide
 
@@ -28,6 +30,7 @@ FactTable
 	-NumberOfPeople
 	-CheckInDay
 	-CheckOutDay
+	-BookingTotal
 
 Location Dimension
 	-LocationID
@@ -72,6 +75,5 @@ Time
 Payment
 	-PaymentID
 	-CashOrCard
-	-BookingTotal
 	-OnlineOrWalkIn
 	-CardNumber
