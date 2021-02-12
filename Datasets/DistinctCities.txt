@@ -1,5 +1,3 @@
-city
-Agra
 Country	city
 India	Agra
 India	Ahmedabad
