@@ -29,5 +29,5 @@ Our project will analyze restaurant data that has been pulled from Zomato. Zomat
 [Zomato Restaurants in India](https://www.kaggle.com/rabhar/zomato-restaurants-in-india)
 
 ## Organizational Links
-[Trello Board](https://trello.com/b/hv9wI9H0/zomato-restaurant-business-analysis)
+[Trello Board](https://trello.com/b/hv9wI9H0/zomato-restaurant-business-analysis)  
 [Current ER Diagram](https://lucid.app/lucidchart/c74c8a00-b9c8-4a51-a9ef-5833cc8dea87/view?page=0_0#?folder_id=home&browser=icon)
