@@ -92,3 +92,16 @@ CREATE TABLE tbl_RestaurantHighlights
 	CONSTRAINT fk_RestaurantHighlightHighlight FOREIGN KEY(highlightID) REFERENCES tbl_Highlights,
 	CONSTRAINT pk_RestaurantHighlights PRIMARY KEY (restaurantID, highlightID)
 )
+
+--ALTER TABLES
+ALTER TABLE tbl_Highlights 
+ALTER COLUMN highlightDescription VARCHAR(30)
+
+ALTER TABLE tbl_Localities 
+ALTER COLUMN localityName VARCHAR(60)
+
+ALTER TABLE tbl_Restaurants 
+ALTER COLUMN restaurantName VARCHAR(70)
+
+ALTER TABLE tbl_Restaurants 
+ALTER COLUMN restaurantAddress VARCHAR(210)
