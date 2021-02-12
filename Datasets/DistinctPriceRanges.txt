@@ -1,0 +1,5 @@
+price_range	max_estimate_for_two	
+1	450	
+2	999	
+3	1900	
+4	30000	
