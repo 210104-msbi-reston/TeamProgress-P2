@@ -27,3 +27,6 @@ Our project will analyze restaurant data that has been pulled from Zomato. Zomat
 
 ## Data Source
 [Zomato Restaurants in India](https://www.kaggle.com/rabhar/zomato-restaurants-in-india)
+
+## Management Link
+[Trello Board](https://trello.com/b/hv9wI9H0/zomato-restaurant-business-analysis)
