@@ -1,100 +1,102 @@
 city
 Agra
-Ahmedabad
-Ajmer
-Alappuzha
-Allahabad
-Amravati
-Amritsar
-Aurangabad
-Bangalore
-Bhopal
-Bhubaneshwar
-Chandigarh
-Chennai
-Coimbatore
-Cuttack
-Darjeeling
-Dehradun
-Dharamshala
-Faridabad
-Gandhinagar
-Gangtok
-Ghaziabad
-Goa
-Gorakhpur
-Greater Noida
-Guntur
-Gurgaon
-Guwahati
-Gwalior
-Haridwar
-Howrah
-Hyderabad
-Indore
-Jabalpur
-Jaipur
-Jalandhar
-Jammu
-Jamnagar
-Jamshedpur
-Jhansi
-Jodhpur
-Junagadh
-Kanpur
-Kharagpur
-Kochi
-Kolhapur
-Kolkata
-Kota
-Lucknow
-Ludhiana
-Madurai
-Manali
-Mangalore
-Manipal
-Meerut
-Mohali
-Mumbai
-Mussoorie
-Mysore
-Nagpur
-Nainital
-Nashik
-Nasik
-Navi Mumbai
-Nayagaon
-Neemrana
-New Delhi
-Noida
-Ooty
-Palakkad
-Panchkula
-Patiala
-Patna
-Puducherry
-Pune
-Pushkar
-Raipur
-Rajkot
-Ranchi
-Rishikesh
-Salem
-Secunderabad
-Shimla
-Siliguri
-Srinagar
-Surat
-Thane
-Thrissur
-Tirupati
-Trichy
-Trivandrum
-Udaipur
-Udupi
-Vadodara
-Varanasi
-Vellore
-Vijayawada
-Vizag
-Zirakpur
+Country	city
+India	Agra
+India	Ahmedabad
+India	Ajmer
+India	Alappuzha
+India	Allahabad
+India	Amravati
+India	Amritsar
+India	Aurangabad
+India	Bangalore
+India	Bhopal
+India	Bhubaneshwar
+India	Chandigarh
+India	Chennai
+India	Coimbatore
+India	Cuttack
+India	Darjeeling
+India	Dehradun
+India	Dharamshala
+India	Faridabad
+India	Gandhinagar
+India	Gangtok
+India	Ghaziabad
+India	Goa
+India	Gorakhpur
+India	Greater Noida
+India	Guntur
+India	Gurgaon
+India	Guwahati
+India	Gwalior
+India	Haridwar
+India	Howrah
+India	Hyderabad
+India	Indore
+India	Jabalpur
+India	Jaipur
+India	Jalandhar
+India	Jammu
+India	Jamnagar
+India	Jamshedpur
+India	Jhansi
+India	Jodhpur
+India	Junagadh
+India	Kanpur
+India	Kharagpur
+India	Kochi
+India	Kolhapur
+India	Kolkata
+India	Kota
+India	Lucknow
+India	Ludhiana
+India	Madurai
+India	Manali
+India	Mangalore
+India	Manipal
+India	Meerut
+India	Mohali
+India	Mumbai
+India	Mussoorie
+India	Mysore
+India	Nagpur
+India	Nainital
+India	Nashik
+India	Nasik
+India	Navi Mumbai
+India	Nayagaon
+India	Neemrana
+India	New Delhi
+India	Noida
+India	Ooty
+India	Palakkad
+India	Panchkula
+India	Patiala
+India	Patna
+India	Puducherry
+India	Pune
+India	Pushkar
+India	Raipur
+India	Rajkot
+India	Ranchi
+India	Rishikesh
+India	Salem
+India	Secunderabad
+India	Shimla
+India	Siliguri
+India	Srinagar
+India	Surat
+India	Thane
+India	Thrissur
+India	Tirupati
+India	Trichy
+India	Trivandrum
+India	Udaipur
+India	Udupi
+India	Vadodara
+India	Varanasi
+India	Vellore
+India	Vijayawada
+India	Vizag
+India	Zirakpur
