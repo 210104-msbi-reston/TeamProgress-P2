@@ -103,7 +103,7 @@ cuisines
  Parsi
  Peruvian
  Pizza
-Poke
+ Poke
  Portuguese
  Rajasthani
  Raw Meats
