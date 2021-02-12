@@ -12,6 +12,7 @@ DROP TABLE tbl_Cities
 DROP TABLE tbl_PriceRanges
 DROP TABLE tbl_Highlights
 DROP TABLE tbl_Cuisines
+DROP TABLE tbl_Genres
 DROP TABLE tbl_Countries
 
 --CREATE TABLES
@@ -20,6 +21,12 @@ CREATE TABLE tbl_Countries
 	countryID INT IDENTITY(1,1),
 	countryName VARCHAR(20),
 	CONSTRAINT pk_Countries PRIMARY KEY(countryID)
+)
+CREATE TABLE tbl_Genres
+(
+	genreID INT IDENTITY(1,1),
+	genreType VARCHAR(20),
+	CONSTRAINT pk_Genres PRIMARY KEY(genreID)
 )
 CREATE TABLE tbl_Cuisines
 (
@@ -62,9 +69,11 @@ CREATE TABLE tbl_Restaurants
 	restaurantName VARCHAR(20),
 	restaurantRating DECIMAL(5,2),
 	restaurantAddress VARCHAR(20),
-	priceRange INT 
+	priceRange INT,
+	genreID INT,
 	CONSTRAINT pk_Restaurants PRIMARY KEY(restaurantID),
-	CONSTRAINT fk_RestaurantPriceRange FOREIGN KEY(priceRange) REFERENCES tbl_PriceRanges(priceRange)
+	CONSTRAINT fk_RestaurantPriceRange FOREIGN KEY(priceRange) REFERENCES tbl_PriceRanges(priceRange),
+	CONSTRAINT fk_RestaurantGenre FOREIGN KEY(genreID) REFERENCES tbl_Genres(genreID)
 )
 
 CREATE TABLE tbl_RestaurantCuisines
