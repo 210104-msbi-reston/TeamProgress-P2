@@ -1,27 +1,3910 @@
-establishment
-Bakery
-Bar
-Beverage Shop
-Bhojanalya
-Butcher Shop
-Cafe
-Casual Dining
-Club
-Cocktail Bar
-Confectionery
-Dessert Parlour
-Dhaba
-Fine Dining
-Food Court
-Food Truck
-Irani Cafe
-Kiosk
-Lounge
-Mess
-Microbrewery
-Paan Shop
-Pop up
-Pub
-Quick Bites
-Shack
-Sweet Shop
+city	locality
+Agra	Agra Cantt
+Agra	Arjun Nagar
+Agra	Civil Lines
+Agra	"Courtyard by Marriott Agra, Tajganj"
+Agra	"Crystal Sarovar Premier, Tajganj"
+Agra	Dayal Bagh
+Agra	"DoubleTree by Hilton Hotel Agra, Tajganj"
+Agra	"Four Points by Sheraton Agra, Tajganj"
+Agra	"Hotel Clarks Shiraz, Agra Cantt"
+Agra	"Hotel Dasaprakash, Tajganj"
+Agra	"Hotel Ganga Ratan, Tajganj"
+Agra	"Hotel Howard Plaza, Tajganj"
+Agra	"Hotel Metro, Civil Lines"
+Agra	"Hotel Pushp Villa, Tajganj"
+Agra	"Hotel Royale Residency, Tajganj"
+Agra	"HotelAMar, Tajganj"
+Agra	"ITC Mughal, Tajganj"
+Agra	"Jaypee Palace Hotel, Tajganj"
+Agra	Kamla Nagar
+Agra	Khandari
+Agra	Kuberpur
+Agra	Lohamandi
+Agra	"Mansingh Palace, Tajganj"
+Agra	Mantola
+Agra	"Radisson Blu, Tajganj"
+Agra	Rakabganj
+Agra	"Ramada Plaza, Tajganj"
+Agra	Shahganj
+Agra	Sikandra
+Agra	Tajganj
+Agra	"The Gateway Hotel, Tajganj"
+Agra	"The OberoiAMarvilas, Tajganj"
+Agra	Trans Yamuna
+Agra	"Trident Hotel, Tajganj"
+Ahmedabad	" Sigma Legacy Building, Vastrapur"
+Ahmedabad	"10 Acres Mall, Kankaria"
+Ahmedabad	"4D Square Mall, Chandkheda"
+Ahmedabad	"Aarya Grand Hotels & Resorts, Sola"
+Ahmedabad	"Acropolis Mall, Thaltej"
+Ahmedabad	Adalaj
+Ahmedabad	"Ahmedabad Central Mall,AMbavadi"
+Ahmedabad	"Ahmedabad One Mall, Vastrapur"
+Ahmedabad	"Ahmedabad Streat Food Park, Prahlad Nagar"
+Ahmedabad	Ambavadi
+Ahmedabad	Amraiwadi
+Ahmedabad	"Armoise Hotel, C G Road"
+Ahmedabad	"Arved Transcube Plaza , Ranip"
+Ahmedabad	"Aryan Work Spaces, Gulbai tekra"
+Ahmedabad	Ashram Road
+Ahmedabad	Astodia
+Ahmedabad	Bapunagar
+Ahmedabad	"Baugban Food Court, Nikol"
+Ahmedabad	Bhadra
+Ahmedabad	Bodakdev
+Ahmedabad	Bopal
+Ahmedabad	C G Road
+Ahmedabad	"Cama Hotel, Bhadra"
+Ahmedabad	"Camps Corner 2, Prahlad Nagar"
+Ahmedabad	"Capstone, Ellisbridge"
+Ahmedabad	"CG Square Mall, C G Road"
+Ahmedabad	Chandkheda
+Ahmedabad	Chandlodia
+Ahmedabad	"Country Inn & Suites, Thaltej"
+Ahmedabad	"Courtyard By Marriott, Satellite"
+Ahmedabad	"Crowne Plaza, Satellite"
+Ahmedabad	"Double Tree By Hilton, Bopal"
+Ahmedabad	Ellis Bridge
+Ahmedabad	"Fairfield By Mariott, Ashram Road"
+Ahmedabad	"First Exit Food Truck Park, Bopal"
+Ahmedabad	"Food Junction, Bodakdev"
+Ahmedabad	Food Truck Park
+Ahmedabad	"Fortune Landmark, Ashram Road"
+Ahmedabad	"Fun Food Battalian, Bopal"
+Ahmedabad	Ghatlodia
+Ahmedabad	Gota
+Ahmedabad	Gulbai Tekra
+Ahmedabad	"Gulmohar Park, Satellite"
+Ahmedabad	Gurukul
+Ahmedabad	Hansol
+Ahmedabad	"Highway Food Court, Adalaj"
+Ahmedabad	"Himalaya Mall, Gurukul"
+Ahmedabad	"Hotel Aloft, Sola"
+Ahmedabad	"Hotel Binori, Thaltej"
+Ahmedabad	"Hotel Novotel, Satellite"
+Ahmedabad	"Hyatt Regency, Ashram Road"
+Ahmedabad	"Hyatt, Vastrapur"
+Ahmedabad	Isanpur
+Ahmedabad	Jamalpur
+Ahmedabad	Kalupur
+Ahmedabad	Kankaria
+Ahmedabad	"Kankaria Lake, Kankaria"
+Ahmedabad	Lal Darwaja
+Ahmedabad	Manek Chowk
+Ahmedabad	Mani Nagar
+Ahmedabad	"Maple99, Chandkheda"
+Ahmedabad	Memnagar
+Ahmedabad	Naranpura
+Ahmedabad	Naroda
+Ahmedabad	Navrangpura
+Ahmedabad	Nikol
+Ahmedabad	Odhav
+Ahmedabad	Paldi
+Ahmedabad	"Platinum Hotels, Vasna"
+Ahmedabad	Prahlad Nagar
+Ahmedabad	"Radisson Blu,AMbavadi"
+Ahmedabad	Rakhial
+Ahmedabad	"Ramada, Prahlad Nagar"
+Ahmedabad	Ranip
+Ahmedabad	Relief Road
+Ahmedabad	"Renaissance Hotel, Sola"
+Ahmedabad	"Rivera Arcade, Prahladnagar"
+Ahmedabad	Sabarmati
+Ahmedabad	"Safal Pegasus, Prahlad Nagar"
+Ahmedabad	"Sangath Mall, Chandkheda"
+Ahmedabad	Sarkhej
+Ahmedabad	Satellite
+Ahmedabad	"SBR Social, Bodakdev"
+Ahmedabad	Shahibagh
+Ahmedabad	Shahpur
+Ahmedabad	"Shivalik Yash, Naranpura"
+Ahmedabad	"Shree Balaji Agora Mall, Chandkheda"
+Ahmedabad	"SOBO Center, Bopal"
+Ahmedabad	Sola
+Ahmedabad	Subhash Bridge
+Ahmedabad	Swapneel 5
+Ahmedabad	Thaltej
+Ahmedabad	"The Fern, Sola"
+Ahmedabad	"The Gateway Hotel Ummed, Hansol"
+Ahmedabad	"The Grand Bhagwati, Bodakdev"
+Ahmedabad	The Metropole Hotel
+Ahmedabad	"The Pride Hotel, Bodakdev"
+Ahmedabad	"The Raj Banquets & Hotels, Bopal"
+Ahmedabad	"The Waterside, Adalaj"
+Ahmedabad	"Urban Chowk, Thaltej"
+Ahmedabad	Vasna
+Ahmedabad	Vastral
+Ahmedabad	Vastrapur
+Ahmedabad	Vatva
+Ahmedabad	Vejalpur
+Ahmedabad	"Venus Atlantis, Prahlad Nagar"
+Ahmedabad	"Vittal Mall, Chandkheda"
+Ahmedabad	"Wide Angle, Satellite"
+Ajmer	Adarsh Nagar
+Ajmer	Ana Sagar Lake
+Ajmer	Boraj Kazipura
+Ajmer	"City Square Mall, Panchsheel Nagar"
+Ajmer	Dhola Bhata Colony
+Ajmer	Hathi Khera
+Ajmer	Kotra
+Ajmer	Kundan Nagar
+Ajmer	Pal Bhichala
+Ajmer	Panchsheel Nagar
+Ajmer	Police Lines
+Ajmer	Railway Quarters 
+Ajmer	Ram Ganj
+Ajmer	"Shrinath Mall, Ana Sagar Lake"
+Ajmer	Somalpur
+Alappuzha	Anantha Narayanapuram
+Alappuzha	"Camelot Hotel, Pathirappally, Alappuzha"
+Alappuzha	Kanjiramchira
+Alappuzha	Kommady
+Alappuzha	Koyippalli
+Alappuzha	Omanapuzha
+Alappuzha	Pathirappally
+Alappuzha	Pazhaveedu
+Alappuzha	Punnapra
+Alappuzha	"Ramada Aleppey, Thathampally"
+Alappuzha	Thalavady
+Alappuzha	Thathampally
+Alappuzha	Vadackal
+Allahabad	Allapur
+Allahabad	Alopi Bagh
+Allahabad	Ashok Nagar
+Allahabad	Bairahana
+Allahabad	Bamrouli
+Allahabad	Chowk
+Allahabad	Civil Lines
+Allahabad	Colonel Ganj
+Allahabad	Dhoomanganj
+Allahabad	George Town
+Allahabad	Govindpur
+Allahabad	Kareli
+Allahabad	Katra
+Allahabad	Leader Road
+Allahabad	Lukerganj
+Allahabad	Meergunj
+Allahabad	Naini
+Allahabad	"P Square Mall, Civil Lines"
+Allahabad	Rajapur
+Allahabad	Rajrooppur
+Allahabad	Rambagh
+Allahabad	Tagore Town
+Allahabad	Teliarganj
+Allahabad	The Legend Hotel
+Allahabad	"Vinayak City Centre Mall, Civil Lines"
+Amravati	Ambapeth
+Amravati	Arjun Nagar
+Amravati	Dastur Nagar
+Amravati	Gopal Nagar
+Amravati	Guruchhaya Colony
+Amravati	Hazrat Bilal Nagar
+Amravati	Juni Basti
+Amravati	Maltekedi
+Amravati	Nai Basti
+Amravati	Navsaari
+Amravati	Sai Nagar
+Amravati	Sharda Vihar
+Amravati	Siddhivinayak Nagar
+Amravati	Transport Nagar
+Amravati	Yogiraj Nagar
+Amritsar	Amritsar Cantonment
+Amritsar	Amritsar Junction
+Amritsar	"AplhaOne Mall, GT Road"
+Amritsar	"Avaas Lifestyle Hotel, Lawrence Road"
+Amritsar	Azad Nagar
+Amritsar	Basant Nagar
+Amritsar	"Best Western Merrion Hotel, Ranjit Avenue"
+Amritsar	"Country Inn & Suites, INA Colony"
+Amritsar	GNDU Area
+Amritsar	"Golden Tulip, Rani Ka Bagh"
+Amritsar	GT Road
+Amritsar	Hathi Gate
+Amritsar	"Holiday Inn, Ranjit Avenue"
+Amritsar	"Hotel Grand, White Avenue"
+Amritsar	"Hotel Midtown, GT Road"
+Amritsar	"Hotel Ritz Plaza, Mall Road"
+Amritsar	"Hotel Sawera Grand, Town Hall"
+Amritsar	INA Colony
+Amritsar	Kabir Park
+Amritsar	Lawrence Road
+Amritsar	Mall Road
+Amritsar	Maquboolpura
+Amritsar	Mohan Nagar
+Amritsar	"Radisson BLU Hotel, Anjala Road"
+Amritsar	Rani Ka Bagh
+Amritsar	Ranjit Avenue
+Amritsar	Ranjit Nagar
+Amritsar	Shakti Nagar
+Amritsar	Shastri Nagar
+Amritsar	Taj Swarna
+Amritsar	Town Hall
+Amritsar	"Trillium Mall, White Avenue"
+Amritsar	White Avenue
+Aurangabad	Akashwani
+Aurangabad	"Ambassador Ajanta, CIDCO"
+Aurangabad	Anand Nagar
+Aurangabad	Chikalthana
+Aurangabad	CIDCO
+Aurangabad	Delhi Gate Area
+Aurangabad	Gadia Vihar
+Aurangabad	Gulmandi
+Aurangabad	Harsul
+Aurangabad	"Hotel Bagga International, Akashwani"
+Aurangabad	"Hotel Green Olive, Nirala Bazar"
+Aurangabad	"Hotel Keys The Aures, Vedant Nagar"
+Aurangabad	"Hotel Manor, Usmanpura"
+Aurangabad	"HotelAMarpreet, Mondha"
+Aurangabad	Jaswantpura
+Aurangabad	"Lemon Tree Hotel, Chicalthana"
+Aurangabad	MIDC
+Aurangabad	Mondha
+Aurangabad	Mukundwadi
+Aurangabad	Nirala Bazar
+Aurangabad	Nyay Nagar
+Aurangabad	"Prozone Mall, Chicalthana"
+Aurangabad	Shahgunj
+Aurangabad	Sindhi Colony
+Aurangabad	The Skycourt Hotel
+Aurangabad	Ulkanagari
+Aurangabad	Usmanpura
+Aurangabad	Vedant Nagar
+Aurangabad	"VITS Hotel, Vedant Nagar"
+Aurangabad	"Vivanta by Taj, CIDCO"
+Aurangabad	Waluj
+Aurangabad	"WelcomHotel Rama International, CIDCO"
+Bangalore	" Taj Bangalore, International Airport"
+Bangalore	" Zone By The Park, Electronic City"
+Bangalore	"1 MG Road Mall, MG Road"
+Bangalore	153 Biere Street
+Bangalore	"Aloft Bengaluru Cessna Business Park, Bellandur"
+Bangalore	"Aloft Hotel, Whitefield"
+Bangalore	"Amoeba Complex, Brigade Road"
+Bangalore	Angsana Hotels & Resorts
+Bangalore	"Ascendas Park Square, Whitefield"
+Bangalore	Banashankari
+Bangalore	Banaswadi
+Bangalore	"Bangalore Central, Bellandur"
+Bangalore	"Bangalore Central, JP Nagar"
+Bangalore	Bannerghatta Road
+Bangalore	Barton Centre
+Bangalore	Basavanagudi
+Bangalore	Basaveshwara Nagar
+Bangalore	Bellandur
+Bangalore	Bengaluru Marriott Hotel Whitefield
+Bangalore	"BluPetal Hotel, Koramangala"
+Bangalore	Bommanahalli
+Bangalore	Brigade Road
+Bangalore	Brookefield
+Bangalore	"Brookefields Mall, Brookefield"
+Bangalore	BTM
+Bangalore	"By The Way, Electronic City"
+Bangalore	"Casa de Bengaluru, Koramangala"
+Bangalore	Church Street
+Bangalore	Citadel Hotel
+Bangalore	Citrus Hotels
+Bangalore	"Citrus Hotels, Cunningham Road"
+Bangalore	City Market
+Bangalore	"Comfort Inn Insys, Yeshwantpur"
+Bangalore	Commercial Street
+Bangalore	"Conrad Bengaluru, Ulsoor"
+Bangalore	"Courtyard by Marriott Bengaluru, Hebbal"
+Bangalore	Cunningham Road
+Bangalore	CV Raman Nagar
+Bangalore	"D and N Enterprises, Marathahalli"
+Bangalore	"Davanam Sarovar Portico Suites, Hosur Road"
+Bangalore	Domlur
+Bangalore	"DoubleTree Suites By Hilton, Sarjapur Road"
+Bangalore	"Eat Street, Koramangala 6th Block"
+Bangalore	Eden Park Restaurants
+Bangalore	Ejipura
+Bangalore	Electronic City
+Bangalore	"Elements Mall, Nagawara"
+Bangalore	"Escape Hotel & Spa, Indiranagar"
+Bangalore	"Eva Mall, Brigade Road"
+Bangalore	"Fairfield by Marriott,Rajajinagar "
+Bangalore	"Fortune Select Trinity, Whitefield"
+Bangalore	"Forum Mall, Koramangala"
+Bangalore	"Forum Neighbourhood Mall, Whitefield"
+Bangalore	"Four Seasons Hotel, RT Nagar"
+Bangalore	Frazer Town
+Bangalore	"Garuda Mall, Magrath Road"
+Bangalore	"Garuda Swagath Mall, Jayanagar"
+Bangalore	"Gilly's Redefined, Koramangala 4th Block"
+Bangalore	"Gokulam Grand Hotel & Spa, New BEL Road"
+Bangalore	"Goldfinch Retreat, International Airport"
+Bangalore	"Gopalan Arcade, Rajarajeshwari Nagar"
+Bangalore	"Gopalan Innovation Mall, Bannerghatta"
+Bangalore	"Gopalan Signature Mall, Old Madras Road"
+Bangalore	Grand Mercure
+Bangalore	"GT World Mall, Magadi Road"
+Bangalore	HBR Layout
+Bangalore	Hebbal
+Bangalore	Hennur
+Bangalore	"Hilton Bangalore Embassy GolfLinks, Domlur"
+Bangalore	Hosur Road
+Bangalore	"Hotel Chalukya, Race Course Road"
+Bangalore	Hotel La Classic
+Bangalore	Hotel Ramanashree
+Bangalore	"Hotel Southern Star, Lavelle Road"
+Bangalore	Howard Johnson Bengaluru Hebbal
+Bangalore	HSR
+Bangalore	"Hyatt Centric, MG Road"
+Bangalore	Indiranagar
+Bangalore	Infantry Road
+Bangalore	"Inorbit Mall, Whitefield"
+Bangalore	International Airport
+Bangalore	ITC Gardenia
+Bangalore	ITC Windsor
+Bangalore	"ITPL Main Road, Whitefield"
+Bangalore	Jakkur
+Bangalore	Jalahalli
+Bangalore	"Jayamahal Palace Hotel, Frazer Town"
+Bangalore	Jayanagar
+Bangalore	Jeevan Bhima Nagar
+Bangalore	JP Nagar
+Bangalore	"JW Marriott Bengaluru, Lavelle Road"
+Bangalore	Kaggadasapura
+Bangalore	Kalyan Nagar
+Bangalore	Kammanahalli
+Bangalore	Kanakapura Road
+Bangalore	Kempegowda International Airport
+Bangalore	Kengeri
+Bangalore	Keys Hotel - Electronic City
+Bangalore	Keys Hotel - Whitefield
+Bangalore	Koramangala 1st Block
+Bangalore	Koramangala 3rd Block
+Bangalore	Koramangala 4th Block
+Bangalore	Koramangala 5th Block
+Bangalore	Koramangala 6th Block
+Bangalore	Koramangala 7th Block
+Bangalore	Koramangala 8th Block
+Bangalore	KR Puram
+Bangalore	"Krishna Kuteer, HSR"
+Bangalore	Kumaraswamy Layout
+Bangalore	La Marvella Hotel
+Bangalore	Langford Town
+Bangalore	Lavelle Road
+Bangalore	"Le Meridien, Sankey Road"
+Bangalore	Lemon Tree Hotel Electronic City
+Bangalore	"Lemon Tree Hotel, Whitefield"
+Bangalore	"Lemon Tree Premier, Ulsoor"
+Bangalore	"Lido Mall, Ulsoor"
+Bangalore	Magadi Road
+Bangalore	Majestic
+Bangalore	Malleshwaram
+Bangalore	"Mantri Square, Malleshwaram"
+Bangalore	Marathahalli
+Bangalore	MG Road
+Bangalore	MGM Mark Whitefield
+Bangalore	"Miraya Hotel & Residences, Whitefield"
+Bangalore	"More MegaStore, Marathahalli"
+Bangalore	Mysore Road
+Bangalore	Nagarbhavi
+Bangalore	Nagawara
+Bangalore	New BEL Road
+Bangalore	"Novotel Bengaluru, Marathahalli"
+Bangalore	Old Airport Road
+Bangalore	Old Madras Road
+Bangalore	"OPUS, Sarjapur Road"
+Bangalore	"Orion East, Banaswadi"
+Bangalore	"Orion Mall, Malleshwaram"
+Bangalore	Peenya
+Bangalore	"Phoenix Market City Mall, Whitefield"
+Bangalore	"Pyramid Food Court, Embassy Golf Links "
+Bangalore	"Quality Inn - Shravanthi,"
+Bangalore	Race Course Road
+Bangalore	Radha Hometel
+Bangalore	"Radha Regent Bengaluru, Electronic City"
+Bangalore	Radisson Blu Atria
+Bangalore	"Radisson Blu, Marathahalli"
+Bangalore	Rajajinagar
+Bangalore	Rajarajeshwari Nagar
+Bangalore	Rammurthy Nagar
+Bangalore	"Renaissance Hotel, Race Course Road"
+Bangalore	Residency Road
+Bangalore	"RG Royal Hotels, Yeshwantpur"
+Bangalore	Richmond Road
+Bangalore	"Royal Meenakshi Mall, Bannerghatta Road"
+Bangalore	"Royal Orchid Hotel,  Old Airport Road"
+Bangalore	RT Nagar
+Bangalore	Sadashiv Nagar
+Bangalore	Sahakara Nagar
+Bangalore	Sanjay Nagar
+Bangalore	Sarjapur Road
+Bangalore	Seshadripuram
+Bangalore	"Shangri-La Hotel, Vasanth Nagar "
+Bangalore	Shanti Nagar
+Bangalore	Sheraton Grand Bangalore Hotel at Brigade Gateway
+Bangalore	"Sheraton Grand Bengaluru, Whitefield"
+Bangalore	"Sigma Mall, Cunningham Road"
+Bangalore	"Skywalk, Ulsoor"
+Bangalore	"Soul Space Arena Mall, Marathahalli"
+Bangalore	"St Marks Hotel, MG Road"
+Bangalore	St. Marks Road
+Bangalore	Sterlings Mac Hotel
+Bangalore	"Svenska Design Hotel, Electronic City"
+Bangalore	Taj Yeshwantpur
+Bangalore	"Taj, MG Road"
+Bangalore	"The Chancery Hotel, Lavelle Road"
+Bangalore	"The Chancery Pavilion, Residency Road"
+Bangalore	"The Den, Whitefield"
+Bangalore	"The Gateway Hotel, Residency Road"
+Bangalore	"The Lalit Ashok Bangalore, Seshadripuram"
+Bangalore	"The Leela Palace, Old Airport Road"
+Bangalore	"The Oberoi, MG Road"
+Bangalore	"The Oterra, Hosur Road"
+Bangalore	"The Park, MG Road"
+Bangalore	"The Paul, Ring Road"
+Bangalore	"The President Hotel, Jayanagar"
+Bangalore	The Pride Hotel
+Bangalore	The Ritz-Carlton
+Bangalore	"The Taj West End, Race Course Road"
+Bangalore	The Zuri Hotels
+Bangalore	Thippasandra
+Bangalore	"Torq03, Marathahalli"
+Bangalore	UB City
+Bangalore	Ulsoor
+Bangalore	Uttarahalli
+Bangalore	"Varthur Main Road, Whitefield"
+Bangalore	Vasanth Nagar
+Bangalore	"Vega City, Bannerghatta Road"
+Bangalore	Vijay Nagar
+Bangalore	"Virginia Mall, Whitefield"
+Bangalore	Vivanta Whitefield
+Bangalore	"VR Bengaluru, Whitefield"
+Bangalore	WelcomHotel
+Bangalore	Whitefield
+Bangalore	Wilson Garden
+Bangalore	Windmills Craftworks
+Bangalore	"Woodlands Hotel, Richmond Road"
+Bangalore	Yelahanka
+Bangalore	Yeshwantpur
+Bhopal	"Aashima Mall, Hoshangabad Road"
+Bhopal	Airport Area
+Bhopal	Arera Colony
+Bhopal	Aura Mall
+Bhopal	BHEL
+Bhopal	"C 21 Mall, Gulmohar Colony"
+Bhopal	"Courtyard By Marriot, Maharana Pratap Nagar"
+Bhopal	"Courtyard Marriot, Maharana Pratap Nagar"
+Bhopal	"DB City, Maharana Pratap Nagar"
+Bhopal	Gulmohar Colony
+Bhopal	Habib Ganj
+Bhopal	Hoshangabad Road
+Bhopal	"Hotel Ashoka Palace, TT Nagar"
+Bhopal	"Hotel Jehan Numa Palace, TT Nagar"
+Bhopal	"Hotel Noor Us Sabah, Koefiza"
+Bhopal	"Hotel Residency, Maharana Pratap Nagar"
+Bhopal	Hotel Sangam
+Bhopal	Jhangirabad
+Bhopal	JP Nagar
+Bhopal	Kajlas
+Bhopal	Kohefiza
+Bhopal	Kolar
+Bhopal	Maharana Pratap Nagar
+Bhopal	Peer Gate Area
+Bhopal	Sayaji Hotel
+Bhopal	TT Nagar
+Bhubaneshwar	Ashok Nagar
+Bhubaneshwar	Bapuji Nagar
+Bhubaneshwar	Baramunda
+Bhubaneshwar	BJB Nagar
+Bhubaneshwar	"BMC Bhawani Mall, Sahid Nagar"
+Bhubaneshwar	Chandrasekharpur
+Bhubaneshwar	"Empires Hotel, Sahid Nagar"
+Bhubaneshwar	Forest Park
+Bhubaneshwar	"Fortune Park Sishmo, Bapuji Nagar"
+Bhubaneshwar	Gajapati Nagar
+Bhubaneshwar	"Hotel By The Way, Patia"
+Bhubaneshwar	"Hotel Deepali International, Lakshmi Sagar"
+Bhubaneshwar	"Hotel Hindustan International, Kharabela Nagar"
+Bhubaneshwar	"Hotel Pushpak, Lakshmi Sagar"
+Bhubaneshwar	"Hotel Sambit Palace, Ashok Nagar"
+Bhubaneshwar	"Hotel Sandy's Tower, Gajapati Nagar"
+Bhubaneshwar	"Hotel Seetal, Sahid Nagar"
+Bhubaneshwar	"Hotel Suryansh, Chandrasekharpur"
+Bhubaneshwar	"Hotel Swosti, Kharabela Nagar"
+Bhubaneshwar	Jagmohan Nagar
+Bhubaneshwar	Jatni
+Bhubaneshwar	Jayadev Vihar
+Bhubaneshwar	Kalinga Nagar
+Bhubaneshwar	"Keshari Hotel, Kharabela Nagar"
+Bhubaneshwar	Khandagiri
+Bhubaneshwar	Kharabela Nagar
+Bhubaneshwar	Lakshmi Sagar
+Bhubaneshwar	"Mayfair Lagoon, Jayadev Vihar"
+Bhubaneshwar	Nayapalli
+Bhubaneshwar	"New Marrion Hotel, Kharabela Nagar"
+Bhubaneshwar	"Pal Heights, Jayadev Vihar"
+Bhubaneshwar	Patia
+Bhubaneshwar	Patrapada
+Bhubaneshwar	"Prangan by Mango Hotel, Lakshmi Sagar"
+Bhubaneshwar	Rasulgarh
+Bhubaneshwar	Sahid Nagar
+Bhubaneshwar	Satya Nagar
+Bhubaneshwar	"Sun Green, Satya Nagar"
+Bhubaneshwar	Surya Nagar
+Bhubaneshwar	"Swosti Premium, Jayadev Vihar"
+Bhubaneshwar	"The Crown, Nayapalli"
+Bhubaneshwar	"The Royale Midtown, Ashok Nagar"
+Bhubaneshwar	"Trident Bhubaneshwar, Nayapalli"
+Bhubaneshwar	Unit 4
+Bhubaneshwar	"VITS Hotel, Lakshmi Sagar"
+Chandigarh	Bazaar by Peddlers
+Chandigarh	Chandigarh Industrial Area
+Chandigarh	"City Emporium Mall, Chandigarh Industrial Area"
+Chandigarh	"DLF City Centre, IT Park"
+Chandigarh	"Elante Mall, Chandigarh Industrial Area"
+Chandigarh	"Hotel Aquamarine, Sector 22"
+Chandigarh	"Hotel Aroma Complex, Sector 22 Chandigarh"
+Chandigarh	"Hotel Aroma, Sector 22"
+Chandigarh	"Hotel City Heart Premium, Sector 17, Chandigarh"
+Chandigarh	"Hotel Heritage, Sector 35"
+Chandigarh	"Hotel Hometel, Chandigarh Industrial Area"
+Chandigarh	"Hotel Icon, Sector 8"
+Chandigarh	"Hotel KLG International, Sector 43"
+Chandigarh	"Hotel Metro 35, Sector 35"
+Chandigarh	"Hotel Mountview, Sector 10"
+Chandigarh	"Hotel Parkview, Sector 24"
+Chandigarh	"Hotel President, Sector 26, Chandigarh"
+Chandigarh	"Hotel Shivalik View, Sector 17"
+Chandigarh	"Hotel Sunbeam, Sector 22 "
+Chandigarh	"Hotel Turquoise, Chandigarh Industrial Area"
+Chandigarh	"Hyatt Regency, Chandigarh Industrial Area"
+Chandigarh	"Inner Market, Sector 8 B, Chandigarh"
+Chandigarh	"Inner market, Sector 9 D, Chandigarh"
+Chandigarh	IT Park
+Chandigarh	"James Hotel, Sector 17"
+Chandigarh	"JW Marriott, Sector 35 B"
+Chandigarh	"Lemon Tree Hotel, Chandigarh Industrial Area, Chandigarh"
+Chandigarh	Manimajra
+Chandigarh	"Piccadily Square Mall, Chandigarh"
+Chandigarh	Sector 10
+Chandigarh	Sector 11
+Chandigarh	Sector 14
+Chandigarh	Sector 15
+Chandigarh	Sector 16
+Chandigarh	Sector 17
+Chandigarh	Sector 18
+Chandigarh	Sector 19
+Chandigarh	Sector 21
+Chandigarh	Sector 22
+Chandigarh	Sector 23
+Chandigarh	Sector 24
+Chandigarh	Sector 26
+Chandigarh	Sector 27
+Chandigarh	Sector 28
+Chandigarh	Sector 30
+Chandigarh	Sector 32
+Chandigarh	Sector 34
+Chandigarh	Sector 35
+Chandigarh	Sector 36
+Chandigarh	Sector 37
+Chandigarh	Sector 38
+Chandigarh	Sector 40
+Chandigarh	Sector 42
+Chandigarh	Sector 43
+Chandigarh	Sector 44
+Chandigarh	Sector 46
+Chandigarh	Sector 47
+Chandigarh	Sector 7
+Chandigarh	Sector 8
+Chandigarh	Sector 9
+Chandigarh	"Student Center, Punjab University"
+Chandigarh	"Taj Chandigarh, Sector 17"
+Chandigarh	"The Altius Boutique Hotel, Chandigarh Industrial Area"
+Chandigarh	"The Fern Residency, Chandigarh Industrial Area"
+Chandigarh	"The First Hotel, Sector 43 Chandigarh"
+Chandigarh	"The Jullundar Hotel, Sector 22"
+Chandigarh	"The Lalit Chandigarh, IT Park"
+Chandigarh	The Pearl Hotel
+Chandigarh	"The Piccadily Hotel, Sector 22 B"
+Chandigarh	"The Toy Hotel, Sector 34"
+Chennai	" InterContinental Chennai Mahabalipuram Resort, East Coast Road "
+Chennai	Abhiramapuram
+Chennai	"Abu Sarovar Portico, Egmore"
+Chennai	Adambakkam
+Chennai	Adyar
+Chennai	Akkarai
+Chennai	Alandur
+Chennai	"Aloft Chennai, Sholinganallur"
+Chennai	Alwarpet
+Chennai	"Ambassador Pallava, Egmore"
+Chennai	Ambattur
+Chennai	"Ambica Empire, Vadapalani"
+Chennai	"Ambit IT Park,AMbattur"
+Chennai	Aminijikarai
+Chennai	"Ampa Skywalk Mall,AMinijikarai"
+Chennai	Anna Nagar East
+Chennai	Anna Nagar West
+Chennai	Anna Salai
+Chennai	Arumbakkam
+Chennai	"Ascendas IT Park, Taramani"
+Chennai	Ashok Nagar
+Chennai	Avadi
+Chennai	"Benzz Park, T. Nagar"
+Chennai	Besant Nagar
+Chennai	"BKR Grand Hotel, T. Nagar"
+Chennai	Chengalpattu
+Chennai	"Chennai Citi Centre, Mylapore"
+Chennai	"Chennai Food Town, Thuraipakkam"
+Chennai	Chetpet
+Chennai	Choolaimedu
+Chennai	Chromepet
+Chennai	Citadines
+Chennai	"Clarion Hotel, Mylapore"
+Chennai	"Courtyard by Marriott, Teynampet"
+Chennai	"Crowne Plaza Chennai Adyar Park, Alwarpet"
+Chennai	"Dash@OMR, Old Mahabalipuram Road "
+Chennai	"Days Hotel, Old Mahabalipuram Road "
+Chennai	"Deccan Plaza, Royapettah"
+Chennai	East Coast Road 
+Chennai	Egatoor
+Chennai	Egmore
+Chennai	Ekkaduthangal
+Chennai	Eldoris
+Chennai	"Express Avenue Mall,  Royapettah"
+Chennai	"Fairfield by Marriot, Chengalpattu"
+Chennai	"Feathers, A Radha Hotel"
+Chennai	"Food Zone, Kilpauk"
+Chennai	Foodies Kitchen
+Chennai	"Fortune Select Grand, Chengalpattu"
+Chennai	"Forum Vijaya Mall, Vadapalani"
+Chennai	"Four Points by Sheraton, East Coast Road "
+Chennai	George Town
+Chennai	"GLM Meridian Hotel, T. Nagar"
+Chennai	"Gokulam Park Sabari - OMR, Old Mahabalipuram Road "
+Chennai	Gopalapuram
+Chennai	Grand by GRT Hotels
+Chennai	"Grand Galada Mall, Meenambakkam"
+Chennai	"Grand Residence Hotel, Porur"
+Chennai	Grande Bay Resort
+Chennai	"Green Meadows Resorts, Palavakkam"
+Chennai	"Green Park Hotel, Vadapalani"
+Chennai	"GRT Regency, Kanchipuram "
+Chennai	GST Road
+Chennai	Guindy
+Chennai	"Hablis Hotel, Guindy"
+Chennai	"Harrisons Hotel, Nungambakkam"
+Chennai	"Hilton Chennai, Guindy"
+Chennai	Holiday Inn Chennai OMR IT Expressway
+Chennai	"Hotel Abu Palace, Egmore"
+Chennai	"Hotel Bhimaas, Vadapalani"
+Chennai	"Hotel Centre Point, Sholinganallur"
+Chennai	"Hotel Fortel, Egmore"
+Chennai	"Hotel Mamallaa Heritage, East Coast Road "
+Chennai	"Hotel Marina Inn, Egmore"
+Chennai	"Hotel Maris, Gopalapuram"
+Chennai	"Hotel Palmgrove, Nungambakkam"
+Chennai	"Hotel Park Elanza, Nungambakkam"
+Chennai	"Hotel Poigai, Arumbakkam"
+Chennai	"Hotel Radha Regent, Arumbakkam"
+Chennai	"Hotel Raj Palace, T. Nagar"
+Chennai	"Hotel Rajpark, Alwarpet"
+Chennai	"Hotel Ranjith, Nungambakkam"
+Chennai	"Hotel Shelter, Mylapore"
+Chennai	"Hotel Vassi Palaze, Kanchipuram District"
+Chennai	"Hyatt Regency, Teynampet"
+Chennai	"IBIS Hotel, Old Mahabalipuram Road "
+Chennai	Injambakkam
+Chennai	"Ispahani Centre, Nungambakkam"
+Chennai	"ITC Grand Chola, Guindy"
+Chennai	"JP Hotel, Koyambedu"
+Chennai	K.K. Nagar
+Chennai	Kanathur
+Chennai	Kanchipuram District
+Chennai	Karapakkam
+Chennai	Kelambakkam
+Chennai	"Keys Hotel, Thiruvanmiyur"
+Chennai	Kilpauk
+Chennai	"Kipling, East Coast Road "
+Chennai	Kodambakkam
+Chennai	Kolathur
+Chennai	Kottivakkam
+Chennai	Kotturpuram
+Chennai	Kovalam
+Chennai	Koyambedu
+Chennai	"La Woods Hotel, Thousand Lights"
+Chennai	"Le Royal Meridien, St. Thomas Mount"
+Chennai	"Lemon Tree Hotel, Guindy"
+Chennai	"Lemon Tree Shimona, Ramapuram"
+Chennai	Madhavaram
+Chennai	Madipakkam
+Chennai	Maduravoyal
+Chennai	Mahabalipuram
+Chennai	"Mahindra World City, Chengalpattu"
+Chennai	Mandaveli
+Chennai	"Massbunk Complex, Purasavakkam"
+Chennai	"Mayajaal Multiplex, Kanathur"
+Chennai	Medavakkam
+Chennai	Meenambakkam
+Chennai	Mogappair
+Chennai	MRC Nagar
+Chennai	Muttukadu
+Chennai	Mylapore
+Chennai	Nandanam
+Chennai	Nanganallur
+Chennai	Navallur
+Chennai	Neelangarai
+Chennai	"New Woodlands Hotel, Mylapore"
+Chennai	Novotel Chennai Sipcot
+Chennai	"Novotel Chennai, OMR"
+Chennai	Nungambakkam
+Chennai	Okkiyampet
+Chennai	Old Mahabalipuram Road 
+Chennai	"OMR Food Street, Guduvancheri"
+Chennai	"OMR Food Street, Injambakkam"
+Chennai	"OMR Food Street, Kandanchavadi"
+Chennai	"OMR Food Street, Navallur"
+Chennai	"OMR Food Street,AMbattur"
+Chennai	"Paati Veedu, T.Nagar"
+Chennai	Padur
+Chennai	Palavakkam
+Chennai	Pallavaram
+Chennai	Pallikaranai
+Chennai	"Park Hyatt, Guindy"
+Chennai	Park Town
+Chennai	Parrys
+Chennai	Perambur
+Chennai	Perungudi
+Chennai	"Phoenix Market City, Velachery"
+Chennai	Poonamalle
+Chennai	Porur
+Chennai	Potheri
+Chennai	Purasavakkam
+Chennai	"Quality Inn Sabari, T. Nagar"
+Chennai	RA Puram
+Chennai	"Radisson Blu Temple Bay, Mamallapuram"
+Chennai	"Radisson Blu, Egmore"
+Chennai	"Radisson Blu, GST Road"
+Chennai	"Ramada Plaza, Guindy"
+Chennai	"Ramada, Egmore"
+Chennai	Ramapuram
+Chennai	Red Hills
+Chennai	Royapettah
+Chennai	Royapuram
+Chennai	"Saaral Residency, Mogappair"
+Chennai	Saidapet
+Chennai	Saligramam
+Chennai	Santhome
+Chennai	"Sathyam Cinemas Complex, Royapettah"
+Chennai	Selaiyur
+Chennai	Semmancheri
+Chennai	Shenoy Nagar
+Chennai	"Sheraton Grand, Neelangarai"
+Chennai	Sholinganallur
+Chennai	Somerset Greenways
+Chennai	Sowcarpet
+Chennai	"Spencer Plaza Mall, Thousand Lights"
+Chennai	St. Thomas Mount
+Chennai	T. Nagar
+Chennai	"Taj Club House, Thousand Lights"
+Chennai	"Taj Coromandel, Nungambakkam"
+Chennai	"Taj Fisherman's Cove Resort & Spa, Kanchipuram District"
+Chennai	Tambaram
+Chennai	Taramani
+Chennai	Teynampet
+Chennai	"The Accord Metropolitan, T. Nagar"
+Chennai	"The Checkers Hotel, Saidapet"
+Chennai	"The Grand Mall, Velachery"
+Chennai	"The Hotel Royal Plaza, Koyambedu"
+Chennai	"The Leela Palace, MRC Nagar"
+Chennai	"The Park, Nungambakkam"
+Chennai	"The Raintree, Alwarpet"
+Chennai	"The Raintree, Teynampet"
+Chennai	"The Residency Towers, T. Nagar"
+Chennai	"The Residency, T. Nagar"
+Chennai	"The Savera Hotel, RK Salai "
+Chennai	The Slate
+Chennai	"The Spring Hotel, Nungambakkam"
+Chennai	"The Westin Chennai, Velachery"
+Chennai	Thiruvallur
+Chennai	Thiruvanmiyur
+Chennai	Thousand Lights
+Chennai	Thuraipakkam
+Chennai	"TNHB Complex, Besant Nagar"
+Chennai	"Trident, GST Road"
+Chennai	Triplicane
+Chennai	Turyaa Chennai 
+Chennai	V7 Hotel
+Chennai	Vadapalani
+Chennai	Valasaravakkam
+Chennai	Velachery
+Chennai	Vepery
+Chennai	Vettuvankeni
+Chennai	Virugambakkam
+Chennai	"Vivanta Chennai, IT Expressway, Sholinganallur "
+Chennai	"Vivira Mall, Navallur"
+Chennai	"VR Mall, Anna Nagar"
+Chennai	Washermenpet
+Chennai	"WelcomHotel, RK Salai "
+Chennai	West Mambalam
+Chennai	"Zone by The Park, Pallikaranai"
+Coimbatore	Agriculture Univeristy
+Coimbatore	"Brookefields Mall, RS Puram"
+Coimbatore	Chinniayam palayam
+Coimbatore	"Fun Republic Mall, Avinashi Road"
+Coimbatore	Ganapathy
+Coimbatore	Gandhipuram
+Coimbatore	"Gokulam Park, Avinashi Road"
+Coimbatore	"Hotel Alankara Grand, Nehru Stadium"
+Coimbatore	Hotel Aloft Coimbatore
+Coimbatore	"Hotel Heritage Inn, Nehru Stadium"
+Coimbatore	"Hotel SBS Grand, Peelamedu"
+Coimbatore	"Hotel Vijay Park Inn, Nehru Stadium"
+Coimbatore	Kalapatti
+Coimbatore	Kavundampalayam
+Coimbatore	Lakshmi Mills
+Coimbatore	"Le Meridien, Neelambur"
+Coimbatore	Lemon Tree
+Coimbatore	Neelambur
+Coimbatore	Nehru Stadium
+Coimbatore	Ondipudur
+Coimbatore	Peelamedu
+Coimbatore	Podanur
+Coimbatore	"Prozone Mall, Ganapathy"
+Coimbatore	Race Course
+Coimbatore	"Radisson Blu, Peelamedu"
+Coimbatore	Ramanathapuram
+Coimbatore	RS Puram
+Coimbatore	Saibaba Colony
+Coimbatore	Saravanampatty
+Coimbatore	Singanallur
+Coimbatore	Sitra
+Coimbatore	Sivanadha Colony
+Coimbatore	"SMS Hotel, Peelamedu"
+Coimbatore	The Grand Regent
+Coimbatore	"The Orbis Hotel, Peelamedu"
+Coimbatore	"The Residency Hotel, Avinashi Road"
+Coimbatore	Thudiyalur
+Coimbatore	Town Hall
+Coimbatore	Ukkadam
+Coimbatore	Vadavalli
+Coimbatore	"Vijay Elanza Central, Peelamedu"
+Coimbatore	"Vivanta Coimbatore, Race Course"
+Coimbatore	Zone By The Park
+Cuttack	Bidanasi
+Cuttack	Bidhyadhapur
+Cuttack	Buxi Bazaar
+Cuttack	CDA Sector 6
+Cuttack	Kalyani Nagar
+Cuttack	Mal Godown Market
+Cuttack	Naya Bazaar
+Cuttack	Police Colony
+Cuttack	Siba Bazaar
+Cuttack	Sutahat
+Cuttack	Testing Group
+Darjeeling	Chauk Bazaar
+Darjeeling	Lebong
+Darjeeling	Limbugaon
+Dehradun	"Ashok Spa & Resorts, Morowala"
+Dehradun	Balliwala
+Dehradun	Ballupur
+Dehradun	Chironwali
+Dehradun	Chukkuwala
+Dehradun	"Crossroads Mall, Karanpur"
+Dehradun	Dharampur
+Dehradun	"Four Points by Sheraton, Jakhan"
+Dehradun	Garhi Cantt
+Dehradun	Hathibarkala Salwala
+Dehradun	"Hotel Doon Castle, Kaonli"
+Dehradun	"Hotel Gaurab, Paltan Bazaar"
+Dehradun	"Hotel Madhuban, Hathibarkala Salwala"
+Dehradun	"Hotel President, Karanpur"
+Dehradun	"Hotel Saurab, Paltan Bazaar"
+Dehradun	Jakhan
+Dehradun	Jogiwala
+Dehradun	Kaonli
+Dehradun	Karanpur
+Dehradun	Khurbura
+Dehradun	Krishna Nagar
+Dehradun	Laxman Chowk
+Dehradun	Majra
+Dehradun	Malsi
+Dehradun	Meedo Plaza
+Dehradun	Morowala
+Dehradun	"Pacific Mall, Jakhan"
+Dehradun	Paltan Bazaar
+Dehradun	Prem Nagar
+Dehradun	Race Course
+Dehradun	Raipur
+Dehradun	Rajpur
+Dehradun	Ramada Dehradun
+Dehradun	"Regenta LP Vilas, Prem Nagar"
+Dehradun	Subhash Nagar
+Dehradun	"The Solitaire, Dharampur"
+Dehradun	"Vikas Cinemall, Indira Nagar"
+Dharamshala	Chilgari
+Dharamshala	Gamru
+Dharamshala	Mcleodganj
+Dharamshala	Ram Nagar
+Dharamshala	Shyam Nagar
+Faridabad	Badarpur Border
+Faridabad	Badkal Lake
+Faridabad	Charmwood Village
+Faridabad	"Crown Interiorz Mall, Sector 35, Faridabad"
+Faridabad	NIT
+Faridabad	"Park Plaza, Sector 21, Faridabad"
+Faridabad	"Parsavnath City Mall, Sector 12, Faridabad"
+Faridabad	"Radisson Blu Faridabad, Sector 20, Faridabad"
+Faridabad	Sector 10
+Faridabad	Sector 12
+Faridabad	Sector 14
+Faridabad	Sector 15
+Faridabad	Sector 16
+Faridabad	Sector 17
+Faridabad	Sector 19
+Faridabad	Sector 20
+Faridabad	Sector 21
+Faridabad	Sector 29
+Faridabad	Sector 31
+Faridabad	Sector 37
+Faridabad	Sector 42
+Faridabad	Sector 55
+Faridabad	Sector 8
+Faridabad	Sector 81
+Faridabad	Sector 86
+Faridabad	"Vivanta by Taj, Suraj Kund"
+Gandhinagar	Airport Gandhinagar Highway
+Gandhinagar	"Chopati, Sector 16"
+Gandhinagar	"Fortune Inn Haveli Restaurant, Sector 11, Gandhinagar"
+Gandhinagar	Infocity
+Gandhinagar	Sector 11
+Gandhinagar	Sector 16
+Gandhinagar	Sector 21
+Gandhinagar	Sector 25
+Gandhinagar	Sector 6
+Gandhinagar	"The Spicy Street Road, Airport Gandhinagar Highway"
+Gandhinagar	"The Spicy Street, Airport Gandhinagar Highway"
+Gangtok	Arithang
+Gangtok	Tadong
+Gangtok	Vishal Gaon
+Ghaziabad	"Aditya City Centre, Indirapuram"
+Ghaziabad	"Ansal Plaza Mall, Vaishali"
+Ghaziabad	Chander Nagar
+Ghaziabad	"Country Inn & Suites by Carlson, Sahibabad"
+Ghaziabad	Crossing Republik
+Ghaziabad	"Gaur Central  Mall, Raj Nagar"
+Ghaziabad	Govind Puram
+Ghaziabad	Indirapuram
+Ghaziabad	"Indirapuram Habitat Centre, Indirapuram"
+Ghaziabad	"Jaipuria Sunrise Plaza, Indirapuram"
+Ghaziabad	Kaushambi
+Ghaziabad	Kavi Nagar
+Ghaziabad	"Mahagun Metro Mall, Vaishali"
+Ghaziabad	Mohan Nagar
+Ghaziabad	Nehru Nagar
+Ghaziabad	"Pacific Mall, Sahibabad"
+Ghaziabad	"Panchsheel Square Mall, Crossing Republik"
+Ghaziabad	Pratap Vihar
+Ghaziabad	"Radisson Blu Hotel, Kaushambi"
+Ghaziabad	Raj Nagar
+Ghaziabad	Rajendar Nagar
+Ghaziabad	Sahibabad
+Ghaziabad	"Shipra Mall, Indirapuram"
+Ghaziabad	"Supertech Shopprix Mall, Vaishali"
+Ghaziabad	Vaishali
+Ghaziabad	Vasundhara
+Goa	 Pride Sun Village Resort and Spa Goa
+Goa	Agonda
+Goa	"Alila Diwa, Majorda"
+Goa	"Anantashram, Vasco"
+Goa	Anjuna
+Goa	"Anjuna Beach, Anjuna"
+Goa	Arambol
+Goa	"Arambol Beach, Arambol"
+Goa	Ashwem
+Goa	Assagao
+Goa	Baga
+Goa	"Baga Beach, Baga"
+Goa	Bambolim
+Goa	Benaulim
+Goa	Betalbatim
+Goa	Bicholim
+Goa	Bogmalo
+Goa	"Bogmalo Beach Resort, Bogmal"
+Goa	"Caculo Mall, Panaji "
+Goa	Calangute
+Goa	"Calangute Beach, Calangute"
+Goa	Candolim
+Goa	"Candolim Beach, Candolim"
+Goa	"Caravela Beach Resort, Salcette"
+Goa	Cavelossim
+Goa	Chicalim
+Goa	"Cidade de Goa, Panaji"
+Goa	Colva
+Goa	"Colva Beach, Colva"
+Goa	"Country Inn & Suites By Radisson, Candolim"
+Goa	"Delhi The Citadel, Vasco"
+Goa	"Deltin Royale, Panaji"
+Goa	"Deltin Suites, Nerul"
+Goa	"Dempo Towers, Panaji"
+Goa	"Double Tree by Hilton, Baga"
+Goa	"Fidalgo, Panaji"
+Goa	"Fortune Miramar, Panaji"
+Goa	"Gastronut, Panaji"
+Goa	"Gastronut, Porvorim"
+Goa	"Gera Imperium I, Panaji"
+Goa	"Goa Marriott Resort & Spa, Panaji"
+Goa	"Grand Hyatt, Bambolim"
+Goa	"Holiday Inn Resort, Salcette"
+Goa	"Hotel Fortune Select Regina, Candolim"
+Goa	"Hotel Nanutel, Margao"
+Goa	"Kenilworth Resort & Spa, Salcette"
+Goa	"La Paz, Vasco"
+Goa	"Le Méridien Goa, Calangute"
+Goa	"Lemon TreeAMarante, Candolim"
+Goa	Majorda
+Goa	"Mall De Goa, Penha De Franca"
+Goa	Mandrem
+Goa	Mapusa
+Goa	"Marbela Beach Resort, Arambol"
+Goa	Margao
+Goa	"Mobor Beach Resort, Salcette"
+Goa	Moira
+Goa	Morjim
+Goa	Nerul
+Goa	"Novotel Goa Dona Sylvia Resort Hotel, Salcette"
+Goa	"Novotel Goa Resorts & Spa, Candolim"
+Goa	"Novotel Goa Shrem Hotel, Candolim"
+Goa	Old Goa
+Goa	Palolem
+Goa	Panaji
+Goa	Penha de Franca
+Goa	Ponda
+Goa	Porvorim
+Goa	Quepem
+Goa	"Radisson Blu Resort, Salcette"
+Goa	"Royal Goan Beach Club, Salcette"
+Goa	"Silver Sands Holiday Village, Candolim"
+Goa	Siolim
+Goa	"Taj Exotica, Benaulim"
+Goa	"Taj Fort Aguada Resort & Spa, Candolim"
+Goa	"Taj Holiday Village Resort & Spa, Candolim"
+Goa	The Fern Kadamba
+Goa	"The HQ, Vasco"
+Goa	"The Lalit, Palolem"
+Goa	"The Leela, Salcette"
+Goa	"The O Hotel, Candolim"
+Goa	"The Park, Calangute"
+Goa	"The Zuri White Sands  Resort, Salcette"
+Goa	Vagator
+Goa	"Vagator Beach, Vagator"
+Goa	Vasco
+Goa	"Vivanta By Taj, Candolim"
+Goa	"Vivanta By Taj, Holiday Village, Candolim"
+Goa	"Vivanta Goa, Panaji"
+Goa	"W Goa, Vagator"
+Gorakhpur	Azad Nagar
+Gorakhpur	Bade Kajipur
+Gorakhpur	Basantpur
+Gorakhpur	Betiahata
+Gorakhpur	Bichhiya
+Gorakhpur	"City Mall, Golghar"
+Gorakhpur	Dayanand Nagar
+Gorakhpur	Fertilizer Colony
+Gorakhpur	Golghar
+Gorakhpur	Hussain Nagar
+Gorakhpur	Ilahi Bagh
+Gorakhpur	Jatepur
+Gorakhpur	Kawwa Bagh Colony
+Gorakhpur	Kunraghat
+Gorakhpur	Mirzapur Pachpedwa
+Gorakhpur	Miyan Baza
+Gorakhpur	Moharipur
+Gorakhpur	Mughala
+Gorakhpur	Nanda Nagar
+Gorakhpur	North Humayunpur
+Gorakhpur	Phase 3rd
+Gorakhpur	Rahmat Nagar
+Gorakhpur	Rajendra Nagar
+Gorakhpur	Ramjanki Nagar
+Gorakhpur	Rapti Nagar Phase 4
+Gorakhpur	Shahpur
+Gorakhpur	Shakti Nagar Colony
+Gorakhpur	Shatabdipuram
+Gorakhpur	Vikas Nagar
+Gorakhpur	Vishwakarmapuram
+Greater Noida	Alpha 1
+Greater Noida	Amrapali Dream Valley
+Greater Noida	Amrapali Leisure Valley
+Greater Noida	"Ansal Plaza Mall, Knowledge Park"
+Greater Noida	Beta 1
+Greater Noida	Beta 2
+Greater Noida	Delta 1
+Greater Noida	Gamma 1
+Greater Noida	Gaur City 1
+Greater Noida	Gaur City 2
+Greater Noida	Knowledge Park
+Greater Noida	"MSX Mall, Jaypee Greens, Greater Noida"
+Greater Noida	"Omaxe Connaught Place, Beta 2"
+Greater Noida	Omega 1
+Greater Noida	Omega 2
+Greater Noida	"The Grand Venice Mall, Jaypee Greens, Greater Noida"
+Greater Noida	Zeta 1
+Guntur	Agatha Varappadu
+Guntur	Amaravathi Road
+Guntur	AT Agraharam
+Guntur	Brodipet
+Guntur	Gandhi Nagar
+Guntur	Gorantla
+Guntur	Lakshmipuram
+Guntur	Old Guntur
+Guntur	Sitaram Nagar
+Guntur	Srinivasa Nagar Colony
+Guntur	Srinivasarao Pet
+Guntur	"The Capital Hotel, Brodipet"
+Gurgaon	" 32nd Avenue, NH8, Gurgaon"
+Gurgaon	" ILD Trade Centre Mall, Sohna Road"
+Gurgaon	"Ambience Mall, DLF Phase 3"
+Gurgaon	Ardee City
+Gurgaon	"Ardee Mall, Ardee City"
+Gurgaon	"Baani Square, Sector 50"
+Gurgaon	"Central Arcade, DLF Phase 2, Gurgaon"
+Gurgaon	"Central Plaza Mall, Golf Course Road"
+Gurgaon	"Clarens Hotel, Sector 29, Gurgaon"
+Gurgaon	"Country Inn & Suites by Carlson, Gurgaon"
+Gurgaon	"Courtyard by Marriott, Sushant Lok"
+Gurgaon	"Cross Point Mall, DLF Phase 4"
+Gurgaon	"Crowne Plaza, Sector 29"
+Gurgaon	"Cyber Greens, DLF Cyber City"
+Gurgaon	"Cyber Hub, DLF Cyber City"
+Gurgaon	DLF Cyber City
+Gurgaon	"DLF Galleria, DLF Phase 4"
+Gurgaon	DLF Phase 1
+Gurgaon	DLF Phase 2
+Gurgaon	DLF Phase 3
+Gurgaon	DLF Phase 4
+Gurgaon	DLF Phase 5
+Gurgaon	"DLF Star Mall, Sector 30"
+Gurgaon	"Elements One Mall, Sector 49"
+Gurgaon	"Eros City Square Mall, Sector 49, Gurgaon"
+Gurgaon	"Global Foyer Mall, Golf Course Road"
+Gurgaon	"Global Foyer, Palam Vihar"
+Gurgaon	Golf Course Road
+Gurgaon	"Good Earth City Center, Sector 50"
+Gurgaon	"Grand Mall, MG Road"
+Gurgaon	Gwal Pahari
+Gurgaon	"Hong Kong Bazaar Mall, Sector 57, Gurgaon"
+Gurgaon	"Huda City Centre Metro Station, Sector 29, Gurgaon"
+Gurgaon	"IBIS Hotel, Golf Course Road"
+Gurgaon	"Kingdom of Dreams, Sector 29"
+Gurgaon	"Le Meridien Gurgaon, MG Road"
+Gurgaon	Manesar
+Gurgaon	"Mega Mall, DLF Phase 1"
+Gurgaon	MG Road
+Gurgaon	"MGF Mega City Mall, MG Road"
+Gurgaon	"MGF Metropolis Mall, MG Road"
+Gurgaon	"MGF Metropolitan Mall, MG Road"
+Gurgaon	"Ninex City Mart Mall, Sohna Road"
+Gurgaon	"Nirvana Courtyard, Sector 50"
+Gurgaon	Old Railway Road
+Gurgaon	Omaxe City Centre
+Gurgaon	Omaxe Gurgaon Mall
+Gurgaon	"One Horizon Center, Golf Course Road"
+Gurgaon	Palam Vihar
+Gurgaon	"Park Plaza, Sushant Lok"
+Gurgaon	"PVR City Centre Mall, MG Road"
+Gurgaon	"Qutab Plaza, DLF Phase 1"
+Gurgaon	"Radisson, Udyog Vihar"
+Gurgaon	"Raheja Mall, Sohna Road"
+Gurgaon	"Ramada Gurgaon Central, Sector 44"
+Gurgaon	"Rodeo Drive, Sector 49, Gurgaon"
+Gurgaon	Sadar Bazar
+Gurgaon	"Sahara Mall, MG Road"
+Gurgaon	Sector 14
+Gurgaon	Sector 15
+Gurgaon	Sector 17
+Gurgaon	Sector 21
+Gurgaon	Sector 22
+Gurgaon	Sector 23
+Gurgaon	Sector 29
+Gurgaon	Sector 30
+Gurgaon	Sector 31
+Gurgaon	Sector 33
+Gurgaon	Sector 37
+Gurgaon	Sector 39
+Gurgaon	Sector 4
+Gurgaon	Sector 43
+Gurgaon	Sector 44
+Gurgaon	Sector 45
+Gurgaon	Sector 49
+Gurgaon	Sector 5
+Gurgaon	Sector 50
+Gurgaon	Sector 53
+Gurgaon	Sector 54
+Gurgaon	Sector 56
+Gurgaon	Sector 57
+Gurgaon	Sector 7
+Gurgaon	Sector 8
+Gurgaon	Sector 83
+Gurgaon	"Shopping Mall, DLF Phase 1"
+Gurgaon	Sikandarpur
+Gurgaon	Sohna Road
+Gurgaon	South City 1
+Gurgaon	South City 2
+Gurgaon	"South Point Mall, Golf Course Road"
+Gurgaon	"Suncity Business Tower, Golf Course Road"
+Gurgaon	"Supermart 1, DLF Phase 4"
+Gurgaon	"Supermart 2, DLF Phase 4"
+Gurgaon	Sushant Lok
+Gurgaon	"Sushant Shopping Arcade, Sushant Lok, Gurgaon"
+Gurgaon	"Taj City Centre Gurugram, Sector 44, Gurgaon"
+Gurgaon	"The Galaxy Hotel, Sector 15, Gurgaon"
+Gurgaon	"The LeelaAMbience, DLF Phase 3"
+Gurgaon	"The Oberoi, Udyog Vihar"
+Gurgaon	"The Sapphire Mall, Sector 49, Gurgaon"
+Gurgaon	"The Westin Gurgaon, Sector 29"
+Gurgaon	"Trident, Udyog Vihar"
+Gurgaon	"Two Horizon Center, Golf Course Road"
+Gurgaon	Udyog Vihar
+Gurgaon	"Unitech Cyber Park, Sector 39, Gurgaon"
+Gurgaon	"Unitech Infospace, Sector 21, Gurgaon"
+Gurgaon	"Vyapar Kendra, Palam Vihar"
+Guwahati	Amingaon
+Guwahati	"Anil Plaza, Christian Basti"
+Guwahati	Beltola
+Guwahati	Bhangagarh
+Guwahati	Bharalumukh
+Guwahati	Borjhar
+Guwahati	"Central Mall, Christian Basti"
+Guwahati	Chandmari
+Guwahati	Christian Basti
+Guwahati	"Cygnett Inn Repose, Bhangagarh"
+Guwahati	Dispur
+Guwahati	"Dona Planet Mall, Christian Basti"
+Guwahati	"Dynasty, Fancy Bazaar"
+Guwahati	Fancy Bazaar
+Guwahati	"Food Villa, Pan Bazaar"
+Guwahati	Ganeshguri
+Guwahati	"Ginger Hotel, Hengerabari"
+Guwahati	Hatigaon
+Guwahati	Hengerabari
+Guwahati	"Hotel Blue Moon, Uzan Bazaar"
+Guwahati	"Hotel Gateway Grandeur, Christian Basti"
+Guwahati	"Hotel Geetanjali, Paltan Bazaar"
+Guwahati	"Hotel Lilawati Grand, Pan Bazaar"
+Guwahati	"Hotel Nakshatra, Beltola"
+Guwahati	"Hotel Nandan, Paltan Bazaar"
+Guwahati	"Hotel President, Pan Bazaar"
+Guwahati	"Hotel Radisson Blu, Guwahati"
+Guwahati	"Hotel Rajdhani Regency, Dispur"
+Guwahati	"Hotel Rajmahal, Paltan Bazaar"
+Guwahati	Hotel Rodali Residency
+Guwahati	"Hotel Royal De Casa, Beltola"
+Guwahati	"Hotel Vandana, Paltan Bazaar"
+Guwahati	Jalukbari
+Guwahati	Kahilipara
+Guwahati	Kala Pahar
+Guwahati	Khanapara
+Guwahati	"Kiranshree Portico, Paltan Bazaar"
+Guwahati	"Landmark Hotel, Ulubari"
+Guwahati	Maligaon
+Guwahati	Narengi Tinali
+Guwahati	Paltan Bazaar
+Guwahati	Pan Bazaar
+Guwahati	"Paradise Hotel, Silpukhuri"
+Guwahati	"Pragati Manor, Christian Basti,"
+Guwahati	"Roodraksh Mall, Bhangagarh"
+Guwahati	Silpukhuri
+Guwahati	Six Mile
+Guwahati	"The Hub, Bhangagarh"
+Guwahati	Ulubari
+Guwahati	Uzan Bazaar
+Guwahati	"Vishwaratna Hotel, Paltan Bazar"
+Guwahati	"Vivanta By Taj, Khanapara"
+Guwahati	Zoo Tiniali
+Gwalior	Anand Nagar
+Gwalior	Birla Nagar
+Gwalior	City Center
+Gwalior	"DB City Mall, Birla Nagar"
+Gwalior	"DD City Mall, Lashkar"
+Gwalior	Deen Dayal Nagar
+Gwalior	Ghosipura
+Gwalior	Gulmohar City
+Gwalior	Kishanbagh
+Gwalior	Lashkar
+Gwalior	Lohamandi
+Gwalior	Madhav Ganj
+Gwalior	Mahalgaon
+Gwalior	Model Town
+Gwalior	Morar
+Gwalior	Naya Bazaar
+Gwalior	Prasad Nagar
+Gwalior	Shinde Ki Chhawani
+Gwalior	Shri Ram Colony
+Gwalior	Thatipur
+Gwalior	Vijaynagar
+Gwalior	Vinay Nagar
+Haridwar	BHEL Township
+Haridwar	Devpura
+Haridwar	Har Ki Pauri
+Haridwar	Jwalapur
+Haridwar	Kankhal
+Haridwar	"Radisson Blu, BHEL Township"
+Haridwar	Ranipur
+Haridwar	Salempur Mahdood
+Haridwar	Sitapur
+Haridwar	"The Pentagon Mall, BHEL Township"
+Howrah	Andul Road
+Howrah	"Avani Riverside Mall, Shibpur"
+Howrah	Belur
+Howrah	Dobson Road
+Howrah	"Forum Rangoli Mall, Liluah"
+Howrah	"Hotel Shivam, Howrah Station Area"
+Howrah	Howrah Station Area
+Howrah	Ichapur
+Howrah	Kadamtala
+Howrah	Kona Exp Way
+Howrah	Liluah
+Howrah	"Raghav Plaza, Dobson Road"
+Howrah	"Rangoli Mall, Liluah"
+Howrah	Salkia
+Howrah	Shibpur
+Hyderabad	" 800 Jubilee, Jubilee Hills"
+Hyderabad	"12th Square Building, Banjara Hills"
+Hyderabad	"Aalankrita Resort, Shamirpet"
+Hyderabad	Abids
+Hyderabad	"Accor Blue, Madhapur"
+Hyderabad	Adikmet
+Hyderabad	"Aditya Park ,AMeerpet"
+Hyderabad	Amberpet
+Hyderabad	Ameerpet
+Hyderabad	"Amrutha Castle, Khairatabad"
+Hyderabad	Attapur
+Hyderabad	Banjara Hills
+Hyderabad	Basheer Bagh
+Hyderabad	Begum Bazaar
+Hyderabad	Begumpet
+Hyderabad	Boduppal
+Hyderabad	Chanda Nagar
+Hyderabad	Chandrayanagutta
+Hyderabad	Charminar
+Hyderabad	"City Center Mall, Banjara Hills"
+Hyderabad	"Combos, Kukatpally"
+Hyderabad	Cusino Food Court
+Hyderabad	Dilsukhnagar
+Hyderabad	"Eat Street, Necklace Road"
+Hyderabad	"Ellaa Hotels, Gachibowli"
+Hyderabad	Falaknuma
+Hyderabad	Film Nagar
+Hyderabad	"Fortune Park Vallabha, Banjara Hills"
+Hyderabad	Forum Sujana Mall
+Hyderabad	Gachibowli
+Hyderabad	Gandipet
+Hyderabad	Ghansi Bazaar
+Hyderabad	"Golkonda Hotel, Masab Tank"
+Hyderabad	"GVK One Mall, Banjara Hills"
+Hyderabad	Habsiguda
+Hyderabad	Hafeezpet
+Hyderabad	"Hardhick Crown, Hitech City"
+Hyderabad	Himayath Nagar
+Hyderabad	Hitech City
+Hyderabad	Holiday Inn Express & Suites
+Hyderabad	"Hotel Avasa, Hitech City"
+Hyderabad	"Hotel Daspalla, Jubilee Hills"
+Hyderabad	"Hotel Siesta, Kothaguda"
+Hyderabad	"Hyatt Hyderabad Gachibowli, Gachibowli"
+Hyderabad	"Hyatt Place, Banjara Hills"
+Hyderabad	"Hyderabad Central Mall, Panjagutta "
+Hyderabad	Hyderabad Marriott Hotel & Convention Centre
+Hyderabad	"Inorbit Mall, Hitech City"
+Hyderabad	"ITC Kakatiya, Begumpet"
+Hyderabad	ITC Kohenur
+Hyderabad	Jeedimetla
+Hyderabad	Jubilee Hills
+Hyderabad	"Kabara Drive In, Banjara Hills"
+Hyderabad	Kacheguda
+Hyderabad	"Katriya Hotels, Somajiguda"
+Hyderabad	Khairatabad
+Hyderabad	Kompally
+Hyderabad	Kondapur
+Hyderabad	Kothaguda
+Hyderabad	Kothapet
+Hyderabad	Koti
+Hyderabad	Kukatpally
+Hyderabad	L B Nagar
+Hyderabad	Lakdikapul
+Hyderabad	Langer Houz
+Hyderabad	"Lemon Tree Hotel, Gachibowli"
+Hyderabad	"Lemon Tree Premier, Hitech City"
+Hyderabad	"Leonia Holistic Destination, Shamirpet"
+Hyderabad	Lingampally
+Hyderabad	Madhapur
+Hyderabad	Malakpet
+Hyderabad	Manikonda
+Hyderabad	"Manjeera Trinity Mall, Kukatpally"
+Hyderabad	Marigold Hotel
+Hyderabad	Masab Tank
+Hyderabad	Medchal Road
+Hyderabad	Meerpet
+Hyderabad	Mehdipatnam
+Hyderabad	Mercure Hyderabad KCP
+Hyderabad	Miyapur
+Hyderabad	Moosapet
+Hyderabad	Musheerabad
+Hyderabad	"My Place, L B Nagar"
+Hyderabad	Nagole
+Hyderabad	Nallakunta
+Hyderabad	Nampally
+Hyderabad	Narayanguda
+Hyderabad	Necklace Road
+Hyderabad	Nizampet
+Hyderabad	Novotel Hyderabad Airport
+Hyderabad	"Novotel Hyderabad Convention Centre, Hitech City"
+Hyderabad	Panjagutta
+Hyderabad	"Park Hyatt, Banjara Hills"
+Hyderabad	"Pavilion Drive In, Jubilee Hills"
+Hyderabad	"Podium Mall, Tolichowki"
+Hyderabad	"Prasads Multiplex, Necklace Road"
+Hyderabad	"Radisson Blu Plaza Hotel, Banjara Hills"
+Hyderabad	"Radisson Hyderabad Hitec City, Gachibowli"
+Hyderabad	"Raheja IT Park, Hitech City"
+Hyderabad	"RK Cineplex, Banjara Hills"
+Hyderabad	"Royalton Hotel, Abids"
+Hyderabad	S R Nagar
+Hyderabad	"Same Place Food Court, Madhapur"
+Hyderabad	Sarath City Capital Mall
+Hyderabad	Saroor Nagar
+Hyderabad	Shamshabad
+Hyderabad	"Sheraton Hyderabad Hotel, Gachibowli"
+Hyderabad	"SLN Terminus,Gachibowli"
+Hyderabad	Somajiguda
+Hyderabad	"South India Shopping Mall, Kukatpally"
+Hyderabad	Srinagar Colony
+Hyderabad	Suraram
+Hyderabad	"Syala Drive In, Jubilee Hills"
+Hyderabad	"Taj Banjara, Banjara Hills"
+Hyderabad	"Taj Deccan, Banjara Hills"
+Hyderabad	"Taj Falaknuma, Falaknuma"
+Hyderabad	"Taj Krishna, Banjara Hills"
+Hyderabad	"Taj Mahal Hotel, Abids"
+Hyderabad	Tarnaka
+Hyderabad	The Alley
+Hyderabad	"The Golkonda Resorts & Spa, Gandipet"
+Hyderabad	The Hangout Village
+Hyderabad	"The Park, Somajiguda"
+Hyderabad	"The Street, Madhapur"
+Hyderabad	"The Traffic Drive In, L B Nagar"
+Hyderabad	"The Westin Hyderabad Mindspace, Hitech City"
+Hyderabad	Tolichowki
+Hyderabad	"Trident Hyderabad, Hitech City"
+Hyderabad	Vanasthalipuram
+Hyderabad	"Vivanta By Taj, Begumpet"
+Hyderabad	Yousufguda
+Indore	" Hotel Somdeep Palace, Vijay Nagar"
+Indore	"56 Dukan, New Palasia"
+Indore	Airport Road
+Indore	Annapurna Road
+Indore	"BCM Heights, Vijay Nagar"
+Indore	Bhawar Kuan
+Indore	Bombay Bazaar
+Indore	By Pass Road 
+Indore	"C21 Mall, Vijay Nagar"
+Indore	Chhavani
+Indore	"Country Inn & Suites By Radisson, Vijay Nagar"
+Indore	Crescent Spa & Resorts
+Indore	"Devi Ahilya Bai Holkar Airport, Airport Road"
+Indore	Fairfield By Marriott
+Indore	Gangwal Bus Stand
+Indore	Geeta Bhavan
+Indore	"Golden Gate, Vijay Nagar"
+Indore	HIG-LIG
+Indore	"Hotel Best Western Plus O2, South Tukoganj"
+Indore	"Hotel Crown Palace, South Tukoganj"
+Indore	"Hotel Effotel, Vijay Nagar"
+Indore	"Hotel Kanchan Tilak, South Tukoganj"
+Indore	"Hotel Kings Park, Bhawar Kuan"
+Indore	Hotel Papaya Tree
+Indore	"Hotel Shreemaya Residency, Press Complex"
+Indore	"Hotel Shreemaya, RNT Marg"
+Indore	"Hotel Surya, South Tukoganj"
+Indore	"Hotel Wow, Vijay Nagar"
+Indore	"HotelAMar Vilas, Press Complex"
+Indore	"Indore Marriott Hotel, Vijay Nagar"
+Indore	"Infiniti Hotel, Vijay Nagar"
+Indore	Jail Road
+Indore	Khajrana
+Indore	Kothari Market
+Indore	"Lemon Tree Hotel, RNT Marg"
+Indore	"Malhar Mega Mall, Vijay Nagar"
+Indore	Malharganj
+Indore	"Mangal City Mall, Vijay Nagar"
+Indore	Manik Bagh Road
+Indore	Mari Mata Square
+Indore	"Mathurawala, Airport Road"
+Indore	"Mathurawala, RNT Marg"
+Indore	MR 10 Road
+Indore	Navlakha
+Indore	New Palasia
+Indore	Old Palasia
+Indore	"One Centre, New Palsia"
+Indore	Papaya Tree Hotel
+Indore	Press Complex
+Indore	Pride Hotel & Convention Centre
+Indore	"Radisson Blu Hotel, Vijay Nagar"
+Indore	Rajendra Nagar
+Indore	Rajwada
+Indore	Ranjeet Hanuman
+Indore	Rau
+Indore	"Regenta Central, By Pass North"
+Indore	RNT Marg
+Indore	Sapna Sangeeta
+Indore	"Sapna Sangeeta Mall, Sapna Sangeeta"
+Indore	Sarafa Bazaar
+Indore	Sarwate Bus Stand
+Indore	"Sayaji Hotel, Vijay Nagar"
+Indore	South Tukoganj
+Indore	Sudama Nagar
+Indore	The Grand Bhagwati
+Indore	"The Red Maple Mashal, Rau"
+Indore	The Sensation Hotel - Rajendra Nagar
+Indore	"Treasure Island Mall, South Tukoganj"
+Indore	Vijay Nagar
+Indore	YN Road
+Jabalpur	Adhartal
+Jabalpur	Cantt
+Jabalpur	Chandmari
+Jabalpur	Civil Lines
+Jabalpur	Dhanvantari Nagar
+Jabalpur	Ganjipura
+Jabalpur	Garha
+Jabalpur	Ghamapur
+Jabalpur	Gohalpur
+Jabalpur	Hathital
+Jabalpur	Karmeta
+Jabalpur	Khamaria
+Jabalpur	Lordganj
+Jabalpur	Napier Town
+Jabalpur	Rampur
+Jabalpur	"Samdariya Mall, Napier Town"
+Jabalpur	Shakti Nagar
+Jabalpur	Shastri Nagar
+Jabalpur	"South Avenue Mall, Cantt"
+Jabalpur	Vijay Nagar
+Jabalpur	Wright Town
+Jaipur	Achrol
+Jaipur	"Achrol House, Civil Lines"
+Jaipur	Adarsh Nagar
+Jaipur	Agra Road
+Jaipur	Ajmer Highway
+Jaipur	Amer
+Jaipur	Amer Road
+Jaipur	"Axis Mall, C Scheme"
+Jaipur	Bais Godam
+Jaipur	Bani Park
+Jaipur	"Bapu Bazaar, MI Road"
+Jaipur	Bapu Nagar
+Jaipur	"Blue Bird Hotel, Raja Park"
+Jaipur	Brahmpuri
+Jaipur	C Scheme
+Jaipur	"Chandpole Bazaar, Pink City"
+Jaipur	"Chaura Rasta, Pink City"
+Jaipur	"Chirmi Palace Hotel, C Scheme"
+Jaipur	Chitrakoot
+Jaipur	"Chokhi Dhani Village Resort, Tonk Road"
+Jaipur	"City Pulse Mall, Narayan Singh Circle"
+Jaipur	Civil Lines
+Jaipur	"Crown Square, Vaishali Nagar"
+Jaipur	"Crowne Plaza Jaipur, Tonk Road"
+Jaipur	"Crystal Court Mall, Malviya Nagar"
+Jaipur	"Crystal Palm Mall, Bais Godam"
+Jaipur	"Devraj Niwas, Bani Park"
+Jaipur	"Elements Mall, Chitrakoot"
+Jaipur	"Evershine Tower, Vaishali Nagar"
+Jaipur	"Fairmont Jaipur, Kukas"
+Jaipur	"Fort, Malviya Nagar"
+Jaipur	"Fortune Select Metropolitan, Bais Godam"
+Jaipur	"Four Points By Sheraton, Tonk Road"
+Jaipur	"Gangori Bazaar, Pink City"
+Jaipur	"Gaurav Towers, Malviya Nagar"
+Jaipur	"Gold Souk Building, Malviya Nagar"
+Jaipur	"Golden Tulip, MI Road"
+Jaipur	Gopalbari
+Jaipur	"Grand Uniara, Narayan Singh Circle"
+Jaipur	"GT Central, Malviya Nagar"
+Jaipur	Hasanpura
+Jaipur	"Hawa Mahal Road, Pink City"
+Jaipur	"Hilton Jaipur, Bais Godam"
+Jaipur	"Holiday Inn Jaipur City Centre, Bais Godam"
+Jaipur	"Hotel Acacia Inn, MI Road"
+Jaipur	"Hotel Clarion Inn, Kukas"
+Jaipur	"Hotel ClarksAMer, Malviya Nagar"
+Jaipur	"Hotel Dev Villas, Mansarovar"
+Jaipur	"Hotel Garden View, C Scheme"
+Jaipur	"Hotel Highway King, Ajmer Highway"
+Jaipur	"Hotel Indana Palace , Kukas"
+Jaipur	"Hotel Las Vegas, Bais Godam"
+Jaipur	"Hotel Maharani Prime, Sindhi Camp"
+Jaipur	"Hotel Narain Niwas, Narayan Singh Circle"
+Jaipur	"Hotel Om Tower, MI Road"
+Jaipur	"Hotel Paradise, Sikar Road"
+Jaipur	"Hotel Park Inn, Bani Park"
+Jaipur	"Hotel Park Prime, C Scheme"
+Jaipur	"Hotel Park Regent, Shyam Nagar"
+Jaipur	"Hotel Rockland, Adarsh Nagar"
+Jaipur	"Hotel Royal Empire, Malviya Nagar"
+Jaipur	"Hotel Royal Orchid, Tonk Road"
+Jaipur	"Hotel Shyam Paradise, Chitrakoot"
+Jaipur	"Hotel Souvenir Premier, Mansarovar"
+Jaipur	"Hotel Vrisa, Tonk Road"
+Jaipur	"Ibis Hotel, Civil Lines"
+Jaipur	"ITC Rajputana Hotel, Gopalbari"
+Jaipur	Jagatpura
+Jaipur	"Jaipur Marriott Hotel, Tonk Road"
+Jaipur	"Janta Store, Bapu Nagar"
+Jaipur	Jawahar Nagar
+Jaipur	Jhotwara
+Jaipur	"Johari Bazaar, Pink City"
+Jaipur	"JW Marriott Jaipur Resort & Spa, Kukas"
+Jaipur	"Keys Marigold Hotel, Tonk Road"
+Jaipur	"Khandwa Haveli, Sikar Road"
+Jaipur	Khatipura Road
+Jaipur	"KK Royal Hotel,AMer"
+Jaipur	Kukas
+Jaipur	Lal Kothi
+Jaipur	"Le Meridien Jaipur, Kukas"
+Jaipur	"Leisure Inn Grand Chanakya, MI Road"
+Jaipur	"Lemon Tree Premier, Bani Park"
+Jaipur	"Lords Plaza, Tonk Road"
+Jaipur	Malviya Nagar
+Jaipur	"Man Upasana Mall, C Scheme"
+Jaipur	"Mango Hotel, Adarsh Nagar"
+Jaipur	Mansarovar
+Jaipur	"Mansarovar Plaza, Mansarovar"
+Jaipur	"Masala Chowk, Adarsh Nagar"
+Jaipur	"Maya Mansion, MI Road"
+Jaipur	"MGF Metropolitan Mall, Bais Godam"
+Jaipur	MI Road
+Jaipur	"Mosaic Hotel, Khatipura Road"
+Jaipur	"Nahargarh Fort, Brahmpuri"
+Jaipur	"Naila Bagh Palace, Adarsh Nagar"
+Jaipur	Narayan Singh Circle
+Jaipur	"Nehru Bazaar, MI Road"
+Jaipur	"Nirwana Hometel, Bani Park"
+Jaipur	"Park Regis,AMer Road"
+Jaipur	Pink City
+Jaipur	"Pink Square Mall, Adarsh Nagar"
+Jaipur	"Polo Inn & Suites, C Scheme"
+Jaipur	"PrideAMber Vilas, Tonk Road"
+Jaipur	"Radisson Blu, Tonk Road"
+Jaipur	"Radisson Jaipur City Center, MI Road"
+Jaipur	Raja Park
+Jaipur	"Ramada Hotel, Raja Park"
+Jaipur	"Ramganj Bazaar, Pink City"
+Jaipur	"Royal Orchid Central, Bani Park"
+Jaipur	Sansar Chandra Road
+Jaipur	"Sarovar Portico, Vaishali Nagar"
+Jaipur	Shakun Hotels & Resorts
+Jaipur	Shastri Nagar
+Jaipur	"Shiv Vilas Resort, Kukas"
+Jaipur	"Shiva's Royal Hotel, Sindhi Camp"
+Jaipur	"Shree Gangour Celebrations Banquet Hall, Tonk Road"
+Jaipur	Shyam Nagar
+Jaipur	Sikar Road
+Jaipur	Sindhi Camp
+Jaipur	Sodala
+Jaipur	"Sujan Rajmahal Palace, C Scheme"
+Jaipur	"Surya Mahal Tower, Tonk Road"
+Jaipur	"Suryavanshi Pearl, C Scheme"
+Jaipur	"Taj Jai Mahal Palace, Civil Lines"
+Jaipur	"Taj Rambagh Palace, C Scheme"
+Jaipur	"The Fern Hotel, Tonk Road"
+Jaipur	"The Gold Palace & Resorts, Kukas"
+Jaipur	"The Hamston Park, Bani Park"
+Jaipur	"The LaLiT Jaipur, Malviya Nagar"
+Jaipur	"The Oberoi Rajvilas, Agra Road"
+Jaipur	"The Raj Palace,AMer Road"
+Jaipur	"The Theme, Tonk Road"
+Jaipur	Tonk Road
+Jaipur	"Traditional Heritage Haveli, Bani Park"
+Jaipur	Transport Nagar
+Jaipur	"Trident Jaipur,AMer Road"
+Jaipur	"Trinity Mall, Sodala"
+Jaipur	"Triton Mall, Jhotwara"
+Jaipur	"Vachi Inn, Malviya Nagar"
+Jaipur	Vaishali Nagar
+Jaipur	Vidhyadhar Nagar
+Jaipur	"Virasat Heritage, Bais Godam"
+Jaipur	"World Trade Park, Malviya Nagar"
+Jaipur	"Zone by the Park, Bani Park"
+Jalandhar	Adarsh Nagar
+Jalandhar	GT Road
+Jalandhar	Jalandhar Cantt
+Jalandhar	Maqsudan
+Jalandhar	Model House
+Jalandhar	Model Town
+Jalandhar	Nakodar Road
+Jalandhar	PPR Market
+Jalandhar	Radisson Blue
+Jalandhar	Rama Mandi
+Jalandhar	Shastri Nagar
+Jalandhar	Transport Nagar
+Jalandhar	Urban Estate
+Jammu	Barnai
+Jammu	Channi Himmat
+Jammu	Gandhi Nagar
+Jammu	Hari Market
+Jammu	Jehlum Resorts
+Jammu	Karan Nagar
+Jammu	Katra
+Jammu	Lal Kuan
+Jammu	Maheshpura
+Jammu	Marble Market Area
+Jammu	Nanak Nagar
+Jammu	Old Heritage City
+Jammu	Patoli
+Jammu	Preet Nagar
+Jammu	Raghunath Bazaar
+Jammu	Rehari Colony
+Jammu	Resham Ghar Colony
+Jammu	Shastri Nagar
+Jammu	Shiv Nagar
+Jammu	SIDCO Complex
+Jammu	Transport Nagar
+Jammu	Trikuta Nagar
+Jammu	"Wave Mall, Channi Himmat"
+Jamnagar	Ajanta Society
+Jamnagar	Bedeswar
+Jamnagar	Gokul Nagar
+Jamnagar	Green City
+Jamnagar	Gulab Nagar
+Jamnagar	Hapa Industrial Area
+Jamnagar	Indradeep Society
+Jamnagar	Jawahar Nagar
+Jamnagar	Kadiawad
+Jamnagar	Kamdar Colony
+Jamnagar	Nageshwar
+Jamnagar	Rameshwar Nagar
+Jamnagar	Sena Nagar
+Jamshedpur	Birsanagar
+Jamshedpur	Bistupur
+Jamshedpur	Burma Mines
+Jamshedpur	Gamharia
+Jamshedpur	Golmuri
+Jamshedpur	Govindpur
+Jamshedpur	Mango
+Jamshedpur	Sakchi
+Jamshedpur	Sonari
+Jamshedpur	Telco Colony
+Jhansi	Ansal Colony
+Jhansi	Bundelkhand University
+Jhansi	Cantt
+Jhansi	Civil Lines
+Jhansi	Hansari
+Jhansi	Indrapuri
+Jhansi	Jhansi Rly Settlement
+Jhansi	Jhokan Bagh
+Jhansi	Nagra
+Jhansi	Purana Sahar
+Jhansi	Rajghat Colony
+Jhansi	Shivaji Nagar
+Jhansi	Sipri Bazaar
+Jodhpur	1st Pulia
+Jodhpur	Air Force Area
+Jodhpur	Basni
+Jodhpur	Bhadu Market
+Jodhpur	Bhagat Ki Kothi
+Jodhpur	Cantt Area
+Jodhpur	Chopasni Housing Board
+Jodhpur	"Fairfield By Marriott, Sangria"
+Jodhpur	Kabir Nagar
+Jodhpur	Lawaran
+Jodhpur	Maderana Colony
+Jodhpur	Magra Punjla
+Jodhpur	Mandore
+Jodhpur	"Niky International Hotel, Airforce Area"
+Jodhpur	Pal Gaon
+Jodhpur	Paota
+Jodhpur	Prem Nagar
+Jodhpur	"Radisson Jodhpur, Airforce Area"
+Jodhpur	"Ranbanka Palace, Cantt Area"
+Jodhpur	Ratanada
+Jodhpur	Rawaton ka bass
+Jodhpur	Sangriya
+Jodhpur	Sardarpura
+Jodhpur	Shastri Nagar
+Jodhpur	Station Road
+Jodhpur	"The Ajit Bhawan, Cantt Area"
+Jodhpur	"The Fern Residency, Ratanada"
+Jodhpur	"Umaid Bhawan Palace, Cantt Area"
+Jodhpur	"Vivanta By Taj, Hari Mahal, Bhagat Ki Kothi"
+Jodhpur	"Welcom Heritage Bal Samand Lake Palace, Mandore"
+Junagadh	Adarsh Nagar
+Junagadh	Dolatpara
+Junagadh	Gandhi Gram
+Junagadh	Joshipura
+Junagadh	Monalisa Township
+Junagadh	Moti Palace Township
+Junagadh	Mullawada
+Junagadh	Shashikunj
+Junagadh	Shreenath Nagar
+Junagadh	Talav Gate
+Kanpur	Anwar Ganj
+Kanpur	Armapur
+Kanpur	Arya Nagar
+Kanpur	Ashok Nagar
+Kanpur	Azad Nagar
+Kanpur	Barra
+Kanpur	Birhana Road
+Kanpur	Bithoor
+Kanpur	Chakeri
+Kanpur	Chamanganj
+Kanpur	Chawla Chawraha
+Kanpur	Colonel Ganj
+Kanpur	Fazalganj
+Kanpur	Geeta Nagar
+Kanpur	General Ganj
+Kanpur	Ghantaghar
+Kanpur	Govindpuri
+Kanpur	Gutaiya
+Kanpur	Harsh Nagar
+Kanpur	Hotel Paradise
+Kanpur	Hotel Royal Cliff
+Kanpur	"Hotel Satyam, IIT Kanpur"
+Kanpur	IIT Kanpur
+Kanpur	Indira Nagar
+Kanpur	Jajmau
+Kanpur	"JS Continental, Swaroop Nagar"
+Kanpur	Kakadeo
+Kanpur	Kanpur Cantt
+Kanpur	Keshavpuram
+Kanpur	Kidwai Nagar
+Kanpur	Kidwai Nagar Market
+Kanpur	Lajpat Nagar
+Kanpur	Lal Bangla
+Kanpur	Mall Road
+Kanpur	Nandlal Chawraha
+Kanpur	Naubasta
+Kanpur	"Naveen Market, Mall Road"
+Kanpur	Nawab Ganj
+Kanpur	Nayi Chungi
+Kanpur	Netuwa
+Kanpur	Panki
+Kanpur	Parade
+Kanpur	Phoolbagh
+Kanpur	Rai Purwa
+Kanpur	Ratan lal Nagar
+Kanpur	"Rave 3, Tilak Nagar"
+Kanpur	"Rave Moti, Kakadeo"
+Kanpur	Rawatpur
+Kanpur	Saket Nagar
+Kanpur	"SGM Plaza, Arya Nagar"
+Kanpur	Sharda Nagar
+Kanpur	Shastri Nagar
+Kanpur	Shyam Nagar
+Kanpur	"Status Club, Kanpur Cantonment"
+Kanpur	Swaroop Nagar
+Kanpur	Tagore Road
+Kanpur	"The Landmark Hotel, Mall Road"
+Kanpur	"The Rita Hotel, Mall Road"
+Kanpur	Tilak Nagar
+Kanpur	Transport Nagar
+Kanpur	Vijay Nagar
+Kanpur	Vishnu Puri
+Kanpur	"Z Square Mall, Mall Road"
+Kharagpur	Bhawanipur
+Kharagpur	Bidhanpally
+Kharagpur	IIT Kharagpur
+Kharagpur	Inda
+Kharagpur	Kalaikunda
+Kharagpur	Kharagpur Rly Settlement
+Kharagpur	Malancha
+Kharagpur	Medinipur Locality
+Kharagpur	New Settlement
+Kharagpur	Nimpura
+Kharagpur	South Side
+Kharagpur	Talbagicha
+Kharagpur	Vidyasagarpur
+Kochi	"Abad Bay Pride Mall, Marine Drive"
+Kochi	"Abad Nucleus Mall, Marad"
+Kochi	"Abad Plaza, Kacheripady"
+Kochi	Aluva
+Kochi	Angamali
+Kochi	Broad Bean Hotel
+Kochi	"Brunton Boatyard, Fort Kochi"
+Kochi	"BTH Sarovaram, Marad"
+Kochi	"Casino Hotel, Wellington Island"
+Kochi	"Centre Square Mall, Kacheripady"
+Kochi	Cheranalloor
+Kochi	Chittoor Road
+Kochi	Chullickal
+Kochi	"Courtyard by Marriott Kochi Airport, Aluva"
+Kochi	"Crowne Plaza Kochi, Marad"
+Kochi	Edappally
+Kochi	Elamakkara
+Kochi	Elamkulam
+Kochi	"Elphinstone Residency, Fort Kochi"
+Kochi	Fort Kochi
+Kochi	"Fragrant Nature, Fort Kochi"
+Kochi	"GCDA Shopping Complex, Marine Drive"
+Kochi	"GCDA Shopping Complex, Panampily Nagar"
+Kochi	"Gold Souk Grandé, Vytilla"
+Kochi	"Grand Hotel, MG Road"
+Kochi	Grand Hyatt Kochi Bolgatty
+Kochi	"Harbour View Residency, Ravipuram"
+Kochi	"Holiday Inn Cochin, Vennala"
+Kochi	"Hotel Abad, Mattancherry"
+Kochi	"Itty's, Panampily Nagar"
+Kochi	Kacheripady
+Kochi	Kadavanthra
+Kochi	Kakkanad
+Kochi	Kalamassery
+Kochi	Kaloor
+Kochi	"Kochi Marriott Hotel, Edappally"
+Kochi	"Le Méridien Kochi, Marad"
+Kochi	"Le Maritime, Kochi"
+Kochi	"LuLu Mall, Edappally"
+Kochi	"Malabar Resorts & Spa, Wellington Island"
+Kochi	Marad
+Kochi	Marine Drive
+Kochi	Mattancherry
+Kochi	MG Road
+Kochi	Nedumbassery
+Kochi	"Novotel Kochi Infopark, Kakkanad"
+Kochi	"Oberon Mall, Edappally"
+Kochi	"Old Lighthouse Bristow Hotel, Fort Kochi"
+Kochi	Olive Downtown
+Kochi	Palarivattom
+Kochi	Pallimukku
+Kochi	Panampilly Nagar
+Kochi	Perumbavoor
+Kochi	"Radisson Blu Kochi, Kadavanthra"
+Kochi	"Ramada Resort, Marad"
+Kochi	Ravipuram
+Kochi	"Renai Blue Waters Cherai, Vypin"
+Kochi	"SAJ Earth Resort, Nedumbassery"
+Kochi	"The Avenue Regent, MG Road"
+Kochi	"The Gateway Hotel, Marine Drive"
+Kochi	"The International Hotel, MG Road"
+Kochi	"The Malabar House, Fort Kochi"
+Kochi	"The Renai Cochin, Palarivattom"
+Kochi	"The Whyte Fort, Marad"
+Kochi	Thevera
+Kochi	Thopumpady
+Kochi	"Travancore Court by Spree, Pallimukku"
+Kochi	"Trident Hotel, Wellington Island"
+Kochi	Tripunithura
+Kochi	Vennala
+Kochi	Vypin
+Kochi	Vyttila
+Kochi	"Woodlands Hotel, MG Road"
+Kochi	"Yuvarani Residency, Jose Junction"
+Kolhapur	Deokar Panand
+Kolhapur	Hari Om Nagar
+Kolhapur	Kalamba
+Kolhapur	Kasaba Bawada
+Kolhapur	Line Bazaar
+Kolhapur	Mangalwar Peth
+Kolhapur	Phulewadi
+Kolhapur	Pratibha Nagar
+Kolhapur	Rajarampuri
+Kolhapur	Ratnappa Kumbhar Nagar
+Kolhapur	Ruikar Colony
+Kolhapur	Salokhe Nagar
+Kolhapur	Sarnobatwadi
+Kolhapur	Shahu Market Yard
+Kolhapur	Shahupuri
+Kolhapur	Shenda Park
+Kolhapur	Shivaji Udyam Nagar
+Kolhapur	Tapowan
+Kolhapur	Tarabhai Park
+Kolhapur	Vidya Nagar
+Kolhapur	Vikram Nagar
+Kolhapur	Y.P Powar Nagar
+Kolkata	"Aauris, Theatre Road"
+Kolkata	"Acropolis Mall, Kasba"
+Kolkata	Ajoy Nagar
+Kolkata	Alipore
+Kolkata	AltAir Boutique Hotel
+Kolkata	"Axis Mall, New Town"
+Kolkata	Baghajatin
+Kolkata	Baguihati
+Kolkata	Ballygunge
+Kolkata	Bangur
+Kolkata	Bara Bazar
+Kolkata	Baranagar
+Kolkata	Barasat
+Kolkata	Barrackpore
+Kolkata	Behala
+Kolkata	Belghoria
+Kolkata	Beliaghata
+Kolkata	Bhawanipur
+Kolkata	Bow Bazar
+Kolkata	"Broadway Mall, Sector 3, Salt Lake"
+Kolkata	"Bytes Food Court, Sector 5, Salt Lake"
+Kolkata	Camac Street Area
+Kolkata	Chandni Chowk
+Kolkata	"Charnok City, Sector 3, Salt Lake"
+Kolkata	Chinar Park
+Kolkata	Chowringhee
+Kolkata	"City Centre 1, Sector 1, Salt Lake"
+Kolkata	"City Centre 2 Mall, Chinar Park"
+Kolkata	"Club Ecovista, New Town"
+Kolkata	College Street
+Kolkata	Dalhousie BBD Bagh
+Kolkata	"De Sovrani, Sector 1, Salt Lake,"
+Kolkata	Desapriya Park
+Kolkata	Dhakuria
+Kolkata	"Diamond Plaza Mall, Jessore Road"
+Kolkata	"Diamond Plaza Mall, Nagerbazar"
+Kolkata	"DLF IT Park, Rajarhat"
+Kolkata	Dum Dum
+Kolkata	"Eco Park, New Town"
+Kolkata	Elgin
+Kolkata	"Enclave, Alipore"
+Kolkata	Entally
+Kolkata	Esplanade
+Kolkata	"Ffort Raichak, Raichak"
+Kolkata	"Fort Knox, Camac Street Area"
+Kolkata	"Forum Mall, Elgin"
+Kolkata	Garia
+Kolkata	Gariahat
+Kolkata	Girish Park
+Kolkata	"Globsyn Crystals, Sector 5"
+Kolkata	"Golden Tulip, Sector 1, Salt Lake"
+Kolkata	Golf Green
+Kolkata	Golpark
+Kolkata	Hatibagan
+Kolkata	Hazra
+Kolkata	Hindustan Park
+Kolkata	"Holiday Inn Kolkata Airport, Chinar Park"
+Kolkata	"Hotel Celesta, VIP Road"
+Kolkata	"Hotel Hindusthan International, Elgin"
+Kolkata	"Hotel Lindsay, New Market"
+Kolkata	"Hotel Senses, Sector 5, Salt Lake "
+Kolkata	"Hotel The Sojourn, Sector 3, Salt Lake"
+Kolkata	"Hyatt Regency, Sector 3, Salt Lake"
+Kolkata	"Ibiza Merlin Greens, Joka"
+Kolkata	"ITC Sonar, Science City Area"
+Kolkata	Jadavpur
+Kolkata	Jodhpur Park
+Kolkata	Joka
+Kolkata	"JW Marriott Hotel Kolkata, Science City Area"
+Kolkata	Kaikhali
+Kolkata	Kalighat
+Kolkata	Kalikapur
+Kolkata	Kalindi
+Kolkata	Kankurgachi
+Kolkata	Kasba
+Kolkata	"Kenilworth Hotel, Russel Street"
+Kolkata	Kestopur
+Kolkata	Khardah
+Kolkata	Kidderpore
+Kolkata	Konnagar
+Kolkata	Lake Gardens
+Kolkata	"Lake Mall, Rash Behari Avenue"
+Kolkata	Lake Market Area
+Kolkata	Lake Town
+Kolkata	Loudon Street Area
+Kolkata	"Lytton Hotel, New Market Area"
+Kolkata	"Mani Square Mall, Kankurgachi"
+Kolkata	Maniktala
+Kolkata	"Metro Cash & Carry, Ajoy Nagar"
+Kolkata	"Metro Plaza Shopping Centre, Russel Street"
+Kolkata	"Metropolis Mall, Hiland Park"
+Kolkata	Minto Park
+Kolkata	Nagerbazar
+Kolkata	Naktala
+Kolkata	Narendra Pur
+Kolkata	New Alipore
+Kolkata	New Market Area
+Kolkata	New Town
+Kolkata	"Novotel, New Town"
+Kolkata	O2 Oxygen - VIP Road
+Kolkata	O2 VIP - VIP Road
+Kolkata	Paddapukur
+Kolkata	"Pantaloons, Camac Street Area"
+Kolkata	Park Circus Area
+Kolkata	"Park Prime, Minto Park"
+Kolkata	Park Street Area
+Kolkata	Picnic Garden
+Kolkata	"Pipal Tree Hotel, New Town"
+Kolkata	Prince Anwar Shah Road
+Kolkata	"Quest Mall, Ballygunge"
+Kolkata	"Radisson Kolkata, Ballygunge"
+Kolkata	"RDB Boulevard, Sector 5"
+Kolkata	Regenta Orko'ss Hotel
+Kolkata	Rishra
+Kolkata	Ruby Hospital Area
+Kolkata	Russel Street Chaat
+Kolkata	Santoshpur
+Kolkata	Science City Area
+Kolkata	Sealdah Area
+Kolkata	"Sector 1, Salt Lake"
+Kolkata	"Sector 2, Salt Lake"
+Kolkata	"Sector 3, Salt Lake"
+Kolkata	"Sector 4, Salt Lake"
+Kolkata	"Sector 5, Salt Lake"
+Kolkata	Serampore
+Kolkata	Shobha Bazar
+Kolkata	Shyam Bazar
+Kolkata	"Silver Spring Arcade, Science City Area"
+Kolkata	Sinthi
+Kolkata	Sodepur
+Kolkata	"South City Mall, Prince Anwar Shah Road"
+Kolkata	Southern Avenue
+Kolkata	"Swissotel Kolkata Neotia Vista, Chinar Park"
+Kolkata	"Taj Bengal, Alipore"
+Kolkata	Taltala
+Kolkata	Tangra
+Kolkata	Tara Tala
+Kolkata	"The Astor Hotel, Theatre Road"
+Kolkata	"The Big Boss Hotel, Loudon Street"
+Kolkata	"The Corner Courtyard, Hazra"
+Kolkata	"The Gateway Hotel, Kasba"
+Kolkata	"The Lalit Great Eastern, Esplanade"
+Kolkata	"The Myx, Park Street Area"
+Kolkata	"The Oberoi Grand, New Market Area"
+Kolkata	"The Park, Park Street"
+Kolkata	"The Peerless Inn, Esplanade"
+Kolkata	"The Stadel, Sector 3, Salt Lake"
+Kolkata	Theatre Road
+Kolkata	Tollygunge
+Kolkata	Topsia
+Kolkata	Ultadanga
+Kolkata	"Vedic Village Spa Resort, New Town"
+Kolkata	Wellesley
+Kota	Chawani
+Kota	"Cinemall, Indraprastha Industrial Area"
+Kota	"City Mall, Indraprastha Industrial Area"
+Kota	Civil Lines
+Kota	Dadabari
+Kota	Dhanmandi
+Kota	Indraprastha Industrial Area
+Kota	Kota Industrial Area
+Kota	Ladpura
+Kota	Rangbari
+Kota	RK Puram - E
+Kota	RPS Colony
+Kota	Talwandi
+Lucknow	Aashiana
+Lucknow	Aishbagh
+Lucknow	Alambagh
+Lucknow	Aliganj
+Lucknow	Aminabad
+Lucknow	"Anand Plaza, Patkapuram, Gomti Nagar"
+Lucknow	Charbagh
+Lucknow	Chowk
+Lucknow	"City Mall, Gomti Nagar"
+Lucknow	"Deep Palace, Udaiganj"
+Lucknow	Fortune Park BBD
+Lucknow	"Fun Republic Mall, Gomti Nagar"
+Lucknow	"Gemini Continental, Hazratganj"
+Lucknow	Gomti Nagar
+Lucknow	Hazratganj
+Lucknow	"Hotel Clarks Avadh, Hazratganj"
+Lucknow	"Hotel Dayal Paradise, Gomti Nagar"
+Lucknow	"Hotel India Awadh, Hazratganj"
+Lucknow	"Hotel Levana, Hazratganj"
+Lucknow	Husain Ganj
+Lucknow	Hyatt Regency Lucknow
+Lucknow	Indira Nagar
+Lucknow	Jopling Road
+Lucknow	Kaiserbagh
+Lucknow	"Kanakdeep Plaza, Gomti Nagar"
+Lucknow	Kanpur Road
+Lucknow	Khurram Nagar
+Lucknow	"La Place Sarovar Portico, Hazratganj"
+Lucknow	Lalbagh
+Lucknow	lebua Lucknow
+Lucknow	"Lineage Hotels, Gomti Nagar"
+Lucknow	Mahanagar
+Lucknow	"Metropolitan Club, Gomti Nagar"
+Lucknow	Nirala Nagar
+Lucknow	Nishatganj
+Lucknow	"Novotel, Gomti Nagar"
+Lucknow	"One Awadh Center Mall, Gomti Nagar"
+Lucknow	"Phoenix United Mall, Alambagh"
+Lucknow	"R Square, Gomti Nagar"
+Lucknow	Rajajipuram
+Lucknow	Ranjees Hotel
+Lucknow	Renaissance Lucknow Hotel
+Lucknow	"Riverside Mall, Gomti Nagar"
+Lucknow	"Royal Inn, Hazratganj"
+Lucknow	"Royal Sagar International, Jopling Road"
+Lucknow	Sadar Bazaar
+Lucknow	"Sahara Ganj Mall, Hazratganj"
+Lucknow	"Taj Mahal, Lucknow"
+Lucknow	"The Piccadily Lucknow, Alambagh"
+Lucknow	"The Revanta Hotel, Jankipuram"
+Lucknow	Transport Nagar
+Lucknow	"West End Mall, Gomti Nagar"
+Ludhiana	"A Hotel, Gurdev Nagar"
+Ludhiana	Aggar Nagar
+Ludhiana	"Ansal Plaza Mall, Gurdev Nagar"
+Ludhiana	BRS Nagar
+Ludhiana	Civil Lines
+Ludhiana	Dugri
+Ludhiana	"Fortune Park Klassik, Model Town"
+Ludhiana	Gill Road
+Ludhiana	Gurdev Nagar
+Ludhiana	Hargobind Nagar
+Ludhiana	"Hotel Imperial Executive, Pakhowal Road"
+Ludhiana	"Hotel Indian Summer, Industrial Area"
+Ludhiana	"Hotel Mahal, BRS Nagar"
+Ludhiana	"Hotel Maharaja Regency, Gurdev Nagar"
+Ludhiana	"Hyatt Regency, Rajguru Nagar"
+Ludhiana	Industrial Area
+Ludhiana	Janak Puri
+Ludhiana	Jawahar Nagar
+Ludhiana	"Keys Hotel, Pakhowal Road"
+Ludhiana	Ludhiana Junction
+Ludhiana	"Main Market, Sarabha Nagar"
+Ludhiana	"MBD Neopolis Mall, Rajguru Nagar"
+Ludhiana	Model Town
+Ludhiana	"Mohini Resorts, Sector 32"
+Ludhiana	"Nirvana Hotel Banquets Club, PAU"
+Ludhiana	Pakhowal Road
+Ludhiana	"Park Plaza, Gurdev Nagar"
+Ludhiana	PAU
+Ludhiana	"Pavilion Mall, Civil Lines"
+Ludhiana	"Radisson Blu Hotel, Rajguru Nagar"
+Ludhiana	Rajguru Nagar
+Ludhiana	"Ranjit Square, Gill Road"
+Ludhiana	Samrala Chowk
+Ludhiana	Sarabha Nagar
+Ludhiana	Sector 32
+Ludhiana	Shastri Nagar
+Ludhiana	"Silver Arc Mall, Gurdev Nagar"
+Ludhiana	"Westend Mall, Rajguru Nagar"
+Madurai	Arrapalayam
+Madurai	Avaniyapuram
+Madurai	Balarengapuram
+Madurai	Bethaniyapuram
+Madurai	Doak Nagar
+Madurai	Iyer Bungalow
+Madurai	Kamrajnagar
+Madurai	Keerathurai
+Madurai	KK Nagar
+Madurai	Pandian Nagar
+Madurai	Pasumalai
+Madurai	Periyar
+Madurai	"Poppy’s Hotel, KK Nagar"
+Madurai	Sathamangalam
+Madurai	Southern Railway Colony
+Madurai	SS Colony
+Madurai	"The Germanus, SS Colony"
+Madurai	"The Heritage, Doak Nagar"
+Madurai	"V Grand Hotel, KK Nagar"
+Madurai	Vandiyur
+Madurai	Villapuram
+Madurai	"Vishaal de Mal, KK Nagar, Madurai"
+Madurai	Viswanathapuram
+Manali	Aleo
+Manali	Kullu
+Manali	Old Manali
+Manali	Tibetan Colony
+Mangalore	Ashok Nagar
+Mangalore	Attavar
+Mangalore	Baikampady
+Mangalore	Balmatta
+Mangalore	Bendoor
+Mangalore	"Bharath Mall, Lalbagh"
+Mangalore	Bhavathi
+Mangalore	Bunder
+Mangalore	"Casa Grande Mall, Attavar"
+Mangalore	"City Center Mall, Hampankatta"
+Mangalore	Derlakatte
+Mangalore	"Empire Mall, Lalbagh"
+Mangalore	"Forum Mall, Attavar"
+Mangalore	"Goldfinch Hotel, Balmatta"
+Mangalore	Hampankatta
+Mangalore	Hosabettu
+Mangalore	Hotel Deepa Comforts
+Mangalore	Hotel Gateway International
+Mangalore	"Hotel Kavitha, Kottara"
+Mangalore	Hotel Poonja International
+Mangalore	"Hotel Roopa, Balmatta"
+Mangalore	"Hotel Sai Suraj International, Surathkal"
+Mangalore	Kadri
+Mangalore	Kankanady
+Mangalore	Kapikad
+Mangalore	Katipalla
+Mangalore	Kavoor
+Mangalore	Kodailbail
+Mangalore	Kodikal
+Mangalore	Kottara
+Mangalore	KS Rao Nagar
+Mangalore	Kulai
+Mangalore	Kulashekara
+Mangalore	Lalbagh
+Mangalore	Mallikatte
+Mangalore	Marnamikatte
+Mangalore	"Moti Mahal Hotel, Bendoor"
+Mangalore	Pumpwell
+Mangalore	Summer Sands Beach Resort
+Mangalore	Surathkal
+Mangalore	"The Ocean Pearl, Kodailbail"
+Mangalore	Thokottu
+Mangalore	Trishna Hotels
+Mangalore	Vamanjoor
+Manipal	"Canara Mall, Eshwar Nagar"
+Manipal	"Country Inn by Radisson, Vidyaratna Nagar"
+Manipal	Dasharath Nagar
+Manipal	Eshwar Nagar
+Manipal	"Fortune Inn Valley View, Eshwar Nagar"
+Manipal	"KMC Food Court, Eshwar Nagar"
+Manipal	"Manipal Commercial Complex, Eshwar Nagar"
+Manipal	Saralebettu
+Manipal	Shivalli
+Manipal	Tiger Circle
+Manipal	Vidyaratna Nagar
+Meerut	Devpuri
+Meerut	Fazalpur
+Meerut	Ganga Nagar
+Meerut	Lohia Nagar
+Meerut	Madhavpuram
+Meerut	MDA
+Meerut	Meerut Cantt
+Meerut	"Melange Mall, Pallavpuram"
+Meerut	Mohan Puri
+Meerut	Mohkam Pur
+Meerut	Pallavpuram
+Meerut	Partapur
+Meerut	"PVS Mall, Shastri Nagar"
+Meerut	Sadar Bazaar
+Meerut	Shastri Nagar
+Meerut	"Shopprix Mall, Mohkam Pur"
+Meerut	Subhash Nagar
+Meerut	Thapar Nagar
+Mohali	"Arista Hotel, Kharar Road"
+Mohali	"Bestech Square Mall, Phase 11, Mohali"
+Mohali	"Hotel Cama, Sector 53, Mohali"
+Mohali	Kharar Road
+Mohali	Phase 1
+Mohali	Phase 10
+Mohali	Phase 11
+Mohali	Phase 2
+Mohali	Phase 3
+Mohali	"Phase 3B2 Market, Phase 3 Mohali"
+Mohali	Phase 5
+Mohali	Phase 6
+Mohali	Phase 7
+Mohali	Phase 9
+Mohali	Sector 67
+Mohali	Sector 70
+Mohali	Sector 71
+Mohali	Sector 82
+Mohali	"VR Punjab, Kharar Road"
+Mumbai	" Royal Challenge Complex, Goregaon "
+Mumbai	4 Bungalows
+Mumbai	"7 Bungalows, Andheri West"
+Mumbai	"Andheri Lokhandwala, Andheri West"
+Mumbai	"Annex Mall, Borivali East"
+Mumbai	"Atria Mall, Worli"
+Mumbai	Azad Nagar
+Mumbai	Bandra East
+Mumbai	Bandra Kurla Complex
+Mumbai	"Bandra Talao, Bandra West"
+Mumbai	"Bandstand, Bandra West"
+Mumbai	"Bar Bank, Juhu"
+Mumbai	Bhandup
+Mumbai	Bhayandar
+Mumbai	Borivali East
+Mumbai	Borivali West
+Mumbai	Breach Candy
+Mumbai	Byculla
+Mumbai	"Carter Road, Bandra West"
+Mumbai	Chakala
+Mumbai	Chandivali
+Mumbai	Charni Road
+Mumbai	Chembur
+Mumbai	Chowpatty
+Mumbai	Churchgate
+Mumbai	Colaba
+Mumbai	"Courtyard by Marriott, Chakala"
+Mumbai	"CR2 Mall, Nariman Point"
+Mumbai	"Cubic Mall, Chembur"
+Mumbai	Cuffe Parade
+Mumbai	Dadar East
+Mumbai	Dadar Shivaji Park
+Mumbai	Dadar West
+Mumbai	Dahisar East
+Mumbai	Dahisar West
+Mumbai	"Dattani Square Mall, Vasai "
+Mumbai	"De Mall, Veera Desai Area"
+Mumbai	"Domestic Departure - L3, CSIA, Vile Parle East"
+Mumbai	"Equinox Business Park, Kurla"
+Mumbai	"Eskay Resorts, Borivali West"
+Mumbai	"Fariyas Hotel, Colaba"
+Mumbai	"First International Financial Centre, Bandra Kurla Complex"
+Mumbai	Flea Bazaar Café
+Mumbai	Fort
+Mumbai	"Four Seasons, Worli"
+Mumbai	"Fun Republic Mall, Veera Desai Area"
+Mumbai	"Galleria Shopping Centre, Powai"
+Mumbai	"GCC Hotel & Club, Mira Road"
+Mumbai	Ghatkopar East
+Mumbai	Ghatkopar West
+Mumbai	Girgaon Chowpatty
+Mumbai	Girgaum
+Mumbai	"Goldfinch Hotel, Mahakali"
+Mumbai	Gorai
+Mumbai	Goregaon East
+Mumbai	Goregaon West
+Mumbai	"Grand Hyatt, Santacruz East"
+Mumbai	Grant Road
+Mumbai	"Growel's 101 Mall, Kandivali East"
+Mumbai	"Haiko Mall, Powai"
+Mumbai	"High Street Phoenix, Lower Parel"
+Mumbai	"Hill Road, Bandra West"
+Mumbai	"Hilton Mumbai International Airport, Chakala"
+Mumbai	"Holiday Inn, Sakinaka"
+Mumbai	"Hotel Jewel of Chembur, Chembur"
+Mumbai	"Hotel Krishna Palace, Grant Road"
+Mumbai	"Hotel Mirador, Andheri East"
+Mumbai	"Hotel Sai Palace Grand, Malad West"
+Mumbai	"Hotel Sun n Sand, Juhu"
+Mumbai	"Hotel Suvi Palace, Vasai"
+Mumbai	"Hyatt Regency Mumbai, Andheri"
+Mumbai	"Infiniti Mall, Andheri Lokhandwala, Andheri West"
+Mumbai	"Infiniti Mall, Malad West"
+Mumbai	"Inorbit Mall, Malad West"
+Mumbai	"InterContinental, Churchgate"
+Mumbai	"ITC Grand Central, Parel"
+Mumbai	"ITC Maratha, Chakala"
+Mumbai	Jogeshwari
+Mumbai	Juhu
+Mumbai	"Juhu Chowpatty, Juhu"
+Mumbai	"JW Marriott Mumbai Juhu, Juhu"
+Mumbai	"JW Marriott Mumbai Sahar, Chakala"
+Mumbai	"K Star Mall, Chembur"
+Mumbai	Kalbadevi
+Mumbai	Kamala Mills Compound
+Mumbai	Kandivali East
+Mumbai	Kandivali West
+Mumbai	Kemps Corner
+Mumbai	"Kenilworth Mall, Linking Road, Bandra West"
+Mumbai	Khar
+Mumbai	"Kohinoor Continental, Chakala"
+Mumbai	Kurla
+Mumbai	"Le Sutra Hotel, Khar"
+Mumbai	"Link Square Mall, Linking Road, Bandra West"
+Mumbai	"Linking Road, Bandra West"
+Mumbai	Lower Parel
+Mumbai	Mahakali
+Mumbai	Mahalaxmi
+Mumbai	Mahim
+Mumbai	Malabar Hill
+Mumbai	Malad East
+Mumbai	Malad West
+Mumbai	Marine Lines
+Mumbai	"Marine Plaza, Marine Lines"
+Mumbai	Marol
+Mumbai	Matunga East
+Mumbai	Matunga West
+Mumbai	Mazgaon
+Mumbai	"Meluha The Fern, Powai"
+Mumbai	Mira Road
+Mumbai	Mohammad Ali Road
+Mumbai	Mulund East
+Mumbai	Mulund West
+Mumbai	Mumbai Central
+Mumbai	Mumbai CST Area
+Mumbai	Mumbai Food Truck Park
+Mumbai	Nalasopara
+Mumbai	Nariman Point
+Mumbai	Near Andheri East Station
+Mumbai	Near Andheri West Station
+Mumbai	"Novotel, Juhu"
+Mumbai	"Oberoi Mall, Goregaon East"
+Mumbai	"Oshiwara, Andheri West"
+Mumbai	"Pali Hill, Bandra West"
+Mumbai	"Palladium Mall, Lower Parel"
+Mumbai	Parel
+Mumbai	Peddar Road
+Mumbai	"Peninsula Redpine, Marol"
+Mumbai	"Phoenix Marketcity, Kurla"
+Mumbai	Powai
+Mumbai	Prabhadevi
+Mumbai	"President, Cuffe Parade"
+Mumbai	"R City Mall, Ghatkopar West"
+Mumbai	"R Galleria, Runwal Green"
+Mumbai	"R Mall, Mulund West"
+Mumbai	"Radisson, Goregaon West"
+Mumbai	"Ramada Plaza Palm Grove, Juhu"
+Mumbai	"Ramada Powai Hotel & Convention Centre, Powai"
+Mumbai	"Ramee Guestline Hotel, Juhu"
+Mumbai	"Reclamation, Bandra West"
+Mumbai	"Renaissance Hotel, Powai"
+Mumbai	"Rodas Hotel, Powai"
+Mumbai	"Sahara Star, Vile Parle East"
+Mumbai	Sakinaka
+Mumbai	Santacruz East
+Mumbai	Santacruz West
+Mumbai	"Sea Palace Hotel, Colaba"
+Mumbai	Sewri
+Mumbai	Sion
+Mumbai	"Sofitel, Bandra Kurla Complex"
+Mumbai	"Star Mall, Dadar West"
+Mumbai	"Sterling Cineplex Food Court, Fort"
+Mumbai	"Sun n Sand Hotel, Juhu"
+Mumbai	"Svenska Design Hotel, Andheri West"
+Mumbai	"T24 Residency, Marol"
+Mumbai	"Taj Lands End, Bandra"
+Mumbai	"Taj Santacruz, Santacruz East"
+Mumbai	"Taj Wellington Mews, Colaba"
+Mumbai	Tardeo
+Mumbai	"Thakur Mall, Dahisar East"
+Mumbai	"The Gordon House Hotel, Colaba"
+Mumbai	"The Hub Mall, Goregaon East"
+Mumbai	"The Lalit Mumbai, Chakala"
+Mumbai	"The Leela Mumbai, Chakala"
+Mumbai	"The Oberoi, Nariman Point"
+Mumbai	"The Orb, Chakala"
+Mumbai	"The Orb, J W Marriot Sahar Annexe, Chakala"
+Mumbai	"The Orchid, Vile Parle East"
+Mumbai	"The Paradise by Tunga, Mahakali"
+Mumbai	"The Peninsula Grand Hotel, Sakinaka"
+Mumbai	"The Retreat, Malad"
+Mumbai	"The Shalimar Hotel, Kemps Corner"
+Mumbai	"The St. Regis, Lower Parel"
+Mumbai	"The Taj Mahal Palace, Colaba"
+Mumbai	"The Westin Mumbai Garden City, Goregaon East"
+Mumbai	"TheAMbassador Hotel, Churchgate"
+Mumbai	"Times Square, Marol"
+Mumbai	"Trident, Bandra Kurla Complex"
+Mumbai	"Trident, Nariman Point"
+Mumbai	"Tunga International, Mahakali"
+Mumbai	Vasai
+Mumbai	Veera Desai Area
+Mumbai	"Versova, Andheri West"
+Mumbai	Vikhroli
+Mumbai	Vile Parle East
+Mumbai	Vile Parle West
+Mumbai	Virar
+Mumbai	"VITS Hotel, Marol"
+Mumbai	Wadala
+Mumbai	"Waterstones Hotel, Marol"
+Mumbai	"West End Hotel, Marine Lines"
+Mumbai	Worli
+Mussoorie	Barlow Ganj
+Mussoorie	Christian Village
+Mussoorie	"Jaypee Residency Manor, Barlow Ganj"
+Mussoorie	"JW Marriott Mussoorie Walnut Grove Resort & Spa, Kempty Fall"
+Mussoorie	Kempty Fall Road
+Mussoorie	Landour
+Mussoorie	Library Road
+Mussoorie	The Mall Road
+Mysore	Bannimantap
+Mysore	Bogadi
+Mysore	Chamrajpura
+Mysore	Country Inn & Suites By Radisson
+Mysore	Doora
+Mysore	"Fortune JP Palace, Chamrajpura"
+Mysore	"Garuda Mall, Mandi Mohalla"
+Mysore	Gayathripuram
+Mysore	Gokulam
+Mysore	Grand Maurya Hotel
+Mysore	"Habitat Mall, Jayalakhsmipuram"
+Mysore	"Hotel Southern Star, Yadavgiri"
+Mysore	Ittige Gudu
+Mysore	Jayalakhsmipuram
+Mysore	Kalyangiri
+Mysore	"Kings Kourt Hotel, Champrajpura"
+Mysore	Kuvempunagar
+Mysore	"Mall Of Mysore, Jayalakshmipuram"
+Mysore	Mandi Mohalla
+Mysore	"Pai Hotels, Doora"
+Mysore	Rajendra Nagar
+Mysore	"Royal Orchid Metropole, Yadavgiri"
+Mysore	"Ruchi the Prince, Vijay Nagar"
+Mysore	"Sandesh The Prince Hotel, Doora"
+Mysore	"The Quorum Hotel, Yadavgiri"
+Mysore	Tilak Nagar
+Mysore	Vidyaranyapura
+Mysore	Vijay Nagar
+Mysore	Yadavgiri
+Nagpur	" Le Meridien, Wardha Road"
+Nagpur	Ayodhya Nagar
+Nagpur	Bajaj Nagar
+Nagpur	Chaoni
+Nagpur	Civil Lines
+Nagpur	Dhantoli
+Nagpur	Dharampeth
+Nagpur	"Empress City Mall, Sitabuldi"
+Nagpur	Gandhibagh
+Nagpur	Gayatri Nagar
+Nagpur	Gittikhadan
+Nagpur	Gokulpeth
+Nagpur	Hansapuri
+Nagpur	Hingna T Point
+Nagpur	"Hotel Hardeo, Sitabuldi"
+Nagpur	"Hotel Tuli Imperial, Ramdaspeth"
+Nagpur	Jagrut Nagar
+Nagpur	Jaripatka
+Nagpur	Kamptee Locality
+Nagpur	Lakadganj
+Nagpur	Manish Nagar
+Nagpur	Mankapur
+Nagpur	Mihan
+Nagpur	Mohan Nagar
+Nagpur	Mominpura
+Nagpur	Nandanvan
+Nagpur	Pachpaoli
+Nagpur	Pratap Nagar
+Nagpur	"Radisson Blu Hotel, Nagpur"
+Nagpur	Ramdaspeth
+Nagpur	Ravi Nagar
+Nagpur	Sadar
+Nagpur	Seminary Hills
+Nagpur	Sitabuldi
+Nagpur	Vayusena nagar
+Nagpur	Vivekanand Nagar
+Nagpur	Wardha Road
+Nagpur	Wardhaman Nagar
+Nainital	Ayarpatta
+Nainital	Mall Road
+Nainital	Sherwani
+Nainital	Tallital
+Nashik	Anand Wali Goan
+Nashik	"Bon Vivant, College Road"
+Nashik	"City Center, Parijat Nagar"
+Nashik	College Road
+Nashik	"Hotel Emerald Park, Sharanpur"
+Nashik	"Hotel Express Inn, Pathardi Phata"
+Nashik	"Hotel IBIS, Satpur"
+Nashik	Meuse Jupiter Hotel Pathardi Phata
+Nashik	Panchavati
+Nashik	Parijat Nagar
+Nashik	Pathardi Phata
+Nashik	Patil Nagar
+Nashik	Satpur
+Nashik	Sharanpur
+Nashik	"SSK Solitaire, Satpur"
+Nashik	"The Gateway Hotel, Pathardi Phata "
+Nashik	Veer Sawarkar Nagar
+Nasik	Cidco
+Nasik	Deolali
+Nasik	Doodh Bazar
+Nasik	Jail Road
+Nasik	Nashik Road
+Nasik	Ravivar Nagar
+Nasik	Upnagar
+Navi Mumbai	Airoli
+Navi Mumbai	CBD-Belapur
+Navi Mumbai	"Country Inn & Suites By Carlson, Ghansoli"
+Navi Mumbai	"Four Points by Sheraton, Vashi"
+Navi Mumbai	Ghansoli
+Navi Mumbai	"Haware Centurion Mall, Seawoods"
+Navi Mumbai	"Hotel Centre Point, CBD Belapur"
+Navi Mumbai	"Hotel Highway View, Sanpada"
+Navi Mumbai	"Hotel Yogi Executive, Vashi"
+Navi Mumbai	"Inorbit Mall, Vashi"
+Navi Mumbai	Kalamboli
+Navi Mumbai	Kamothe
+Navi Mumbai	Kharghar
+Navi Mumbai	Kopar Khairane
+Navi Mumbai	"Little World Mall, Kharghar"
+Navi Mumbai	Nerul
+Navi Mumbai	New Panvel
+Navi Mumbai	Old Panvel
+Navi Mumbai	"Orion Mall, Panvel"
+Navi Mumbai	"Pallavi Avida, Kalamboli"
+Navi Mumbai	"Raghuleela Mall, Vashi"
+Navi Mumbai	"Royal Tulip, Kharghar"
+Navi Mumbai	Sanpada
+Navi Mumbai	"Satra Plaza, Vashi"
+Navi Mumbai	Seawoods
+Navi Mumbai	"Seawoods Grand Central Mall, Seawoods"
+Navi Mumbai	"The Park, CBD Belapur"
+Navi Mumbai	Vashi
+Navi Mumbai	"Yogi Midtown, Turbhe"
+Nayagaon	Forest Hill Golf & Country Club
+Nayagaon	Nayagaon
+Neemrana	Days Hotel Neemrana
+Neemrana	Neemrana
+Neemrana	Ramada Neemrana
+New Delhi	 Vardhaman Crown Mall
+New Delhi	"3C's Mall, Lajpat Nagar"
+New Delhi	Adchini
+New Delhi	"Aditya Mega Mall, Karkardooma"
+New Delhi	Aerocity
+New Delhi	"Aggarwal City Mall, Pitampura"
+New Delhi	"Aggarwal City Plaza, Rohini"
+New Delhi	Alaknanda
+New Delhi	"Aloft, Aerocity"
+New Delhi	Amar Colony
+New Delhi	"Ambience Mall, Vasant Kunj"
+New Delhi	"Ameya Suites, Jasola"
+New Delhi	Anand Lok
+New Delhi	Anand Vihar
+New Delhi	"Andaz Delhi, Aerocity"
+New Delhi	"Ansal Plaza Mall, Khel Gaon Marg"
+New Delhi	"ARSS Mall, Paschim Vihar"
+New Delhi	Ashok Vihar Phase 1
+New Delhi	Ashok Vihar Phase 2
+New Delhi	Ashok Vihar Phase 3
+New Delhi	Azadpur
+New Delhi	Barakhamba Road
+New Delhi	"Basant Lok Market, Vasant Vihar"
+New Delhi	"Bengali Market, Mandi House"
+New Delhi	Bhikaji Cama Place
+New Delhi	"Central Market, Lajpat Nagar 2"
+New Delhi	"Champa Gali, Saket"
+New Delhi	"Chanakya Mall, Chanakyapuri"
+New Delhi	Chanakyapuri
+New Delhi	Chander Nagar
+New Delhi	Chandni Chowk
+New Delhi	Chawri Bazar
+New Delhi	Chhatarpur
+New Delhi	Chittaranjan Park
+New Delhi	"City Centre Mall, Sector 12, Dwarka"
+New Delhi	"City Square Mall, Rajouri Garden"
+New Delhi	Civil Lines
+New Delhi	"Community Centre, New Friends Colony"
+New Delhi	Connaught Place
+New Delhi	"Crescent Square Mall, Rohini"
+New Delhi	"Cross River Mall, Karkardooma"
+New Delhi	"Crowne Plaza Hotel, Rohini"
+New Delhi	"Crowne Plaza, Okhla"
+New Delhi	"D Mall, Netaji Subhash Place"
+New Delhi	Daryaganj
+New Delhi	Defence Colony
+New Delhi	"Defence Colony Main Market, Defence Colony"
+New Delhi	Delhi Cantt.
+New Delhi	Delhi University-GTB Nagar
+New Delhi	"Dilli Haat, INA"
+New Delhi	Dilshad Garden
+New Delhi	"District Centre, Janakpuri"
+New Delhi	"DLF City Centre Mall, Shalimar Bagh"
+New Delhi	"DLF Emporio Mall, Vasant Kunj"
+New Delhi	"DLF Place Mall, Saket"
+New Delhi	"DLF Promenade Mall, Vasant Kunj"
+New Delhi	"DLF South Square, Sarojini Nagar"
+New Delhi	East of Kailash
+New Delhi	East Patel Nagar
+New Delhi	"Epicuria Food Mall, Nehru Place"
+New Delhi	"Eros Hotel, Nehru Place"
+New Delhi	"Essex Farms, Adchini"
+New Delhi	Feroze Shah Road
+New Delhi	"Flyover Market, Defence Colony"
+New Delhi	Friends Colony
+New Delhi	Geeta Colony
+New Delhi	"Ginger Hotel, Vivek Vihar"
+New Delhi	Gole Market
+New Delhi	"Gourmet Hub, Pashim Vihar"
+New Delhi	Greater Kailash 1 
+New Delhi	Greater Kailash 2 
+New Delhi	Greater Kailash 3 
+New Delhi	Green Park
+New Delhi	Gujranwala Town
+New Delhi	Hauz Khas
+New Delhi	Hauz Khas Village
+New Delhi	"Hilton Garden Inn, Saket"
+New Delhi	"Holiday Inn, Mayur Vihar"
+New Delhi	"Hotel City Park, Pitampura"
+New Delhi	"Hotel The Royal Plaza, Janpath"
+New Delhi	"Hyatt Regency, Bhikaji Cama Place"
+New Delhi	India Gate
+New Delhi	"India Habitat Centre, Lodhi Road"
+New Delhi	IP Extension
+New Delhi	"ITC Maurya, Chanakyapuri"
+New Delhi	ITO
+New Delhi	Jail Road
+New Delhi	Jama Masjid
+New Delhi	Janakpuri
+New Delhi	Jangpura
+New Delhi	Janpath
+New Delhi	Jasola
+New Delhi	"Jaypee Siddharth, Rajendra Place"
+New Delhi	"JMD Kohinoor Mall, Greater Kailash"
+New Delhi	JW Marriott New Delhi
+New Delhi	Kailash Colony
+New Delhi	Kalkaji
+New Delhi	Kamla Nagar
+New Delhi	Kapashera
+New Delhi	Karampura
+New Delhi	Karkardooma
+New Delhi	Karol Bagh
+New Delhi	"Kasbah, Greater Kailash  1"
+New Delhi	Kashmiri Gate
+New Delhi	Khan Market
+New Delhi	Khanpur
+New Delhi	Kirti Nagar
+New Delhi	Krishna Nagar
+New Delhi	Lajpat Nagar 1
+New Delhi	Lajpat Nagar 2
+New Delhi	Lajpat Nagar 4
+New Delhi	Lawrence Road
+New Delhi	Laxmi Nagar
+New Delhi	"Le Meridien, Janpath"
+New Delhi	"Living Style Mall, Jasola"
+New Delhi	Lodhi Colony
+New Delhi	Lodhi Road
+New Delhi	"M Block Market, Greater Kailash 1 "
+New Delhi	"M Block Market, Greater Kailash 2 "
+New Delhi	Mahipalpur
+New Delhi	Majnu ka Tila
+New Delhi	Malviya Nagar
+New Delhi	Mandi House
+New Delhi	Mayapuri Phase 1
+New Delhi	Mayapuri Phase 2
+New Delhi	Mayur Vihar Phase 1
+New Delhi	Mayur Vihar Phase 2
+New Delhi	Mayur Vihar Phase 3
+New Delhi	"Meharchand Market, Lodhi Colony"
+New Delhi	Mehrauli
+New Delhi	"Metro Walk Mall, Rohini"
+New Delhi	MG Road
+New Delhi	"MGF Metropolitan Mall, Saket"
+New Delhi	Model Town 1
+New Delhi	Model Town 2
+New Delhi	"Moments Mall, Kirti Nagar"
+New Delhi	Moti Bagh
+New Delhi	Moti Nagar
+New Delhi	Mukherjee Nagar
+New Delhi	Munirka
+New Delhi	Murthal
+New Delhi	Nangloi
+New Delhi	Naraina
+New Delhi	Nehru Place
+New Delhi	Netaji Subhash Place
+New Delhi	New Friends Colony
+New Delhi	Nizamuddin
+New Delhi	"Novotel New Delhi Aerocity, Aerocity"
+New Delhi	Okhla Phase 2
+New Delhi	Okhla Phase 3
+New Delhi	"Pacific Mall, Tagore Garden"
+New Delhi	Paharganj
+New Delhi	Palam
+New Delhi	"Palate of Delhi, Chanakyapuri"
+New Delhi	Panchsheel Park
+New Delhi	Pandara Road Market
+New Delhi	Pandav Nagar
+New Delhi	Paschim Vihar
+New Delhi	Pitampura
+New Delhi	Pragati Maidan
+New Delhi	Prashant Vihar
+New Delhi	Preet Vihar
+New Delhi	"Pride Plaza Hotel, Aerocity"
+New Delhi	"Pullman New Delhi Aerocity, Aerocity"
+New Delhi	Punjabi Bagh
+New Delhi	"PVR Anupam Complex, Saket"
+New Delhi	Qutab Institutional Area
+New Delhi	R K Puram
+New Delhi	"Radisson Blu Plaza Delhi Airport, Mahipalpur"
+New Delhi	"Radisson Blu, Connaught Place"
+New Delhi	"Radisson Blu, Paschim Vihar"
+New Delhi	"Radisson Blu, Sector 13, Dwarka"
+New Delhi	Rajendra Place
+New Delhi	Rajinder Nagar
+New Delhi	Rajiv Chowk Metro Station
+New Delhi	Rajouri Garden
+New Delhi	Rohini
+New Delhi	"Roseate House, Aerocity"
+New Delhi	Safdarjung
+New Delhi	Sainik Farms
+New Delhi	Saket
+New Delhi	"Sangam Courtyard, RK Puram"
+New Delhi	Sarita Vihar
+New Delhi	Sarojini Nagar
+New Delhi	Satyaniketan
+New Delhi	SDA
+New Delhi	"SDA Market, SDA"
+New Delhi	"Sector 10, Dwarka"
+New Delhi	"Sector 11, Dwarka"
+New Delhi	"Sector 12, Dwarka"
+New Delhi	"Sector 13, Dwarka"
+New Delhi	"Sector 15, Dwarka"
+New Delhi	"Sector 19, Dwarka"
+New Delhi	"Sector 2, Dwarka"
+New Delhi	"Sector 21, Dwarka"
+New Delhi	"Sector 22, Dwarka"
+New Delhi	"Sector 23, Dwarka"
+New Delhi	"Sector 4, Dwarka"
+New Delhi	"Sector 5, Dwarka"
+New Delhi	"Sector 6, Dwarka"
+New Delhi	"Sector 7, Dwarka"
+New Delhi	"Sector 8, Dwarka"
+New Delhi	"Sector 9, Dwarka"
+New Delhi	"Select Citywalk Mall, Saket"
+New Delhi	Shahdara
+New Delhi	Shahpur Jat
+New Delhi	Shakarpur
+New Delhi	Shalimar Bagh
+New Delhi	"Shangri-La's - Eros Hotel, Connaught Place"
+New Delhi	"Sheraton New Delhi Hotel, Saket"
+New Delhi	South Extension 1
+New Delhi	South Extension 2
+New Delhi	"Spark Mall, Kamla Nagar"
+New Delhi	Subhash Nagar
+New Delhi	Sunder Nagar
+New Delhi	Tagore Garden
+New Delhi	"Taj Palace, Chanakyapuri"
+New Delhi	"Taj Vivanta, Khan Market"
+New Delhi	"The Ashok, Chanakyapuri"
+New Delhi	"The Chanakya, Chanakyapuri"
+New Delhi	"The Claridges, Aurangzeb Road"
+New Delhi	"The Colonnade, Connaught Place"
+New Delhi	"The Gallery on MG, MG Road"
+New Delhi	"The Grand New Delhi, Vasant Kunj"
+New Delhi	"The Imperial, Janpath"
+New Delhi	"The India Mall, New Friends Colony"
+New Delhi	"The Lalit New Delhi, Barakhamba Road"
+New Delhi	"The Leela Palace, Chanakyapuri"
+New Delhi	The LeelaAMbience Convention Hotel
+New Delhi	"The Lodhi, Lodhi Road"
+New Delhi	"The Metropolitan Hotel & Spa, Connaught Place"
+New Delhi	"The Oberoi, Dr. Zakir Hussain Marg"
+New Delhi	"The Park, Connaught Place"
+New Delhi	"The Roseate, Kapashera"
+New Delhi	"The Suryaa New Delhi, New Friends Colony"
+New Delhi	"The Taj Mahal Hotel, Mansingh Road"
+New Delhi	Tilak Nagar
+New Delhi	Trilokpuri
+New Delhi	Tughlakabad Institutional Area
+New Delhi	Uday Park
+New Delhi	"Unity One Mall, Janakpuri"
+New Delhi	Uttam Nagar
+New Delhi	"V3S Mall, Laxmi Nagar"
+New Delhi	"Vardhaman Star City Mall, Sector 7, Dwarka"
+New Delhi	Vasant Kunj
+New Delhi	"Vasant Square Mall, Vasant Kunj"
+New Delhi	Vasant Vihar
+New Delhi	Vasundhara Enclave
+New Delhi	Vijay Nagar
+New Delhi	Vikaspuri
+New Delhi	"Vivanta Dwarka, Sector 21, Dwarka"
+New Delhi	"WelcomHotel Dwarka, Sector 10, Dwarka"
+New Delhi	"West End Mall, Janak Puri"
+New Delhi	"West Gate Mall, Rajouri Garden"
+New Delhi	West Patel Nagar
+New Delhi	"Worldmark 1, Aerocity"
+New Delhi	Yusuf Sarai
+Noida	"Brahmaputra Shopping Complex, Sector 29, Noida"
+Noida	"Crowne Plaza Greater Noida, Surajpur"
+Noida	"DLF Mall of India, Sector 18,  Noida"
+Noida	"Ganga Shopping Complex, Sector 29"
+Noida	"Gardens Galleria, Sector 38 Noida"
+Noida	"Logix City Centre, Sector 32, Noida"
+Noida	"Park Ascent, Sector 62, Noida"
+Noida	"Radisson Blu, Sector 18, Noida"
+Noida	"Radisson, Sector 55, Noida"
+Noida	"Sandal Suites By Lemon Tree Hotels, Sector 135 Noida"
+Noida	Sector 11
+Noida	Sector 110
+Noida	Sector 12
+Noida	Sector 125
+Noida	Sector 127
+Noida	Sector 132
+Noida	Sector 135
+Noida	Sector 15
+Noida	Sector 16
+Noida	Sector 18
+Noida	Sector 2
+Noida	Sector 22
+Noida	Sector 25
+Noida	Sector 26
+Noida	Sector 27
+Noida	Sector 29
+Noida	Sector 31
+Noida	Sector 34
+Noida	Sector 37
+Noida	Sector 38
+Noida	Sector 41
+Noida	Sector 44
+Noida	Sector 49
+Noida	Sector 5
+Noida	Sector 50
+Noida	Sector 51
+Noida	Sector 53
+Noida	Sector 61
+Noida	Sector 62
+Noida	Sector 63
+Noida	Sector 71
+Noida	Sector 72
+Noida	Sector 83
+Noida	Sector 93
+Noida	"Spice World Mall, Sector 25"
+Noida	"Supertech Shopprix Mall, Sector 61"
+Noida	"The Great India Place, Sector 38"
+Ooty	Anna Nagar
+Ooty	Elk Hill
+Ooty	Fern Hill
+Ooty	Fingerpost
+Ooty	"Hotel Accord, Thalaimund"
+Ooty	"Hotel Gem Park, Marlimund"
+Ooty	"Hotel Monarch, Marlimund"
+Ooty	"Hotel Nahar, Elk Hill"
+Ooty	Indunagar
+Ooty	Kandal
+Ooty	Marlimund
+Ooty	"Taj Savoy, Kandal"
+Ooty	Thalayathimund
+Ooty	"The Sterling Resorts, Elk Hill"
+Ooty	West Mere
+Palakkad	Chandranagar Colony
+Palakkad	"Joby's Mall, Vidyut Nagar"
+Palakkad	Kalepully
+Palakkad	Kalmandapam
+Palakkad	Kalpathy
+Palakkad	Koottupaatha
+Palakkad	Melamuri
+Palakkad	Nurani
+Palakkad	Puthuppariyaram
+Palakkad	Thirunellayi
+Palakkad	Tippusulthan Nagar
+Palakkad	Vadakkanthara
+Palakkad	Vidyut Nagar
+Panchkula	"Golden Tulip, Panchkula"
+Panchkula	Holiday Inn
+Panchkula	"Hotel North Park, Panchkula"
+Panchkula	"Hotel Pallavi, Sector 5"
+Panchkula	"Hotel Peninsula, Sector 8, Panchkula"
+Panchkula	"Hotel Prabhat Inn, Sector 10, Panchkula"
+Panchkula	"Mansa Devi Complex, Panchkula"
+Panchkula	MDC
+Panchkula	"Paras Downtown Square Mall, Sector 19, Panchkula"
+Panchkula	Sector 10
+Panchkula	Sector 11
+Panchkula	Sector 14
+Panchkula	Sector 15
+Panchkula	Sector 16
+Panchkula	Sector 19
+Panchkula	Sector 2
+Panchkula	Sector 20
+Panchkula	Sector 25
+Panchkula	Sector 5
+Panchkula	Sector 6
+Panchkula	Sector 7
+Panchkula	Sector 8
+Panchkula	Sector 9
+Panchkula	"The Cove, Sector 5, Panchkula "
+Panchkula	"WelcomHotel Bella Vista, Sector 5"
+Patiala	Abchal Nagar
+Patiala	Adalat Bazaar
+Patiala	Gurbax Colony
+Patiala	Lahori Gate
+Patiala	"Leela Bhavan, Model Town"
+Patiala	Model Town
+Patiala	Nabha
+Patiala	Nabha Gate
+Patiala	New Officers Colony
+Patiala	"Omaxe Mall, Lahori Gate"
+Patiala	Patiala Cantt
+Patiala	Prem Nagar
+Patiala	Tripuri
+Patiala	Urban Estate
+Patna	Agam Kuan
+Patna	Anandpuri
+Patna	Anisabad
+Patna	Bakerganj
+Patna	Begampur
+Patna	Digha Ghat
+Patna	Fraser Road Area
+Patna	Gardanibagh
+Patna	Golambar
+Patna	Hajipur
+Patna	"Hotel Chanakya, Sri Krishnapuri"
+Patna	"Hotel Gargee Grand, Golambar"
+Patna	"Hotel Maurya, Lodipur"
+Patna	"Hotel Patliputra Ashok, Fraser Road Area"
+Patna	"Hotel Patliputra Exotica, Golambar"
+Patna	"Hotel Samrat International, Fraser Road Area"
+Patna	"Hotel The Panache, Golambar"
+Patna	Kankarbagh
+Patna	Khajpura
+Patna	Kidwaipuri
+Patna	Kurji
+Patna	Lodipur
+Patna	Mainpura
+Patna	"Maurya Lok, Fraser Road Area"
+Patna	Mithapur
+Patna	Muhammadpur
+Patna	"P&M Mall, Kurji"
+Patna	Patliputra Colony
+Patna	"Patna Central Mall, Fraser Road"
+Patna	"Patna One Mall, Fraser Road Area"
+Patna	Phulwari Sharif
+Patna	Rajbansi Nagar
+Patna	Rajendra Nagar
+Patna	Ranipur
+Patna	Rukanpura
+Patna	Sadikpur
+Patna	Sri Krishnapuri
+Patna	The Premiere Square - Golambar
+Puducherry	"Accord Puducherry, Gandhinagar"
+Puducherry	Ajanta Sea View
+Puducherry	Auroville
+Puducherry	Gandhinagar
+Puducherry	Heritage Town
+Puducherry	Hot Cold Bar & Restaurants
+Puducherry	Hotel Abi Krishna
+Puducherry	"Hotel Anandha Inn, Heritage Town"
+Puducherry	Hotel Annamalai International 
+Puducherry	Hotel Atithi
+Puducherry	"Hotel Du Parc, White Town"
+Puducherry	"Hotel Le Royal Park, MG Road"
+Puducherry	Hotel Palanisamy
+Puducherry	Kottukuppam
+Puducherry	Laila's County
+Puducherry	Lawspet
+Puducherry	MG Road
+Puducherry	Mudaliarpet
+Puducherry	Murangapakkam
+Puducherry	Muthial Pet
+Puducherry	Palais De Mahe
+Puducherry	"Providence Mall, MG Road"
+Puducherry	Sunway Manor
+Puducherry	"The Promenade, White Town"
+Puducherry	"Villa Shanti, White Town"
+Puducherry	Villianur
+Puducherry	White Town
+Pune	"ABC Farms,Mundhwa"
+Pune	"Abhiruchi Mall, Sinhgad Road"
+Pune	"Aditi Mall, Baner Road"
+Pune	"Aditya Shagun Mall, Bavdhan"
+Pune	Akurdi
+Pune	"Amanora Town Centre, Hadapsar"
+Pune	Ambrosia Resort and Spa
+Pune	Aundh
+Pune	B.T. Kawade Road
+Pune	Balewadi
+Pune	"Balewadi High Street, Balewadi"
+Pune	Baner
+Pune	Bavdhan
+Pune	"Bhosale-Shinde Arcade, JM Road"
+Pune	Bhosari
+Pune	Bhugaon
+Pune	Bibvewadi
+Pune	"Blue Diamond, Koregaon Park"
+Pune	Budhwar Peth
+Pune	Bund Garden Road
+Pune	Camp Area
+Pune	Chakan
+Pune	Chandan Nagar
+Pune	Chinchwad
+Pune	"Citrus Hotel, Pimpri"
+Pune	"City Hub @ WTC, Kharadi"
+Pune	CityONE Mall
+Pune	"Club 29, Wakad"
+Pune	"Conrad Pune, Bund Garden Road"
+Pune	"Courtyard By Marriott, Hinjewadi"
+Pune	"Creaticity Mall, Yerawada"
+Pune	"Crowne Plaza Pune City Centre, Bund Garden Road"
+Pune	Dange Chowk
+Pune	Deccan Gymkhana
+Pune	Deccan Rendezvous
+Pune	Dehu Road
+Pune	Della Adventure Resort
+Pune	"Destination Centre, Magarpatta"
+Pune	Dhankawadi
+Pune	Dhanori
+Pune	Dhole Patil Road
+Pune	"Dorabjee Mall, NIBM Road, Pune"
+Pune	DoubleTree By Hilton Hotel
+Pune	East Street
+Pune	Erandwane
+Pune	"Fariyas Holiday Resort, Lonavala"
+Pune	Fatima Nagar
+Pune	FC Road
+Pune	"Fort Jadhavgadh, Hadapsar"
+Pune	"Four Points by Sheraton, Viman Nagar"
+Pune	Hadapsar
+Pune	Hinjawadi
+Pune	"Holiday Inn, Hinjewadi"
+Pune	"Hotel Aurora Towers, Camp"
+Pune	"Hotel Grand Visava, Lonavala "
+Pune	"Hotel Green Park, Baner"
+Pune	"Hotel Hindusthan International, Viman Nagar"
+Pune	"Hotel Mercure, Lavasa"
+Pune	Hotel Orritel Convention & Wedding Resort
+Pune	Hotel Royal Orchid Central Kalyani Nagar
+Pune	"Hotel Sagar Plaza, Camp Area, Pune"
+Pune	"Hotel Shree Nanda Excellency, Aundh"
+Pune	"HotelAMbience Excellency, Wakad"
+Pune	"Hyatt Place, Hinjewadi  "
+Pune	"Hyatt Pune, Nagar Road"
+Pune	JM Road
+Pune	"JW Marriott Pune, Senapati Bapat Road"
+Pune	Kalyani Nagar
+Pune	Karve Nagar
+Pune	Katraj
+Pune	"Keys Hotel, Pimpri"
+Pune	Khadki
+Pune	Khandala
+Pune	Kharadi
+Pune	Kondhwa
+Pune	Koregaon Park
+Pune	Kothrud
+Pune	"Kumar Pacific Mall, Swargate"
+Pune	Lavasa
+Pune	Law College Road
+Pune	Lemon Tree Hotel
+Pune	Lohegaon
+Pune	Lonavala
+Pune	Magarpatta
+Pune	"Mariplex Mall, Kalyani Nagar"
+Pune	Marriott Suites Pune
+Pune	MG Road
+Pune	Model Colony
+Pune	Mulshi Road
+Pune	Mundhwa
+Pune	Narhe
+Pune	NIBM Road
+Pune	Nigdi
+Pune	"Novotel, Nagar Road"
+Pune	Old Mumbai-Pune Highway
+Pune	"Ozone Mall, Aundh"
+Pune	Pancard Clubs
+Pune	"Panchshil Tech Park, Yerawada"
+Pune	"Parc Estique, Viman Nagar"
+Pune	"Parichay Hotel, FC Road"
+Pune	Parvati
+Pune	Pashan
+Pune	"Phoenix Market City, Viman Nagar"
+Pune	Pimple Gurav
+Pune	Pimple Nilakh
+Pune	Pimple Saudagar
+Pune	Pimpri
+Pune	"Premier Plaza, Chinchwad"
+Pune	"Pubtown, Creaticity Mall, Yerawada"
+Pune	"Pune Central Mall, Shivaji Nagar"
+Pune	"Pune International Airport, Lohegaon"
+Pune	Pune University
+Pune	Pune-Solapur Road
+Pune	"R Deccan Mall, JM Road"
+Pune	"Radisson Blu Hotel, Kharadi"
+Pune	"Radisson Blu, Hinjawadi"
+Pune	"Rahul Complex, Kothrud"
+Pune	"Rainbow Plaza, Pimple Saudagar"
+Pune	"Rajiv Gandhi IT Park, Hinjewadi"
+Pune	Rasta Peth
+Pune	Ravet
+Pune	Sadashiv Peth
+Pune	Salunkhe Vihar Road
+Pune	Satara Road
+Pune	"Sayaji Hotels, Wakad"
+Pune	"Seasons Mall, Magarpatta "
+Pune	Senapati Bapat Road
+Pune	"SGS Mall, Camp Area"
+Pune	Shaniwar Peth
+Pune	"Shantai Hotel, Rasta Peth"
+Pune	"Sheraton Grand, Bund Garden Road"
+Pune	Shivaji Nagar
+Pune	Shivapur
+Pune	Shukrawar Peth
+Pune	Sinhgad Road
+Pune	"Spot 18 Mall, Pimple Saudagar"
+Pune	"St Laurn Hotel, Koregaon Park"
+Pune	Sus
+Pune	Swargate
+Pune	"The Central Park Hotel, Bund Garden Road"
+Pune	"The Corinthians, Kondhawa"
+Pune	"The Coronet Hotel, Deccan Gymkhana"
+Pune	"The Emerald Resorts, Old Mumbai-Pune Highway"
+Pune	"The E-Square Hotel, Shivaji Nagar"
+Pune	"The Hyatt Regency, Nagar Road"
+Pune	"The Mills, Bund Garden Road"
+Pune	"The O Hotel, Koregaon Park"
+Pune	"The Pavillion, Senapati Bapat Road"
+Pune	The Pride Hotel Shivaji Nagar
+Pune	"The Ramee Grand Hotel, Shivaji Nagar"
+Pune	"The Waterfront Shaw, Lavasa"
+Pune	"The Westin, Mundhwa"
+Pune	Tilak Road
+Pune	"Triose PLaza, Lonavala"
+Pune	"Valvan Village Resort, Lonavala"
+Pune	"Villa Casa, Pimple Gurav"
+Pune	Viman Nagar
+Pune	Vishrantwadi
+Pune	"Vivanta Pune, Hinjewadi"
+Pune	Wadgaon Sheri
+Pune	Wagholi
+Pune	Wakad
+Pune	Wanowrie
+Pune	Warje
+Pune	"Westend Mall, Aundh"
+Pune	"White Square, Hinjawadi"
+Pune	"Xion Mall, Hinjawadi"
+Pune	Yerawada
+Pushkar	Badi Basti
+Pushkar	Choti Basti
+Pushkar	Ganahera
+Pushkar	"The Westin Pushkar Resort & Spa, Ganahera"
+Raipur	Amanaka
+Raipur	"Ambuja City Centre, Mowa"
+Raipur	Bhanpuri
+Raipur	Bhatagaon
+Raipur	Boriyakhurd
+Raipur	Changurabhata
+Raipur	"City Centre Mall, Devendra Nagar"
+Raipur	Civil Lines
+Raipur	"Club Parasio, Kota"
+Raipur	Deopuri
+Raipur	Devendra Nagar
+Raipur	Gogaon 
+Raipur	Govind Nagar
+Raipur	"Hotel Simran, Moudhapara"
+Raipur	Jawahar Nagar
+Raipur	Kota
+Raipur	Lakhe Nagar
+Raipur	"Magneto Mall, Shankar Nagar"
+Raipur	Mahaveer Nagar
+Raipur	Mathpurena
+Raipur	Moudhapara
+Raipur	Mowa
+Raipur	Purena
+Raipur	Samta Colony
+Raipur	Shankar Nagar
+Raipur	Shrinagar
+Raipur	Tatibandh
+Raipur	Tikrapara
+Rajkot	150 Feet Ring Road
+Rajkot	Arya Nagar
+Rajkot	Bhagwatipara
+Rajkot	Bhakti Nagar
+Rajkot	Dr Yagnik Road
+Rajkot	Jangleshwar
+Rajkot	Junction Plot
+Rajkot	Kalawad Road
+Rajkot	Kotecha Nagar
+Rajkot	Kotharia
+Rajkot	Kothi Compound
+Rajkot	Manharpur
+Rajkot	Mavdi
+Rajkot	Mota Mava
+Rajkot	Nana Mava
+Rajkot	Popat Para
+Rajkot	Race Course
+Rajkot	"Reliance Mall, 150 Feet Ring Road"
+Rajkot	Sardar Nagar
+Rajkot	Soni Bazaar
+Rajkot	"The Fern, Arya Nagar"
+Rajkot	Vavdi
+Ranchi	Ahirtoli
+Ranchi	Ashok Nagar
+Ranchi	B.I.T
+Ranchi	Bariatu
+Ranchi	"Capitol Residency, Kanka"
+Ranchi	"Chanakya BNR Hotel, Kanka"
+Ranchi	Dhurwa
+Ranchi	Doranda
+Ranchi	"Eastern Mall, Lalpur"
+Ranchi	Gandhi Nagar
+Ranchi	"GEL Church Complex, Hindpiri"
+Ranchi	Harmu
+Ranchi	Hatia
+Ranchi	"Hi High Street Mall, Hindpiri"
+Ranchi	Hindpiri
+Ranchi	"Hotel Capitol Hill, Hindpiri"
+Ranchi	"Hotel Green Acres, Doranda"
+Ranchi	"Hotel Holiday Home, Kanke"
+Ranchi	"Hotel Le Lack, Ahirtoli"
+Ranchi	Hotel The Raso
+Ranchi	"Hotel Yuvraj Palace, Doranda"
+Ranchi	Kadru
+Ranchi	Kanka
+Ranchi	Kanke
+Ranchi	Kantatoli
+Ranchi	Khelgaon
+Ranchi	Kokar
+Ranchi	Lalpur
+Ranchi	"Maplewood, Kanka"
+Ranchi	Morabadi
+Ranchi	Namkum
+Ranchi	"Nucleus Mall, Lalpur"
+Ranchi	"Radisson Blu, Hindpiri"
+Ranchi	Ratu
+Ranchi	Samlong
+Ranchi	"Spring City Mall, Doranda"
+Ranchi	"The Royal Retreat, Bariatu"
+Ranchi	Upper Bazar
+Rishikesh	Dhalwala
+Rishikesh	Gumaniwala
+Rishikesh	Labor Colony
+Rishikesh	Manvendera Nagar
+Rishikesh	Shyampur
+Rishikesh	Swarg Ashram
+Rishikesh	Tapovan
+Salem	Alagapuram Pudur
+Salem	Ammapet
+Salem	Ariyanur
+Salem	"CJ Palazzio, Suramangalam"
+Salem	"Cross Town Eatery, Narosthipatty"
+Salem	Gorimedu
+Salem	"Grand Estancia, Narsothipatty"
+Salem	Gugai
+Salem	"Hotel LRN, Alagapuram Pudur"
+Salem	"Hotel Windsor Castle, Alagapuram Pudur"
+Salem	"Kandaswarna Shopping Mall, Alagapuram Pudur"
+Salem	Kannankurichi
+Salem	Kitchipalayam
+Salem	Kondalampatti
+Salem	Narasothipatti
+Salem	"Nirmal Skywin Shopping Mall, Alagapuram Pudur"
+Salem	Periyakollappatty
+Salem	"Radisson Blue, Narsothipatti"
+Salem	"Reliance Mega Mall, Alagapuram Pudur"
+Salem	"Santham Complex, Alagapuram Pudur"
+Salem	Seelanaickenpatti
+Salem	Shevapet
+Salem	"Sivaraj Holiday Inn, Suramangalam"
+Salem	Suramangalam
+Secunderabad	" Tap-Out Drive In, Uppal"
+Secunderabad	A S Rao Nagar
+Secunderabad	Alwal
+Secunderabad	Bowenpally
+Secunderabad	"Hotel Baseraa, S D Road"
+Secunderabad	Karkhana
+Secunderabad	M.G. Road
+Secunderabad	Malkajgiri
+Secunderabad	Marredpally
+Secunderabad	Nacharam
+Secunderabad	Padmarao Nagar
+Secunderabad	Paradise Circle
+Secunderabad	PG Road
+Secunderabad	Railway Station Road
+Secunderabad	"Rainbow Shopping Mall, Karkhana"
+Secunderabad	Rani Gunj
+Secunderabad	S D Road
+Secunderabad	S P Road
+Secunderabad	Sainikpuri
+Secunderabad	Uppal
+Secunderabad	"VB Food Court, Uppal"
+Shimla	Kasumpti
+Shimla	Longwood
+Shimla	Mashobra
+Shimla	Mehli
+Shimla	Panthaghati
+Shimla	Sanjauli
+Shimla	Summer Hill
+Siliguri	Bankim Nagar
+Siliguri	Champasari
+Siliguri	"Cosmos Mall, Bankim Nagar"
+Siliguri	Ghogomali
+Siliguri	Haidar Para
+Siliguri	Janta Nagar
+Siliguri	Khalpara
+Siliguri	Nayapara
+Siliguri	Patiram Jote
+Siliguri	Pradhan Nagar
+Siliguri	Saktigarh
+Siliguri	Subhas Pally
+Siliguri	"Vega Circle Mall, Bankim Nagar"
+Srinagar	Alamdar Colony
+Srinagar	Badami Bagh Cantonment
+Srinagar	Badgam
+Srinagar	Chinar Bagh
+Srinagar	Dal Gate
+Srinagar	Jawahar Nagar
+Srinagar	Lal Bazaar
+Srinagar	Lal Chowk
+Srinagar	Nowgam
+Srinagar	Rainawari
+Srinagar	Srinagar
+Srinagar	"The Lalit Hotel, Dal Gate"
+Surat	Adajan Gam
+Surat	Adajan Patiya
+Surat	Althan Bhatar
+Surat	Amroli
+Surat	Athwa
+Surat	Bhestan
+Surat	Chowk Bazaar
+Surat	City Light
+Surat	"Dawer Chambers, Nanpura"
+Surat	Dindoli
+Surat	Dumas
+Surat	"Ginger Hotel, Piplod"
+Surat	Godadara
+Surat	"Golden Square, City Light"
+Surat	Gopipura
+Surat	Haripura
+Surat	"International Business Center, Piplod"
+Surat	Jahangir Pura
+Surat	Kamrej
+Surat	Kapodara
+Surat	Katargam
+Surat	Katodara
+Surat	Limbayat
+Surat	Magdalla
+Surat	Magob
+Surat	Mota Varachha
+Surat	Nana Varacha
+Surat	Nanpura
+Surat	New Textile Market
+Surat	Pal Gam
+Surat	Palanpore
+Surat	Pandesara
+Surat	Piplod
+Surat	Puna
+Surat	"Rahul Raj Mall, Piplod"
+Surat	Rander
+Surat	"Richie Rich, Athwa"
+Surat	"Riddhi Residency, Adajan Gam"
+Surat	Rustampura
+Surat	Sachin
+Surat	"Safal Square, Vesu"
+Surat	Sagrampura
+Surat	Salabatpura
+Surat	Sarthana
+Surat	"Sheetal Shopping Square, Athwa"
+Surat	"Shivalik Western Complex, Adajan Gam"
+Surat	"The Gateway Hotel, Athwa"
+Surat	The Grand Bhagwati Hotel
+Surat	"Trinity Business Park, Adajan Gam"
+Surat	Udhna Gam
+Surat	Umarwada
+Surat	Utran
+Surat	"Valentine Mall, Dumas"
+Surat	Varaccha
+Surat	Vesu
+Surat	"VR Mall, Dumas"
+Thane	Alibaug
+Thane	Ambernath
+Thane	"Arcadia Shopping Centre, Hiranandani Estate,  Thane West"
+Thane	"Boulevard Mall, Majiwada, Thane West"
+Thane	"Castle Mill, Thane West"
+Thane	Dombivali East
+Thane	Dombivali West
+Thane	"Eternity Mall, Wagle Estate, Thane West"
+Thane	Ghodbunder Road
+Thane	"Hiranandani Estate, Thane West"
+Thane	"Hotel Tip Top Plaza, Panch Pakhadi"
+Thane	Kalwa
+Thane	Kalyan
+Thane	"Kasarvadavli, Thane West"
+Thane	"Khopat, Thane West"
+Thane	"Korum Mall, Khopat, Thane West"
+Thane	"Majiwada, Thane West"
+Thane	"Manpada, Thane West"
+Thane	"Metro Junction Mall, Kalyan"
+Thane	Mumbra
+Thane	"Naupada, Thane West"
+Thane	"Owale, Thane West"
+Thane	"Panch Pakhadi, Thane West"
+Thane	"R Mall, Majiwada, Thane West"
+Thane	"RR The Boutique Hotel, Dombivali"
+Thane	Thane East
+Thane	Ulhasnagar
+Thane	"Upvan, Thane West"
+Thane	"Vasant Vihar, Thane West"
+Thane	"Viviana Mall, Majiwada, Thane West"
+Thane	"Wagle Estate, Thane West"
+Thane	"Xperia Mall, Dombivali East"
+Thrissur	Avinissery
+Thrissur	Ayyanthole
+Thrissur	Chettupuzha
+Thrissur	Chiyyaram
+Thrissur	"Hotel Luciya Palace, Poothole"
+Thrissur	Kizhakkumpattukara
+Thrissur	Koorkencherry
+Thrissur	Kuriachira
+Thrissur	Mannuthy
+Thrissur	Marathakkara
+Thrissur	Nedupuzha
+Thrissur	Ollur
+Thrissur	Peringavu
+Thrissur	Ponnukkara
+Thrissur	Poothole
+Thrissur	Puthurkkara
+Thrissur	Puzhakkal
+Thrissur	"Shobha City Mall, Puzhakkal"
+Thrissur	Thiroor
+Thrissur	"Trichur Towers, Poothole"
+Tirupati	Korlagunta
+Tirupati	Korramenugunta
+Tirupati	Pudipatla
+Tirupati	Srinivasa Nagar
+Tirupati	Tiruchanur
+Tirupati	Tirumala
+Trichy	Allithurai
+Trichy	Ariyamangalam Area
+Trichy	"FSM Hyper Mall, Tharanallur"
+Trichy	"Hotel Ramyaas, Sangiliyandapuram"
+Trichy	"Hotel Rockfort, Trichy"
+Trichy	"Hotel Sevana, Sangiliyandapuram"
+Trichy	"Hotel TamilNadu, Sangiliyandapuram"
+Trichy	Karumandapam
+Trichy	Kattur
+Trichy	Kilapudur
+Trichy	KK Nagar
+Trichy	Sangillyandapuram
+Trichy	Srirangam
+Trichy	Tharanallur
+Trichy	Thillai Nagar
+Trichy	Thirunagar
+Trichy	"Vijey Hotels, Sangiliyandapuram"
+Trichy	Woraiyur
+Trivandrum	Ambalamukku
+Trivandrum	Beemapally
+Trivandrum	"Classic Sarovar Portico, Palayam, Trivandrum"
+Trivandrum	Fortune Hotel The South Park
+Trivandrum	Hilton Garden Inn Trivandrum
+Trivandrum	"Hotel Apollo Dimora, Palayam, Trivandrum"
+Trivandrum	"Hycinth Hotel, Palayam, Trivandrum"
+Trivandrum	Kannanthura
+Trivandrum	Karamana
+Trivandrum	Kesavadasapuram
+Trivandrum	Kovalam
+Trivandrum	KTDC Mascot Trivandrum
+Trivandrum	Kulathoor
+Trivandrum	Kumarapuram
+Trivandrum	"Mall Of Travancore, Inchakki, Kannanthura"
+Trivandrum	Mannanthala
+Trivandrum	Maurya Rajadhani
+Trivandrum	Nandavanam
+Trivandrum	Nettayam
+Trivandrum	Palayam
+Trivandrum	Pappanamcode
+Trivandrum	Peroorkada
+Trivandrum	Poojapura
+Trivandrum	Poonthura
+Trivandrum	Sasthamangalam
+Trivandrum	"SP Grand Days, Thycaud, Trivandrum"
+Trivandrum	Sreekariyam
+Trivandrum	Thumba
+Trivandrum	Thycaud
+Trivandrum	Ulloor
+Trivandrum	Vazhuthacaud
+Trivandrum	"Vivanta By Taj, Thycaud, Trivandrum"
+Udaipur	Amantra Comfort Hotel
+Udaipur	Amantra Shipi Resort
+Udaipur	Ambavgarh Palace
+Udaipur	Amet Haveli
+Udaipur	Anand Plaza
+Udaipur	"Ananta Udaipur, Fateh Sagar"
+Udaipur	Ashok Nagar
+Udaipur	Ayad Rural
+Udaipur	Bhopalpura
+Udaipur	Bhuwana
+Udaipur	"Bombay Market, Sukhadia Circle"
+Udaipur	Celebration Mall
+Udaipur	Chandpole
+Udaipur	City Centre
+Udaipur	Eklingpura
+Udaipur	Fateh Sagar
+Udaipur	Fatehpura
+Udaipur	Ganesh Nagar
+Udaipur	"Golden Tulip, Panchwati"
+Udaipur	Hiran Magri
+Udaipur	Hotel Devraj Niwas
+Udaipur	Hotel Hilltop Palace
+Udaipur	"Hotel Lakend, Fateh Sagar"
+Udaipur	Hotel Vishnu Priya
+Udaipur	Jagat Niwas
+Udaipur	Jaiwana Haveli
+Udaipur	Lake City Mall
+Udaipur	Lake Pichola Hotel
+Udaipur	Mewar Haveli
+Udaipur	Oberoi Udaivilas - Chandpole
+Udaipur	Pahada
+Udaipur	Panchwati
+Udaipur	Pichola
+Udaipur	Pratap Nagar
+Udaipur	"Radisson Blu Udaipur Palace Resort & Spa, Fateh Sagar"
+Udaipur	Ramada Udaipur Resort & Spa
+Udaipur	Rkay Mall
+Udaipur	Rockwood Restaurant
+Udaipur	Shakti Nagar
+Udaipur	Shobhagpura
+Udaipur	Subhash Nagar
+Udaipur	Sukher
+Udaipur	Sundarwas
+Udaipur	"Taj Lake Palace, Pichola"
+Udaipur	The LaLiT Laxmi Vilas Palace
+Udaipur	"The Trident, Pichola"
+Udaipur	Transport Nagar
+Udupi	Brahmagiri
+Udupi	Doddanagudde
+Udupi	Kidiyoor
+Udupi	Kinnimulki
+Udupi	Kunjibettu
+Udupi	Maruthi Veethika
+Udupi	Nittur
+Udupi	"The Ocean Pearl, Kunjibettu"
+Udupi	Udayavara
+Vadodara	Akota
+Vadodara	Alkapuri
+Vadodara	Bhayli
+Vadodara	"Centre Square Mall, Alkapuri"
+Vadodara	Danteshwar
+Vadodara	Diwalipura
+Vadodara	"Eva Mall, Manjalpur"
+Vadodara	Fatehgunj
+Vadodara	Gorwa
+Vadodara	Gotri
+Vadodara	"Hotel Express Residency, Alkapuri"
+Vadodara	"Hotel Express Towers, Alkapuri"
+Vadodara	"Hotel Kalyan, Sayajigunj"
+Vadodara	"Inorbit Mall, Subhanpura"
+Vadodara	Karelibaug
+Vadodara	Kendranagar
+Vadodara	L&T Knowledge City
+Vadodara	"Lilleria Food Court, Vadiwadi"
+Vadodara	"M Cube Mall, Vadiwadi"
+Vadodara	Madhavpura
+Vadodara	Makarpura
+Vadodara	Mandvi
+Vadodara	Manjalpur
+Vadodara	Navapura
+Vadodara	Nizampura
+Vadodara	Panchvati
+Vadodara	"Prakruti Resort, Nizampura"
+Vadodara	Sama
+Vadodara	Sayajigunj
+Vadodara	Sayajipura
+Vadodara	"Seven Seas Mall, Fatehgunj"
+Vadodara	Subhanpura
+Vadodara	Suryanagar
+Vadodara	Tarsali
+Vadodara	Vadiwadi
+Vadodara	"Vadodara Central, Alkapuri"
+Vadodara	"Vivanta Vadodara, Akota"
+Vadodara	"WelcomHotel Vadodra, Vadiwadi"
+Vadodara	Yakutpura
+Varanasi	"Alka Hotel, Bhelupur"
+Varanasi	Assi Ghat
+Varanasi	Bhelupur
+Varanasi	Chetganj
+Varanasi	"Clarks Hotel, Nadesar"
+Varanasi	Dashaswmedh Road
+Varanasi	Durgakund
+Varanasi	Godaulia
+Varanasi	Hotel Hindustan International
+Varanasi	"Hotel KamesHut, Chetganj"
+Varanasi	"Hotel Surya, Nadersar"
+Varanasi	Hotel Zeeras
+Varanasi	"IP Mall, Sigra"
+Varanasi	Jaitpura
+Varanasi	"JHV Mall, Nadesar"
+Varanasi	Kakarmata
+Varanasi	Lahartara
+Varanasi	Lanka
+Varanasi	Mahmoorganj
+Varanasi	Nadesar
+Varanasi	Pandeypur
+Varanasi	"Radisson Hotel, Nadesar"
+Varanasi	Ramada Plaza JHV
+Varanasi	Ramnagar
+Varanasi	"Rivatas, Nadesar"
+Varanasi	Sarnath
+Varanasi	Shastri Nagar
+Varanasi	Shivala
+Varanasi	Sigra
+Varanasi	Sunderpur
+Varanasi	The Gateway Hotel
+Varanasi	"Vinayak Plaza, Chetganj"
+Vellore	Aavarampalayam
+Vellore	"Darling Residency, Kosapet"
+Vellore	Gandhi Nagar
+Vellore	"Harish Food Zone, Kosapet"
+Vellore	"Hotel Surabi International, Kosapet"
+Vellore	Katpadi
+Vellore	"Khanna Fiesta, Kosapet"
+Vellore	Kosapet
+Vellore	RN Palayam
+Vellore	RV Nagar
+Vellore	Saidapet
+Vellore	Sathuvachari
+Vellore	Thorapadi
+Vellore	Thottapalayam
+Vijayawada	Auto Nagar
+Vijayawada	"Celebrations Drive Inn, Enkepadu"
+Vijayawada	Christurajupuram
+Vijayawada	Enikepadu
+Vijayawada	"Fortune Murali Park, Labbipet"
+Vijayawada	Gandhi Nagar
+Vijayawada	Gannavaram
+Vijayawada	Gollapudi
+Vijayawada	Governorpet
+Vijayawada	Gunadala
+Vijayawada	Gurunanak Colony
+Vijayawada	Islampet
+Vijayawada	Krishna Lanka
+Vijayawada	Labbipet
+Vijayawada	Machavaram
+Vijayawada	Madhura Nagar
+Vijayawada	Mangalagiri
+Vijayawada	Payakapuram
+Vijayawada	PNT Colony
+Vijayawada	Poranki
+Vijayawada	"PVP Square Mall, Labbipet"
+Vijayawada	Ramavarappadu
+Vijayawada	Shri Ramachandra Nagar
+Vijayawada	"TFL Drive In, Labbipet"
+Vijayawada	"The Gateway Hotel, Labbipet"
+Vijayawada	"The Kay Hotel, Gunadala"
+Vijayawada	"Trendset Mall, Labbipet"
+Vizag	Akkayyapalem
+Vizag	Allipuram
+Vizag	"Ambica Sea Green, Kirlampudi Layout"
+Vizag	Arilova
+Vizag	Asilmetta
+Vizag	Balayya Sastri Layout
+Vizag	"Been Food Junction, MVP Colony"
+Vizag	"Best Western Ramachandra Hotel, Gajuwaka"
+Vizag	Bheemili Bheemunipatnam
+Vizag	Chinna Waltair
+Vizag	"Chitralaya Mall, Jagadamba Junction"
+Vizag	"CMR Central Mall, Maddilapalem"
+Vizag	"Daspalla Executive Court, Ram Nagar "
+Vizag	Diamond Park Area
+Vizag	"Dolphin Hotel, Jagadamba Junction "
+Vizag	Dondaparithy
+Vizag	Dutt Island
+Vizag	Dwaraka Nagar
+Vizag	"Fortune Inn Sree Kanya, Dwarka Nagar "
+Vizag	"Four Points By Sheraton, Waltair Uplands"
+Vizag	Gajuwaka
+Vizag	Gopalapatnam
+Vizag	"Hotel Daspalla, Surya Bagh"
+Vizag	"Hotel Diamond’s Pearl, Dwaraka Nagar"
+Vizag	"Hotel GreenPark, Vizag"
+Vizag	Hotel Haritha
+Vizag	"Hotel Meghalaya, Asilmetta"
+Vizag	"Hotel Novotel, Maharani Peta"
+Vizag	Jagadamba Junction
+Vizag	Kancharapalem
+Vizag	Kirlampudi Layout
+Vizag	Kurmannapalem
+Vizag	Lawsons Bay
+Vizag	Maddilapalem
+Vizag	Madhavadhara
+Vizag	Madhurawada
+Vizag	Maharani Peta
+Vizag	Marripalem
+Vizag	MVP Colony
+Vizag	Nad Junction
+Vizag	Palm Beach Hotel
+Vizag	Pendurthi
+Vizag	Quality Inn
+Vizag	Ram Nagar
+Vizag	RTC Area
+Vizag	Rushikonda
+Vizag	Sagar Nagar
+Vizag	Seethammadhara
+Vizag	Simhachalam
+Vizag	Siripuram
+Vizag	Sriharipuram
+Vizag	Swagrama Food Court
+Vizag	Thagarapuvalasa
+Vizag	"The Gateway Hotel, Maharani Peta "
+Vizag	The Landmark
+Vizag	"The Park, Lawsons Bay"
+Vizag	Venkojipalem
+Vizag	Vepagunta
+Vizag	Vishalaksmi Nagar
+Vizag	"Vizag Drive In, Lawsons Bay"
+Vizag	Vuda Complex
+Vizag	Waltair Uplands
+Vizag	"WelcomHotel Grand Bay, Jagadamba Junction"
+Zirakpur	Ambala Road
+Zirakpur	Chandigarh Road
+Zirakpur	"Country Inn & Suites by Radisson,AMbala Road"
+Zirakpur	Dera Bassi
+Zirakpur	Dhakoli
+Zirakpur	"Hotel Best Western Maryland,AMbala Road, Zirakpur"
+Zirakpur	Lohgarh
+Zirakpur	"Namaste Chandigarh Complex, Dera Bassi"
+Zirakpur	"Park Plaza,AMbala Road, Zirakpur"
+Zirakpur	"Radisson Chandigarh Zirakpur, VIP Road"
+Zirakpur	"Ramada Plaza,AMbala Road, Zirakpur"
+Zirakpur	"Regenta Almeida Zirakpur, Chandigarh Road, Zirakpur"
+Zirakpur	Utrathiya
+Zirakpur	"Velvet Clarks Exotica, Chandigarh Road, Zirakpur"
+Zirakpur	VIP Road
