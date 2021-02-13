@@ -1,100 +1,98 @@
-Country	city
-India	Agra
-India	Ahmedabad
-India	Ajmer
-India	Alappuzha
-India	Allahabad
-India	Amravati
-India	Amritsar
-India	Aurangabad
-India	Bangalore
-India	Bhopal
-India	Bhubaneshwar
-India	Chandigarh
-India	Chennai
-India	Coimbatore
-India	Cuttack
-India	Darjeeling
-India	Dehradun
-India	Dharamshala
-India	Faridabad
-India	Gandhinagar
-India	Gangtok
-India	Ghaziabad
-India	Goa
-India	Gorakhpur
-India	Greater Noida
-India	Guntur
-India	Gurgaon
-India	Guwahati
-India	Gwalior
-India	Haridwar
-India	Howrah
-India	Hyderabad
-India	Indore
-India	Jabalpur
-India	Jaipur
-India	Jalandhar
-India	Jammu
-India	Jamnagar
-India	Jamshedpur
-India	Jhansi
-India	Jodhpur
-India	Junagadh
-India	Kanpur
-India	Kharagpur
-India	Kochi
-India	Kolhapur
-India	Kolkata
-India	Kota
-India	Lucknow
-India	Ludhiana
-India	Madurai
-India	Manali
-India	Mangalore
-India	Manipal
-India	Meerut
-India	Mohali
-India	Mumbai
-India	Mussoorie
-India	Mysore
-India	Nagpur
-India	Nainital
-India	Nashik
-India	Nasik
-India	Navi Mumbai
-India	Nayagaon
-India	Neemrana
-India	New Delhi
-India	Noida
-India	Ooty
-India	Palakkad
-India	Panchkula
-India	Patiala
-India	Patna
-India	Puducherry
-India	Pune
-India	Pushkar
-India	Raipur
-India	Rajkot
-India	Ranchi
-India	Rishikesh
-India	Salem
-India	Secunderabad
-India	Shimla
-India	Siliguri
-India	Srinagar
-India	Surat
-India	Thane
-India	Thrissur
-India	Tirupati
-India	Trichy
-India	Trivandrum
-India	Udaipur
-India	Udupi
-India	Vadodara
-India	Varanasi
-India	Vellore
-India	Vijayawada
-India	Vizag
-India	Zirakpur
+Andhra Pradesh	Guntur
+Andhra Pradesh	Tirupati
+Andhra Pradesh	Vijayawada
+Andhra Pradesh	Vizag
+Bihar	Patna
+Chandigarh	Chandigarh
+Chhattisgarh	Raipur
+Delhi	New Delhi
+Goa	Goa
+Gujarat	Ahmedabad
+Gujarat	Gandhinagar
+Gujarat	Jamnagar
+Gujarat	Junagadh
+Gujarat	Rajkot
+Gujarat	Surat
+Gujarat	Vadodara
+Haryana	Faridabad
+Haryana	Gurgaon
+Haryana	Panchkula
+Himachal Pradesh	Dharamshala
+Himachal Pradesh	Manali
+Himachal Pradesh	Shimla
+Jammu and Kashmir	Jammu
+Jammu and Kashmir	Srinagar
+Jharkhand	Jamshedpur
+Jharkhand	Ranchi
+Karnataka	Bangalore
+Karnataka	Mangalore
+Karnataka	Manipal
+Karnataka	Mysore
+Karnataka	Udupi
+Kerala	Alappuzha
+Kerala	Kochi
+Kerala	Palakkad
+Kerala	Thrissur
+Kerala	Trivandrum
+Madhya Pradesh	Bhopal
+Madhya Pradesh	Gwalior
+Madhya Pradesh	Indore
+Madhya Pradesh	Jabalpur
+Maharashtra	Amravati
+Maharashtra	Aurangabad
+Maharashtra	Kolhapur
+Maharashtra	Mumbai
+Maharashtra	Nagpur
+Maharashtra	Nashik
+Maharashtra	Navi Mumbai
+Maharashtra	Pune
+Maharashtra	Thane
+Odisha	Bhubaneswar
+Odisha	Cuttack
+Puducherry	Puducherry
+Punjab	Amritsar
+Punjab	Jalandhar
+Punjab	Ludhiana
+Punjab	Mohali
+Punjab	Nayagaon
+Punjab	Patiala
+Punjab	Zirakpur
+Rajasthan	Ajmer
+Rajasthan	Jaipur
+Rajasthan	Jodhpur
+Rajasthan	Kota
+Rajasthan	Neemrana
+Rajasthan	Pushkar
+Sikkim	Gangtok
+state	city
+Tamil Nadu	Chennai
+Tamil Nadu	Coimbatore
+Tamil Nadu	Madurai
+Tamil Nadu	Ooty
+Tamil Nadu	Salem
+Tamil Nadu	Trichy
+Tamil Nadu	Vellore
+Telangana	Hyderabad
+Telangana	Secunderabad
+Tripura	Udaipur
+Uttar Pradesh	Agra
+Uttar Pradesh	Allahabad
+Uttar Pradesh	Ghaziabad
+Uttar Pradesh	Gorakhpur
+Uttar Pradesh	Greater Noida
+Uttar Pradesh	Jhansi
+Uttar Pradesh	Kanpur
+Uttar Pradesh	Lucknow
+Uttar Pradesh	Meerut
+Uttar Pradesh	Noida
+Uttar Pradesh	Varanasi
+Uttarakhand	Dehradun
+Uttarakhand	Haridwar
+Uttarakhand	Mussoorie
+Uttarakhand	Nainital
+Uttarakhand	Rishikesh
+West Bengal	Darjeeling
+West Bengal	Howrah
+West Bengal	Kharagpur
+West Bengal	Kolkata
+West Bengal	Siliguri
