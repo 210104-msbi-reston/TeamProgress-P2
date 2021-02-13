@@ -75,6 +75,7 @@ CREATE TABLE tbl_Restaurants
 (
 	restaurantID INT IDENTITY(1,1),
 	restaurantName VARCHAR(70),
+	localityID INT,
 	restaurantRating DECIMAL(5,2),
 	restaurantAddress VARCHAR(210),
 	priceRange INT,
@@ -82,8 +83,9 @@ CREATE TABLE tbl_Restaurants
 	restaurantPhotoQty INT,
 	restaurantVoteQty INT,
 	CONSTRAINT pk_Restaurants PRIMARY KEY(restaurantID),
+	CONSTRAINT fk_RestaurantLocality FOREIGN KEY(localityID) REFERENCES tbl_Localities(localityID),
 	CONSTRAINT fk_RestaurantPriceRange FOREIGN KEY(priceRange) REFERENCES tbl_PriceRanges(priceRange),
-	CONSTRAINT fk_RestaurantGenre FOREIGN KEY(genreID) REFERENCES tbl_Genres(genreID)
+	CONSTRAINT fk_RestaurantGenre FOREIGN KEY(genreID) REFERENCES tbl_Genres(genreID),
 )
 
 CREATE TABLE tbl_RestaurantCuisines
