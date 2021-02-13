@@ -1,3 +1,4 @@
+state	city
 Andhra Pradesh	Guntur
 Andhra Pradesh	Tirupati
 Andhra Pradesh	Vijayawada
@@ -64,7 +65,6 @@ Rajasthan	Kota
 Rajasthan	Neemrana
 Rajasthan	Pushkar
 Sikkim	Gangtok
-state	city
 Tamil Nadu	Chennai
 Tamil Nadu	Coimbatore
 Tamil Nadu	Madurai
