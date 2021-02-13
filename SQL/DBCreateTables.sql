@@ -9,6 +9,7 @@ DROP TABLE tbl_RestaurantCuisines
 DROP TABLE tbl_Restaurants
 DROP TABLE tbl_Localities
 DROP TABLE tbl_Cities
+DROP TABLE tbl_States
 DROP TABLE tbl_PriceRanges
 DROP TABLE tbl_Highlights
 DROP TABLE tbl_Cuisines
@@ -37,7 +38,7 @@ CREATE TABLE tbl_Cuisines
 CREATE TABLE tbl_Highlights
 (
 	highlightID INT IDENTITY(1,1),
-	highlightDescription VARCHAR(20)
+	highlightDescription VARCHAR(30)
 	CONSTRAINT pk_Highlights PRIMARY KEY(highlightID)
 )
 CREATE TABLE tbl_PriceRanges
@@ -46,19 +47,26 @@ CREATE TABLE tbl_PriceRanges
 	priceRangeCostForTwo INT,
 	CONSTRAINT pk_PriceRanges PRIMARY KEY(priceRange)
 )
-
+CREATE TABLE tbl_States
+(
+	stateID INT IDENTITY(1,1),
+	stateName VARCHAR(20),
+	countryID INT,
+	CONSTRAINT pk_States PRIMARY KEY(stateID),
+	CONSTRAINT pk_StateCountry FOREIGN KEY(countryID) REFERENCES tbl_Countries(countryID)
+)
 CREATE TABLE tbl_Cities
 (
 	cityID INT IDENTITY(1,1),
 	cityName VARCHAR(20),
-	countryID INT,
+	stateID INT,
 	CONSTRAINT pk_Cities PRIMARY KEY(cityID),
-	CONSTRAINT fk_CityCountry FOREIGN KEY(countryID) REFERENCES tbl_Countries(countryID)
+	CONSTRAINT fk_CityState FOREIGN KEY(stateID) REFERENCES tbl_States(stateID)
 )
 CREATE TABLE tbl_Localities
 (
 	localityID INT IDENTITY(1,1),
-	localityName VARCHAR(20),
+	localityName VARCHAR(60),
 	cityID INT,
 	CONSTRAINT pk_Localities PRIMARY KEY(localityID),
 	CONSTRAINT fk_LocalityCity FOREIGN KEY(cityID) REFERENCES tbl_Cities(cityID)
@@ -66,11 +74,13 @@ CREATE TABLE tbl_Localities
 CREATE TABLE tbl_Restaurants
 (
 	restaurantID INT IDENTITY(1,1),
-	restaurantName VARCHAR(20),
+	restaurantName VARCHAR(70),
 	restaurantRating DECIMAL(5,2),
-	restaurantAddress VARCHAR(20),
+	restaurantAddress VARCHAR(210),
 	priceRange INT,
 	genreID INT,
+	restaurantPhotoQty INT,
+	restaurantVoteQty INT,
 	CONSTRAINT pk_Restaurants PRIMARY KEY(restaurantID),
 	CONSTRAINT fk_RestaurantPriceRange FOREIGN KEY(priceRange) REFERENCES tbl_PriceRanges(priceRange),
 	CONSTRAINT fk_RestaurantGenre FOREIGN KEY(genreID) REFERENCES tbl_Genres(genreID)
@@ -92,16 +102,3 @@ CREATE TABLE tbl_RestaurantHighlights
 	CONSTRAINT fk_RestaurantHighlightHighlight FOREIGN KEY(highlightID) REFERENCES tbl_Highlights,
 	CONSTRAINT pk_RestaurantHighlights PRIMARY KEY (restaurantID, highlightID)
 )
-
---ALTER TABLES
-ALTER TABLE tbl_Highlights 
-ALTER COLUMN highlightDescription VARCHAR(30)
-
-ALTER TABLE tbl_Localities 
-ALTER COLUMN localityName VARCHAR(60)
-
-ALTER TABLE tbl_Restaurants 
-ALTER COLUMN restaurantName VARCHAR(70)
-
-ALTER TABLE tbl_Restaurants 
-ALTER COLUMN restaurantAddress VARCHAR(210)
