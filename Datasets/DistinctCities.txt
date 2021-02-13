@@ -3,6 +3,7 @@ Andhra Pradesh	Guntur
 Andhra Pradesh	Tirupati
 Andhra Pradesh	Vijayawada
 Andhra Pradesh	Vizag
+Assam	Guwahati
 Bihar	Patna
 Chandigarh	Chandigarh
 Chhattisgarh	Raipur

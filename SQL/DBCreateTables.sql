@@ -66,7 +66,7 @@ CREATE TABLE tbl_Cities
 CREATE TABLE tbl_Localities
 (
 	localityID INT IDENTITY(1,1),
-	localityName VARCHAR(60),
+	localityName VARCHAR(70),
 	cityID INT,
 	CONSTRAINT pk_Localities PRIMARY KEY(localityID),
 	CONSTRAINT fk_LocalityCity FOREIGN KEY(cityID) REFERENCES tbl_Cities(cityID)
