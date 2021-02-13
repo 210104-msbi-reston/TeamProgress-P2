@@ -1054,7 +1054,7 @@ Goa	"Hotel Fortune Select Regina, Candolim"
 Goa	"Hotel Nanutel, Margao"
 Goa	"Kenilworth Resort & Spa, Salcette"
 Goa	"La Paz, Vasco"
-Goa	"Le Méridien Goa, Calangute"
+Goa	"Le Meridien Goa, Calangute"
 Goa	"Lemon TreeAMarante, Candolim"
 Goa	Majorda
 Goa	"Mall De Goa, Penha De Franca"
@@ -1941,7 +1941,7 @@ Kochi	Fort Kochi
 Kochi	"Fragrant Nature, Fort Kochi"
 Kochi	"GCDA Shopping Complex, Marine Drive"
 Kochi	"GCDA Shopping Complex, Panampily Nagar"
-Kochi	"Gold Souk Grandé, Vytilla"
+Kochi	"Gold Souk Grande, Vytilla"
 Kochi	"Grand Hotel, MG Road"
 Kochi	Grand Hyatt Kochi Bolgatty
 Kochi	"Harbour View Residency, Ravipuram"
@@ -1954,7 +1954,7 @@ Kochi	Kakkanad
 Kochi	Kalamassery
 Kochi	Kaloor
 Kochi	"Kochi Marriott Hotel, Edappally"
-Kochi	"Le Méridien Kochi, Marad"
+Kochi	"Le Meridien Kochi, Marad"
 Kochi	"Le Maritime, Kochi"
 Kochi	"LuLu Mall, Edappally"
 Kochi	"Malabar Resorts & Spa, Wellington Island"
@@ -2282,7 +2282,7 @@ Madurai	KK Nagar
 Madurai	Pandian Nagar
 Madurai	Pasumalai
 Madurai	Periyar
-Madurai	"Poppy’s Hotel, KK Nagar"
+Madurai	"Poppy's Hotel, KK Nagar"
 Madurai	Sathamangalam
 Madurai	Southern Railway Colony
 Madurai	SS Colony
@@ -2431,7 +2431,7 @@ Mumbai	"Equinox Business Park, Kurla"
 Mumbai	"Eskay Resorts, Borivali West"
 Mumbai	"Fariyas Hotel, Colaba"
 Mumbai	"First International Financial Centre, Bandra Kurla Complex"
-Mumbai	Flea Bazaar Café
+Mumbai	Flea Bazaar Cafe
 Mumbai	Fort
 Mumbai	"Four Seasons, Worli"
 Mumbai	"Fun Republic Mall, Veera Desai Area"
@@ -3853,7 +3853,7 @@ Vizag	"Four Points By Sheraton, Waltair Uplands"
 Vizag	Gajuwaka
 Vizag	Gopalapatnam
 Vizag	"Hotel Daspalla, Surya Bagh"
-Vizag	"Hotel Diamond’s Pearl, Dwaraka Nagar"
+Vizag	"Hotel Diamond's Pearl, Dwaraka Nagar"
 Vizag	"Hotel GreenPark, Vizag"
 Vizag	Hotel Haritha
 Vizag	"Hotel Meghalaya, Asilmetta"
