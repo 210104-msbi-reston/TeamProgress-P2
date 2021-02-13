@@ -507,51 +507,51 @@ Bhopal	Maharana Pratap Nagar
 Bhopal	Peer Gate Area
 Bhopal	Sayaji Hotel
 Bhopal	TT Nagar
-Bhubaneshwar	Ashok Nagar
-Bhubaneshwar	Bapuji Nagar
-Bhubaneshwar	Baramunda
-Bhubaneshwar	BJB Nagar
-Bhubaneshwar	"BMC Bhawani Mall, Sahid Nagar"
-Bhubaneshwar	Chandrasekharpur
-Bhubaneshwar	"Empires Hotel, Sahid Nagar"
-Bhubaneshwar	Forest Park
-Bhubaneshwar	"Fortune Park Sishmo, Bapuji Nagar"
-Bhubaneshwar	Gajapati Nagar
-Bhubaneshwar	"Hotel By The Way, Patia"
-Bhubaneshwar	"Hotel Deepali International, Lakshmi Sagar"
-Bhubaneshwar	"Hotel Hindustan International, Kharabela Nagar"
-Bhubaneshwar	"Hotel Pushpak, Lakshmi Sagar"
-Bhubaneshwar	"Hotel Sambit Palace, Ashok Nagar"
-Bhubaneshwar	"Hotel Sandy's Tower, Gajapati Nagar"
-Bhubaneshwar	"Hotel Seetal, Sahid Nagar"
-Bhubaneshwar	"Hotel Suryansh, Chandrasekharpur"
-Bhubaneshwar	"Hotel Swosti, Kharabela Nagar"
-Bhubaneshwar	Jagmohan Nagar
-Bhubaneshwar	Jatni
-Bhubaneshwar	Jayadev Vihar
-Bhubaneshwar	Kalinga Nagar
-Bhubaneshwar	"Keshari Hotel, Kharabela Nagar"
-Bhubaneshwar	Khandagiri
-Bhubaneshwar	Kharabela Nagar
-Bhubaneshwar	Lakshmi Sagar
-Bhubaneshwar	"Mayfair Lagoon, Jayadev Vihar"
-Bhubaneshwar	Nayapalli
-Bhubaneshwar	"New Marrion Hotel, Kharabela Nagar"
-Bhubaneshwar	"Pal Heights, Jayadev Vihar"
-Bhubaneshwar	Patia
-Bhubaneshwar	Patrapada
-Bhubaneshwar	"Prangan by Mango Hotel, Lakshmi Sagar"
-Bhubaneshwar	Rasulgarh
-Bhubaneshwar	Sahid Nagar
-Bhubaneshwar	Satya Nagar
-Bhubaneshwar	"Sun Green, Satya Nagar"
-Bhubaneshwar	Surya Nagar
-Bhubaneshwar	"Swosti Premium, Jayadev Vihar"
-Bhubaneshwar	"The Crown, Nayapalli"
-Bhubaneshwar	"The Royale Midtown, Ashok Nagar"
-Bhubaneshwar	"Trident Bhubaneshwar, Nayapalli"
-Bhubaneshwar	Unit 4
-Bhubaneshwar	"VITS Hotel, Lakshmi Sagar"
+Bhubaneswar	Ashok Nagar
+Bhubaneswar	Bapuji Nagar
+Bhubaneswar	Baramunda
+Bhubaneswar	BJB Nagar
+Bhubaneswar	"BMC Bhawani Mall, Sahid Nagar"
+Bhubaneswar	Chandrasekharpur
+Bhubaneswar	"Empires Hotel, Sahid Nagar"
+Bhubaneswar	Forest Park
+Bhubaneswar	"Fortune Park Sishmo, Bapuji Nagar"
+Bhubaneswar	Gajapati Nagar
+Bhubaneswar	"Hotel By The Way, Patia"
+Bhubaneswar	"Hotel Deepali International, Lakshmi Sagar"
+Bhubaneswar	"Hotel Hindustan International, Kharabela Nagar"
+Bhubaneswar	"Hotel Pushpak, Lakshmi Sagar"
+Bhubaneswar	"Hotel Sambit Palace, Ashok Nagar"
+Bhubaneswar	"Hotel Sandy's Tower, Gajapati Nagar"
+Bhubaneswar	"Hotel Seetal, Sahid Nagar"
+Bhubaneswar	"Hotel Suryansh, Chandrasekharpur"
+Bhubaneswar	"Hotel Swosti, Kharabela Nagar"
+Bhubaneswar	Jagmohan Nagar
+Bhubaneswar	Jatni
+Bhubaneswar	Jayadev Vihar
+Bhubaneswar	Kalinga Nagar
+Bhubaneswar	"Keshari Hotel, Kharabela Nagar"
+Bhubaneswar	Khandagiri
+Bhubaneswar	Kharabela Nagar
+Bhubaneswar	Lakshmi Sagar
+Bhubaneswar	"Mayfair Lagoon, Jayadev Vihar"
+Bhubaneswar	Nayapalli
+Bhubaneswar	"New Marrion Hotel, Kharabela Nagar"
+Bhubaneswar	"Pal Heights, Jayadev Vihar"
+Bhubaneswar	Patia
+Bhubaneswar	Patrapada
+Bhubaneswar	"Prangan by Mango Hotel, Lakshmi Sagar"
+Bhubaneswar	Rasulgarh
+Bhubaneswar	Sahid Nagar
+Bhubaneswar	Satya Nagar
+Bhubaneswar	"Sun Green, Satya Nagar"
+Bhubaneswar	Surya Nagar
+Bhubaneswar	"Swosti Premium, Jayadev Vihar"
+Bhubaneswar	"The Crown, Nayapalli"
+Bhubaneswar	"The Royale Midtown, Ashok Nagar"
+Bhubaneswar	"Trident Bhubaneswar, Nayapalli"
+Bhubaneswar	Unit 4
+Bhubaneswar	"VITS Hotel, Lakshmi Sagar"
 Chandigarh	Bazaar by Peddlers
 Chandigarh	Chandigarh Industrial Area
 Chandigarh	"City Emporium Mall, Chandigarh Industrial Area"
@@ -2677,13 +2677,13 @@ Nashik	Sharanpur
 Nashik	"SSK Solitaire, Satpur"
 Nashik	"The Gateway Hotel, Pathardi Phata "
 Nashik	Veer Sawarkar Nagar
-Nasik	Cidco
-Nasik	Deolali
-Nasik	Doodh Bazar
-Nasik	Jail Road
-Nasik	Nashik Road
-Nasik	Ravivar Nagar
-Nasik	Upnagar
+Nashik	Cidco
+Nashik	Deolali
+Nashik	Doodh Bazar
+Nashik	Jail Road
+Nashik	Nashik Road
+Nashik	Ravivar Nagar
+Nashik	Upnagar
 Navi Mumbai	Airoli
 Navi Mumbai	CBD-Belapur
 Navi Mumbai	"Country Inn & Suites By Carlson, Ghansoli"
