@@ -1,0 +1,98 @@
+Country	state	city	
+India	Uttar Pradesh	Agra	
+India	Gujarat	Ahmedabad	
+India	Rajasthan	Ajmer	
+India	Kerala	Alappuzha	
+India	Uttar Pradesh	Allahabad	
+India	Maharashtra	Amravati	
+India	Punjab	Amritsar	
+India	Maharashtra	Aurangabad	
+India	Karnataka	Bangalore	
+India	Madhya Pradesh	Bhopal	
+India	Odisha	Bhubaneswar	
+India	Chandigarh	Chandigarh	
+India	Tamil Nadu	Chennai	
+India	Tamil Nadu	Coimbatore	
+India	Odisha	Cuttack	
+India	West Bengal	Darjeeling	
+India	Uttarakhand	Dehradun	
+India	Himachal Pradesh	Dharamshala	
+India	Haryana	Faridabad	
+India	Gujarat	Gandhinagar	
+India	Sikkim	Gangtok	
+India	Uttar Pradesh	Ghaziabad	
+India	Goa	Goa	
+India	Uttar Pradesh	Gorakhpur	
+India	Uttar Pradesh	Greater Noida	
+India	Andhra Pradesh	Guntur	
+India	Haryana	Gurgaon	
+India	Madhya Pradesh	Gwalior	
+India	Uttarakhand	Haridwar	
+India	West Bengal	Howrah	
+India	Telangana	Hyderabad	
+India	Madhya Pradesh	Indore	
+India	Madhya Pradesh	Jabalpur	
+India	Rajasthan	Jaipur	
+India	Punjab	Jalandhar	
+India	Jammu and Kashmir	Jammu	
+India	Gujarat	Jamnagar	
+India	Jharkhand	Jamshedpur	
+India	Uttar Pradesh	Jhansi	
+India	Rajasthan	Jodhpur	
+India	Gujarat	Junagadh	
+India	Uttar Pradesh	Kanpur	
+India	West Bengal	Kharagpur	
+India	Kerala	Kochi	
+India	Maharashtra	Kolhapur	
+India	West Bengal	Kolkata	
+India	Rajasthan	Kota	
+India	Uttar Pradesh	Lucknow	
+India	Punjab	Ludhiana	
+India	Tamil Nadu	Madurai	
+India	Himachal Pradesh	Manali	
+India	Karnataka	Mangalore	
+India	Karnataka	Manipal	
+India	Uttar Pradesh	Meerut	
+India	Punjab	Mohali	
+India	Maharashtra	Mumbai	
+India	Uttarakhand	Mussoorie	
+India	Karnataka	Mysore	
+India	Maharashtra	Nagpur	
+India	Uttarakhand	Nainital	
+India	Maharashtra	Nashik	
+India	Maharashtra	Navi Mumbai	
+India	Punjab	Nayagaon	
+India	Rajasthan	Neemrana	
+India	Delhi	New Delhi	
+India	Uttar Pradesh	Noida	
+India	Tamil Nadu	Ooty	
+India	Kerala	Palakkad	
+India	Haryana	Panchkula	
+India	Punjab	Patiala	
+India	Bihar	Patna	
+India	Puducherry	Puducherry	
+India	Maharashtra	Pune	
+India	Rajasthan	Pushkar	
+India	Chhattisgarh	Raipur	
+India	Gujarat	Rajkot	
+India	Jharkhand	Ranchi	
+India	Uttarakhand	Rishikesh	
+India	Tamil Nadu	Salem	
+India	Telangana	Secunderabad	
+India	Himachal Pradesh	Shimla	
+India	West Bengal	Siliguri	
+India	Jammu and Kashmir	Srinagar	
+India	Gujarat	Surat	  
+India	Maharashtra	Thane	
+India	Kerala	Thrissur	
+India	Andhra Pradesh	Tirupati	
+India	Tamil Nadu	Trichy	
+India	Kerala	Trivandrum	
+India	Tripura	Udaipur	
+India	Karnataka	Udupi	
+India	Gujarat	Vadodara	
+India	Uttar Pradesh	Varanasi	
+India	Tamil Nadu	Vellore	
+India	Andhra Pradesh	Vijayawada	
+India	Andhra Pradesh	Vizag	
+India	Punjab	Zirakpur	
