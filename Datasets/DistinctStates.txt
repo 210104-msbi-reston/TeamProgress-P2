@@ -25,3 +25,4 @@ India	Bihar
 India	Puducherry
 India	Chhattisgarh
 India	Tripura
+India	Assam
