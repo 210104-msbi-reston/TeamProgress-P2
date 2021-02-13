@@ -3,6 +3,7 @@ Bakery
 Bar
 Beverage Shop
 Bhojanalya
+Blank
 Butcher Shop
 Cafe
 Casual Dining
@@ -25,3 +26,4 @@ Pub
 Quick Bites
 Shack
 Sweet Shop
+
