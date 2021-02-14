@@ -1,4 +1,4 @@
-create ZomatoRestaurantsDW;
+create database ZomatoRestaurantsDW;
 use ZomatoRestaurantsDW;
 
 create table dimGenre(
