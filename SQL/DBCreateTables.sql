@@ -74,6 +74,7 @@ CREATE TABLE tbl_Localities
 CREATE TABLE tbl_Restaurants
 (
 	restaurantID INT IDENTITY(1,1),
+	restaurantDataID INT,
 	restaurantName VARCHAR(70),
 	localityID INT,
 	restaurantRating DECIMAL(5,2),
