@@ -11,11 +11,21 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="RestaurantFacts"
   DTS:PackageType="5"
-  DTS:VersionBuild="20"
-  DTS:VersionGUID="{27D5A209-3088-4690-BBE1-B91980C0D4AA}">
+  DTS:VersionBuild="22"
+  DTS:VersionGUID="{C006E5E6-6E5E-412D-AC92-9B251F7C9303}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[CreateZomatoRestaurantsDW.sql]"
+      DTS:CreationName="FILE"
+      DTS:DTSID="{AF03E11E-061F-4F78-AA75-C79B449A7055}"
+      DTS:ObjectName="CreateZomatoRestaurantsDW.sql">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectionString="C:\Users\jagge\Desktop\Revature Notes\Projects\TeamProgress-P2\SQL\CreateZomatoRestaurantsDW.sql" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
     <DTS:ConnectionManager
       DTS:refId="Package.ConnectionManagers[LAPTOP-VCDB75JF\REVATUREJT.ZomatoRestaurants]"
       DTS:CreationName="OLEDB"
@@ -3887,20 +3897,20 @@ where [refTable].[localityName] = ?</property>
       <DTS:Variables />
       <DTS:Executables>
         <DTS:Executable
-          DTS:refId="Package\Update factRestaurant\exec Update_factRestaurant_storeID"
+          DTS:refId="Package\Update factRestaurant\exec proc_udate_factRestaurant_storeID"
           DTS:CreationName="Microsoft.ExecuteSQLTask"
           DTS:Description="Execute SQL Task"
           DTS:DTSID="{AB90E23D-FD33-4B8F-A1BD-FC30F4B1C9D7}"
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
-          DTS:ObjectName="exec Update_factRestaurant_storeID"
+          DTS:ObjectName="exec proc_udate_factRestaurant_storeID"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
           DTS:ThreadHint="0">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
               SQLTask:Connection="{B6060D54-B846-4825-B6E2-FD7BB8EA2377}"
-              SQLTask:SqlStatementSource="exec Update_factRestaurant_storeID" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+              SQLTask:SqlStatementSource="exec proc_update_factRestaurant_storeID" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
           </DTS:ObjectData>
         </DTS:Executable>
       </DTS:Executables>
@@ -4015,6 +4025,17 @@ where [refTable].[localityName] = ?</property>
           Size="192,145.6"
           Id="Package\factRestaurant"
           TopLeft="41.1000000000001,827.9" />
+        <NodeLayout
+          Size="271.2,41.6"
+          Id="Package\Update factRestaurant\exec proc_udate_factRestaurant_storeID"
+          TopLeft="5.5,5.50000000000007" />
+        <ContainerLayout
+          HeaderHeight="43"
+          IsExpanded="True"
+          PanelSize="281.6,102.4"
+          Size="281.6,145.6"
+          Id="Package\Update factRestaurant"
+          TopLeft="5.50000000000014,1033.5" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint]"
           TopLeft="137.1,151.1">
@@ -4103,17 +4124,6 @@ where [refTable].[localityName] = ?</property>
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="252,41.6"
-          Id="Package\Update factRestaurant\exec Update_factRestaurant_storeID"
-          TopLeft="5.5,5.50000000000007" />
-        <ContainerLayout
-          HeaderHeight="43"
-          IsExpanded="True"
-          PanelSize="263.2,102.4"
-          Size="263.2,145.6"
-          Id="Package\Update factRestaurant"
-          TopLeft="5.50000000000014,1033.5" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 4]"
           TopLeft="137.1,973.5">
@@ -4784,7 +4794,7 @@ where [refTable].[localityName] = ?</property>
     design-time-name="Package\dimStore\Create dimStore">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="120.8,41.6"
           Id="Package\dimStore\Create dimStore\dimStore"
@@ -4812,7 +4822,9 @@ where [refTable].[localityName] = ?</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -4843,18 +4855,23 @@ where [refTable].[localityName] = ?</property>
     design-time-name="Package\factRestaurant\Create factRestaurant">
     <LayoutInfo>
       <GraphLayout
-        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        <NodeLayout
+          Size="166.4,41.6"
+          Id="Package\factRestaurant\Create factRestaurant\Lookup LocationID"
+          TopLeft="435,248.333333333333" />
+        <NodeLayout
+          Size="178.4,41.6"
+          Id="Package\factRestaurant\Create factRestaurant\Lookup LocalityName"
+          TopLeft="428.333333333333,172" />
         <NodeLayout
           Size="165.6,41.6"
           Id="Package\factRestaurant\Create factRestaurant\Select Restaurants"
           TopLeft="435.833333333333,31.6666666666667" />
-        <AnnotationLayout
-          Text="The Lookup on dimStore fails because dimStore contains only unique stores, while tbl_Restaurants&#xA;has multiple restaurants with the same name."
-          ParentId="Package\factRestaurant\Create factRestaurant"
-          FontInfo="{assembly:Null}"
-          Size="546.4,56"
-          Id="eb601f7c-f670-45cc-9548-075708772da5"
-          TopLeft="239.833333333333,521.333333333333" />
+        <NodeLayout
+          Size="147.2,41.6"
+          Id="Package\factRestaurant\Create factRestaurant\factRestaurant"
+          TopLeft="443.333333333333,323.333333333333" />
         <NodeLayout
           Size="155.2,41.6"
           Id="Package\factRestaurant\Create factRestaurant\Lookup GenreID"
@@ -4878,69 +4895,11 @@ where [refTable].[localityName] = ?</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="178.4,41.6"
-          Id="Package\factRestaurant\Create factRestaurant\Lookup LocalityName"
-          TopLeft="428.333333333333,172" />
-        <EdgeLayout
-          Id="Package\factRestaurant\Create factRestaurant.Paths[Lookup Match Output]"
-          TopLeft="518.066666666667,138.6">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,33.3999999999999"
-              Start="0,0"
-              End="0,25.8999999999999">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,25.8999999999999" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="-48.19138671875,7.14531249999995,96.3827734375,11.609375"
+              BoundingBox="0,0,0,0"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="166.4,41.6"
-          Id="Package\factRestaurant\Create factRestaurant\Lookup LocationID"
-          TopLeft="435,248.333333333333" />
-        <EdgeLayout
-          Id="Package\factRestaurant\Create factRestaurant.Paths[Lookup Match Output1]"
-          TopLeft="517.866666666667,213.6">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,34.7333333333333"
-              Start="0,0"
-              End="0,27.2333333333333">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,27.2333333333333" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-48.19138671875,7.81197916666663,96.3827734375,11.609375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="147.2,41.6"
-          Id="Package\factRestaurant\Create factRestaurant\factRestaurant"
-          TopLeft="443.333333333333,323.333333333333" />
         <EdgeLayout
           Id="Package\factRestaurant\Create factRestaurant.Paths[Lookup Match Output2]"
           TopLeft="517.566666666667,289.933333333333">
@@ -4965,11 +4924,125 @@ where [refTable].[localityName] = ?</property>
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
+        <EdgeLayout
+          Id="Package\factRestaurant\Create factRestaurant.Paths[Lookup Match Output1]"
+          TopLeft="517.866666666667,213.6">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,34.7333333333333"
+              Start="0,0"
+              End="0,27.2333333333333">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,27.2333333333333" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-48.19138671875,7.81197916666663,96.3827734375,11.609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\factRestaurant\Create factRestaurant.Paths[Lookup Match Output]"
+          TopLeft="518.066666666667,138.6">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,33.3999999999999"
+              Start="0,0"
+              End="0,25.8999999999999">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,25.8999999999999" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-48.19138671875,7.14531249999995,96.3827734375,11.609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <AnnotationLayout
+          Text="The Lookup on dimStore fails because dimStore contains only unique stores, while tbl_Restaurants&#xA;has multiple restaurants with the same name."
+          ParentId="Package\factRestaurant\Create factRestaurant"
+          FontInfo="{assembly:Null}"
+          Size="546.4,NaN"
+          Id="eb601f7c-f670-45cc-9548-075708772da5"
+          TopLeft="239.833333333333,521.333333333333" />
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
   <PipelineComponentMetadata
+    design-time-name="Package\factRestaurant\Create factRestaurant\Lookup LocationID">
+    <Properties>
+      <Property>
+        <Name>OverwriteParamsSQLProp</Name>
+        <Value
+          type="q2:string">false</Value>
+      </Property>
+      <Property>
+        <Name>UsedTableName</Name>
+        <Value
+          type="q3:string">[dbo].[dimLocation]</Value>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q4:string">0</Value>
+      </Property>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\factRestaurant\Create factRestaurant\Lookup LocalityName">
+    <Properties>
+      <Property>
+        <Name>OverwriteParamsSQLProp</Name>
+        <Value
+          type="q2:string">false</Value>
+      </Property>
+      <Property>
+        <Name>UsedTableName</Name>
+        <Value
+          type="q3:string">[dbo].[tbl_Localities]</Value>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q4:string">0</Value>
+      </Property>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
     design-time-name="Package\factRestaurant\Create factRestaurant\Select Restaurants">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\factRestaurant\Create factRestaurant\factRestaurant">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -4987,7 +5060,7 @@ where [refTable].[localityName] = ?</property>
       <Property>
         <Name>OverwriteParamsSQLProp</Name>
         <Value
-          type="q2:boolean">false</Value>
+          type="q2:string">false</Value>
       </Property>
       <Property>
         <Name>UsedTableName</Name>
@@ -4997,69 +5070,10 @@ where [refTable].[localityName] = ?</property>
       <Property>
         <Name>TableInfoObjectType</Name>
         <Value
-          type="q4:int">0</Value>
+          type="q4:string">0</Value>
       </Property>
       <Property>
         <Name>DataSourceViewID</Name>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\factRestaurant\Create factRestaurant\Lookup LocalityName">
-    <Properties>
-      <Property>
-        <Name>OverwriteParamsSQLProp</Name>
-        <Value
-          type="q2:boolean">false</Value>
-      </Property>
-      <Property>
-        <Name>UsedTableName</Name>
-        <Value
-          type="q3:string">[dbo].[tbl_Localities]</Value>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q4:int">0</Value>
-      </Property>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\factRestaurant\Create factRestaurant\Lookup LocationID">
-    <Properties>
-      <Property>
-        <Name>OverwriteParamsSQLProp</Name>
-        <Value
-          type="q2:boolean">false</Value>
-      </Property>
-      <Property>
-        <Name>UsedTableName</Name>
-        <Value
-          type="q3:string">[dbo].[dimLocation]</Value>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q4:int">0</Value>
-      </Property>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\factRestaurant\Create factRestaurant\factRestaurant">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
       </Property>
     </Properties>
   </PipelineComponentMetadata>
