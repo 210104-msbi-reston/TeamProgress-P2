@@ -53,7 +53,6 @@ CREATE TABLE dim_Restaurant
 	restaurantID INT IDENTITY(1,1),
 	restaurantName VARCHAR(70),
 	restaurantAddress VARCHAR(210),
-	restaurantRating DECIMAL(5,2),
 	CONSTRAINT pk_dimRestaurant PRIMARY KEY (restaurantID)
 )
 CREATE TABLE brg_RestaurantHighlight
@@ -86,6 +85,7 @@ CREATE TABLE fct_RestaurantFacts
 	CONSTRAINT fk_fctRestaurantFactLocation FOREIGN KEY (locationID) REFERENCES dim_Location(locationID),
 	CONSTRAINT fk_fctRestaurantFactGenre FOREIGN KEY (genreID) REFERENCES dim_Genre(genreID),
 	CONSTRAINT fk_fctRestaurantFactPriceRange FOREIGN KEY (priceRangeID) REFERENCES dim_PriceRange(priceRangeID),
+	restaurantRating DECIMAL(5,2),
 	numberOfPhotos INT,
 	numberOfVotes INT
 )
