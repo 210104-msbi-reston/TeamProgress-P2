@@ -18,15 +18,7 @@ CREATE TABLE dim_Genre
 	genreName VARCHAR(20),
 	CONSTRAINT pk_dimGenre PRIMARY KEY (genreID)
 )
-CREATE TABLE dim_Location
-(
-	locationID INT IDENTITY(1,1),
-	countryName VARCHAR(20),
-	stateName VARCHAR(20),
-	cityName VARCHAR(20),
-	localityName VARCHAR(70)
-	CONSTRAINT pk_dimLocation PRIMARY KEY (locationID)
-)
+
 CREATE TABLE dim_PriceRange
 (
 	priceRangeID INT,
@@ -45,6 +37,17 @@ CREATE TABLE dim_Cuisine
 	cuisineName VARCHAR(20),
 	CONSTRAINT pk_dimCuisine PRIMARY KEY (cuisineID)
 )
+
+CREATE TABLE dim_Location
+(
+	locationID INT IDENTITY(1,1),
+	countryName VARCHAR(20),
+	stateName VARCHAR(20),
+	cityName VARCHAR(20),
+	localityName VARCHAR(70)
+	CONSTRAINT pk_dimLocation PRIMARY KEY (locationID)
+)
+
 CREATE TABLE dim_Restaurant
 (
 	restaurantID INT IDENTITY(1,1),
