@@ -80,9 +80,9 @@ CREATE TABLE fct_RestaurantFacts
 	locationID INT,
 	genreID INT,
 	priceRangeID INT,
+	CONSTRAINT pk_fct_RestaurantFacts PRIMARY KEY (factID),
 	CONSTRAINT fk_fctRestaurantFactsRestaurant FOREIGN KEY (restaurantID) REFERENCES dim_Restaurant(restaurantID),
 	CONSTRAINT fk_fctRestaurantFactLocation FOREIGN KEY (locationID) REFERENCES dim_Location(locationID),
 	CONSTRAINT fk_fctRestaurantFactGenre FOREIGN KEY (genreID) REFERENCES dim_Genre(genreID),
 	CONSTRAINT fk_fctRestaurantFactPriceRange FOREIGN KEY (priceRangeID) REFERENCES dim_PriceRange(priceRangeID),
-
 )
