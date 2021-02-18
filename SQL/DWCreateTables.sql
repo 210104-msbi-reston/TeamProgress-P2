@@ -15,7 +15,7 @@ DROP TABLE dim_Genre
 CREATE TABLE dim_Genre
 (
 	genreID INT IDENTITY(1,1),
-	genreName VARCHAR,
+	genreName VARCHAR(20),
 	CONSTRAINT pk_dimGenre PRIMARY KEY (genreID)
 )
 CREATE TABLE dim_Location
@@ -24,6 +24,7 @@ CREATE TABLE dim_Location
 	countryName VARCHAR(20),
 	stateName VARCHAR(20),
 	cityName VARCHAR(20),
+	localityName VARCHAR(70)
 	CONSTRAINT pk_dimLocation PRIMARY KEY (locationID)
 )
 CREATE TABLE dim_PriceRange
