@@ -105,3 +105,12 @@ CREATE TABLE tbl_RestaurantHighlights
 	CONSTRAINT fk_RestaurantHighlightHighlight FOREIGN KEY(highlightID) REFERENCES tbl_Highlights,
 	CONSTRAINT pk_RestaurantHighlights PRIMARY KEY (restaurantID, highlightID)
 )
+--SELECT * FROM tbl_RestaurantHighlights WHERE highlightID = 27
+
+--exec sp_who
+--kill 56
+--SELECT DISTINCT highlightID FROM tbl_RestaurantHighlights ORDER BY highlightID ASC
+--SELECT DISTINCT cuisineID FROM tbl_RestaurantCuisines ORDER BY cuisineID ASC
+--TRUNCATE TABLE tbl_RestaurantHighlights
+
+--SELECT Count(*) FROM tbl_RestaurantHighlights
