@@ -24,6 +24,16 @@ create table dimLocation(
 	localityName varchar(70)
 );
 
+create table dimCuisine(
+	cuisineID int primary key identity,
+	cuisineType varchar(20)
+);
+
+CREATE TABLE dimHighlight (
+    highlightID int primary key identity,
+    highlightDescription varchar(30)
+)
+
 create table factRestaurant(
 	restaurantID int primary key identity,
 	storeID int foreign key references dimStore(storeID) default 1,
