@@ -89,3 +89,9 @@ CREATE TABLE fct_RestaurantFacts
 	numberOfPhotos INT,
 	numberOfVotes INT
 )
+
+CREATE PROCEDURE voteIntegrity
+AS
+BEGIN
+UPDATE fct_RestaurantFacts set restaurantRating=NULL WHERE numberOfVotes=0
+END
