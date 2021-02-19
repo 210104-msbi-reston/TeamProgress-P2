@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="RestaurantFacts"
   DTS:PackageType="5"
-  DTS:VersionBuild="26"
-  DTS:VersionGUID="{309AAB3B-4EA5-41AF-904B-1A69FABD9583}">
+  DTS:VersionBuild="27"
+  DTS:VersionGUID="{0C3C01DF-5393-43D7-839F-6267B2E891E8}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -5059,6 +5059,36 @@ where [refTable].[localityName] = ?</property>
         </DTS:Executable>
       </DTS:Executables>
     </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\voteIntegrity"
+      DTS:CreationName="STOCK:SEQUENCE"
+      DTS:Description="Sequence Container"
+      DTS:Disabled="True"
+      DTS:DTSID="{D21F8CE2-6D6B-4CFC-A274-D028E9962494}"
+      DTS:ExecutableType="STOCK:SEQUENCE"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="voteIntegrity">
+      <DTS:Variables />
+      <DTS:Executables>
+        <DTS:Executable
+          DTS:refId="Package\voteIntegrity\exec voteIntegrity"
+          DTS:CreationName="Microsoft.ExecuteSQLTask"
+          DTS:Description="Execute SQL Task"
+          DTS:DTSID="{B470AF00-14AB-49E8-A789-4A5D3D785583}"
+          DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+          DTS:LocaleID="-1"
+          DTS:ObjectName="exec voteIntegrity"
+          DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+          DTS:ThreadHint="0">
+          <DTS:Variables />
+          <DTS:ObjectData>
+            <SQLTask:SqlTaskData
+              SQLTask:Connection="{B6060D54-B846-4825-B6E2-FD7BB8EA2377}"
+              SQLTask:SqlStatementSource="exec voteIntegrity" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          </DTS:ObjectData>
+        </DTS:Executable>
+      </DTS:Executables>
+    </DTS:Executable>
   </DTS:Executables>
   <DTS:PrecedenceConstraints>
     <DTS:PrecedenceConstraint
@@ -5125,6 +5155,14 @@ where [refTable].[localityName] = ?</property>
       DTS:LogicalAnd="True"
       DTS:ObjectName="Constraint 7"
       DTS:To="Package\brg_RestaurantHighlight" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 8]"
+      DTS:CreationName=""
+      DTS:DTSID="{F59DD397-13B4-40EE-A5D6-BF3E59604EF5}"
+      DTS:From="Package\brg_RestaurantHighlight"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 8"
+      DTS:To="Package\voteIntegrity" />
   </DTS:PrecedenceConstraints>
   <DTS:DesignTimeProperties><![CDATA[<?xml version="1.0"?>
 <!--This CDATA section contains the layout information of the package. The section includes information such as (x,y) coordinates, width, and height.-->
@@ -5139,6 +5177,28 @@ where [refTable].[localityName] = ?</property>
       <GraphLayout
         Capacity="32" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
+          Size="216.8,41.6"
+          Id="Package\brg_RestaurantCuisine\create brg_RestaurantCuisine"
+          TopLeft="5.5,5.50000000000007" />
+        <ContainerLayout
+          HeaderHeight="43"
+          IsExpanded="True"
+          PanelSize="228,102.4"
+          Size="228,145.6"
+          Id="Package\brg_RestaurantCuisine"
+          TopLeft="10.3000000000002,1444.7" />
+        <NodeLayout
+          Size="226.4,41.6"
+          Id="Package\brg_RestaurantHighlight\Create brg_RestaurantHighlight"
+          TopLeft="5.5,5.50000000000007" />
+        <ContainerLayout
+          HeaderHeight="43"
+          IsExpanded="True"
+          PanelSize="237.6,102.4"
+          Size="237.6,145.6"
+          Id="Package\brg_RestaurantHighlight"
+          TopLeft="5.50000000000023,1650.3" />
+        <NodeLayout
           Size="168.8,41.6"
           Id="Package\dim_Cuisine\Create dim_Cuisine"
           TopLeft="5.5,5.49999999999995" />
@@ -5148,7 +5208,7 @@ where [refTable].[localityName] = ?</property>
           PanelSize="180,102.4"
           Size="180,145.6"
           Id="Package\dim_Cuisine"
-          TopLeft="34.3000000000001,827.9" />
+          TopLeft="34.3000000000001,827.900000000001" />
         <NodeLayout
           Size="164,41.6"
           Id="Package\dim_Genre\Create dim_Genre"
@@ -5159,7 +5219,7 @@ where [refTable].[localityName] = ?</property>
           PanelSize="175.2,102.4"
           Size="175.2,145.6"
           Id="Package\dim_Genre"
-          TopLeft="36.7000000000001,211.1" />
+          TopLeft="36.7000000000001,211.100000000001" />
         <NodeLayout
           Size="176,41.6"
           Id="Package\dim_Highlights\create dim_Highlight"
@@ -5181,7 +5241,7 @@ where [refTable].[localityName] = ?</property>
           PanelSize="186.4,102.4"
           Size="186.4,145.6"
           Id="Package\dim_Location"
-          TopLeft="31.1000000000001,622.3" />
+          TopLeft="31.1000000000001,622.300000000001" />
         <NodeLayout
           Size="188,41.6"
           Id="Package\dim_PriceRange\Create dim_PriceRange"
@@ -5192,7 +5252,7 @@ where [refTable].[localityName] = ?</property>
           PanelSize="199.2,102.4"
           Size="199.2,145.6"
           Id="Package\dim_PriceRange"
-          TopLeft="24.7000000000001,416.7" />
+          TopLeft="24.7000000000001,416.700000000001" />
         <NodeLayout
           Size="186.4,41.6"
           Id="Package\dim_Restaurant\Create dim_Restaurant"
@@ -5221,14 +5281,14 @@ where [refTable].[localityName] = ?</property>
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,60.0000000000001"
+              EndConnector="0,60.0000000000003"
               Start="0,0"
-              End="0,52.5000000000001">
+              End="0,52.5000000000003">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,52.5000000000001" />
+                    End="0,52.5000000000003" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -5239,18 +5299,18 @@ where [refTable].[localityName] = ?</property>
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 1]"
-          TopLeft="124.3,356.7">
+          TopLeft="124.3,356.700000000001">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,59.9999999999999"
+              EndConnector="0,60.0000000000002"
               Start="0,0"
-              End="0,52.4999999999999">
+              End="0,52.5000000000002">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,52.4999999999999" />
+                    End="0,52.5000000000002" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -5261,7 +5321,7 @@ where [refTable].[localityName] = ?</property>
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 2]"
-          TopLeft="124.3,562.3">
+          TopLeft="124.3,562.300000000001">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -5283,7 +5343,7 @@ where [refTable].[localityName] = ?</property>
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 3]"
-          TopLeft="124.3,767.9">
+          TopLeft="124.3,767.900000000001">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -5304,8 +5364,30 @@ where [refTable].[localityName] = ?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 4]"
+          TopLeft="124.3,1384.7">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,60"
+              Start="0,0"
+              End="0,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 5]"
-          TopLeft="124.3,973.5">
+          TopLeft="124.3,973.500000000001">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -5347,50 +5429,6 @@ where [refTable].[localityName] = ?</property>
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="216.8,41.6"
-          Id="Package\brg_RestaurantCuisine\create brg_RestaurantCuisine"
-          TopLeft="5.5,5.50000000000007" />
-        <ContainerLayout
-          HeaderHeight="43"
-          IsExpanded="True"
-          PanelSize="228,102.4"
-          Size="228,145.6"
-          Id="Package\brg_RestaurantCuisine"
-          TopLeft="10.3000000000002,1444.7" />
-        <EdgeLayout
-          Id="Package.PrecedenceConstraints[Constraint 4]"
-          TopLeft="124.3,1384.7">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,60"
-              Start="0,0"
-              End="0,52.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,52.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="226.4,41.6"
-          Id="Package\brg_RestaurantHighlight\Create brg_RestaurantHighlight"
-          TopLeft="5.5,5.50000000000007" />
-        <ContainerLayout
-          HeaderHeight="43"
-          IsExpanded="True"
-          PanelSize="237.6,102.4"
-          Size="237.6,145.6"
-          Id="Package\brg_RestaurantHighlight"
-          TopLeft="5.50000000000023,1650.3" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 7]"
           TopLeft="124.3,1590.3">
@@ -5413,9 +5451,170 @@ where [refTable].[localityName] = ?</property>
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
+        <NodeLayout
+          Size="164,41.6"
+          Id="Package\voteIntegrity\exec voteIntegrity"
+          TopLeft="5.5,5.49999999999995" />
+        <ContainerLayout
+          HeaderHeight="43"
+          IsExpanded="True"
+          PanelSize="175.2,102.4"
+          Size="175.2,145.6"
+          Id="Package\voteIntegrity"
+          TopLeft="36.7000000000003,1855.9" />
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 8]"
+          TopLeft="124.3,1795.9">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,60"
+              Start="0,0"
+              End="0,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </Package>
+  <TaskHost
+    design-time-name="Package\brg_RestaurantCuisine\create brg_RestaurantCuisine">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        <NodeLayout
+          Size="258.4,41.6"
+          Id="Package\brg_RestaurantCuisine\create brg_RestaurantCuisine\Select RestaurantCuisine Intermediary"
+          TopLeft="179.714285714286,36" />
+        <NodeLayout
+          Size="184.8,41.6"
+          Id="Package\brg_RestaurantCuisine\create brg_RestaurantCuisine\brg_RestaurantCuisine"
+          TopLeft="222.142857142857,116.428571428571" />
+        <EdgeLayout
+          Id="Package\brg_RestaurantCuisine\create brg_RestaurantCuisine.Paths[OLE DB Source Output]"
+          TopLeft="311.728571428572,77.6">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,38.8285714285714"
+              Start="0,0"
+              End="0,31.3285714285714">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,31.3285714285714" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\brg_RestaurantCuisine\create brg_RestaurantCuisine\brg_RestaurantCuisine">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\brg_RestaurantCuisine\create brg_RestaurantCuisine\Select RestaurantCuisine Intermediary">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <TaskHost
+    design-time-name="Package\brg_RestaurantHighlight\Create brg_RestaurantHighlight">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        <NodeLayout
+          Size="266.4,41.6"
+          Id="Package\brg_RestaurantHighlight\Create brg_RestaurantHighlight\Select RestaurantHighlight Intermediary"
+          TopLeft="5.5,5.50000000000007" />
+        <NodeLayout
+          Size="192.8,41.6"
+          Id="Package\brg_RestaurantHighlight\Create brg_RestaurantHighlight\brg_RestaurantHighlight"
+          TopLeft="42.3,107.1" />
+        <EdgeLayout
+          Id="Package\brg_RestaurantHighlight\Create brg_RestaurantHighlight.Paths[OLE DB Source Output]"
+          TopLeft="138.7,47.1000000000001">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,60"
+              Start="0,0"
+              End="0,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\brg_RestaurantHighlight\Create brg_RestaurantHighlight\brg_RestaurantHighlight">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\brg_RestaurantHighlight\Create brg_RestaurantHighlight\Select RestaurantHighlight Intermediary">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
   <TaskHost
     design-time-name="Package\dim_Cuisine\Create dim_Cuisine">
     <LayoutInfo>
@@ -6348,12 +6547,35 @@ where [refTable].[localityName] = ?</property>
     </LayoutInfo>
   </TaskHost>
   <PipelineComponentMetadata
+    design-time-name="Package\fct_RestaurantFacts\Create fct_RestaurantFacts\Lookup GenreID">
+    <Properties>
+      <Property>
+        <Name>OverwriteParamsSQLProp</Name>
+        <Value
+          type="q2:string">false</Value>
+      </Property>
+      <Property>
+        <Name>UsedTableName</Name>
+        <Value
+          type="q3:string">[dbo].[dim_Genre]</Value>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q4:string">0</Value>
+      </Property>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
     design-time-name="Package\fct_RestaurantFacts\Create fct_RestaurantFacts\Lookup LocationID">
     <Properties>
       <Property>
         <Name>OverwriteParamsSQLProp</Name>
         <Value
-          type="q2:boolean">false</Value>
+          type="q2:string">false</Value>
       </Property>
       <Property>
         <Name>UsedTableName</Name>
@@ -6363,30 +6585,7 @@ where [refTable].[localityName] = ?</property>
       <Property>
         <Name>TableInfoObjectType</Name>
         <Value
-          type="q4:int">0</Value>
-      </Property>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\fct_RestaurantFacts\Create fct_RestaurantFacts\Lookup LocalityName">
-    <Properties>
-      <Property>
-        <Name>OverwriteParamsSQLProp</Name>
-        <Value
-          type="q2:boolean">false</Value>
-      </Property>
-      <Property>
-        <Name>UsedTableName</Name>
-        <Value
-          type="q3:string">[dbo].[tbl_Localities]</Value>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q4:int">0</Value>
+          type="q4:string">0</Value>
       </Property>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -6420,153 +6619,25 @@ where [refTable].[localityName] = ?</property>
     </Properties>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
-    design-time-name="Package\fct_RestaurantFacts\Create fct_RestaurantFacts\Lookup GenreID">
+    design-time-name="Package\fct_RestaurantFacts\Create fct_RestaurantFacts\Lookup LocalityName">
     <Properties>
       <Property>
         <Name>OverwriteParamsSQLProp</Name>
         <Value
-          type="q2:boolean">false</Value>
+          type="q2:string">false</Value>
       </Property>
       <Property>
         <Name>UsedTableName</Name>
         <Value
-          type="q3:string">[dbo].[dim_Genre]</Value>
+          type="q3:string">[dbo].[tbl_Localities]</Value>
       </Property>
       <Property>
         <Name>TableInfoObjectType</Name>
         <Value
-          type="q4:int">0</Value>
+          type="q4:string">0</Value>
       </Property>
       <Property>
         <Name>DataSourceViewID</Name>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <TaskHost
-    design-time-name="Package\brg_RestaurantCuisine\create brg_RestaurantCuisine">
-    <LayoutInfo>
-      <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
-        <NodeLayout
-          Size="258.4,41.6"
-          Id="Package\brg_RestaurantCuisine\create brg_RestaurantCuisine\Select RestaurantCuisine Intermediary"
-          TopLeft="179.714285714286,36" />
-        <NodeLayout
-          Size="184.8,41.6"
-          Id="Package\brg_RestaurantCuisine\create brg_RestaurantCuisine\brg_RestaurantCuisine"
-          TopLeft="222.142857142857,116.428571428571" />
-        <EdgeLayout
-          Id="Package\brg_RestaurantCuisine\create brg_RestaurantCuisine.Paths[OLE DB Source Output]"
-          TopLeft="311.728571428572,77.6">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,38.8285714285714"
-              Start="0,0"
-              End="0,31.3285714285714">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,31.3285714285714" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-      </GraphLayout>
-    </LayoutInfo>
-  </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\brg_RestaurantCuisine\create brg_RestaurantCuisine\Select RestaurantCuisine Intermediary">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\brg_RestaurantCuisine\create brg_RestaurantCuisine\brg_RestaurantCuisine">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <TaskHost
-    design-time-name="Package\brg_RestaurantHighlight\Create brg_RestaurantHighlight">
-    <LayoutInfo>
-      <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
-        <NodeLayout
-          Size="266.4,41.6"
-          Id="Package\brg_RestaurantHighlight\Create brg_RestaurantHighlight\Select RestaurantHighlight Intermediary"
-          TopLeft="5.5,5.50000000000007" />
-        <NodeLayout
-          Size="192.8,41.6"
-          Id="Package\brg_RestaurantHighlight\Create brg_RestaurantHighlight\brg_RestaurantHighlight"
-          TopLeft="42.3,107.1" />
-        <EdgeLayout
-          Id="Package\brg_RestaurantHighlight\Create brg_RestaurantHighlight.Paths[OLE DB Source Output]"
-          TopLeft="138.7,47.1000000000001">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,60"
-              Start="0,0"
-              End="0,52.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,52.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-      </GraphLayout>
-    </LayoutInfo>
-  </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\brg_RestaurantHighlight\Create brg_RestaurantHighlight\Select RestaurantHighlight Intermediary">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\brg_RestaurantHighlight\Create brg_RestaurantHighlight\brg_RestaurantHighlight">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
       </Property>
     </Properties>
   </PipelineComponentMetadata>
