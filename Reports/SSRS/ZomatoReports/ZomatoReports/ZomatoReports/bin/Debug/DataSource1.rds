@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DataSource1">
-  <ConnectionProperties>
-    <Extension>OLEDB-MD</Extension>
-    <ConnectString>Data Source=DESKTOP-6A8K136\TRAININGMD;Initial Catalog=ZomatoCube</ConnectString>
-    <IntegratedSecurity>true</IntegratedSecurity>
-  </ConnectionProperties>
-  <DataSourceID>272b233a-d76b-4681-bb65-59e8bd0b4871</DataSourceID>
-</RptDataSource>
