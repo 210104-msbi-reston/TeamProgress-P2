@@ -1,0 +1,542 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SharedDataSet xmlns="http://schemas.microsoft.com/sqlserver/reporting/2010/01/shareddatasetdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <DataSet Name="DataSet2">
+    <Query>
+      <DataSourceReference>ZomatoCubeKL</DataSourceReference>
+      <DataSetParameters>
+        <DataSetParameter Name="DimLocationCityName">
+          <DefaultValue>=new Object() {"[Dim Location].[City Name].&amp;[Agra]", "[Dim Location].[City Name].&amp;[Ahmedabad]", "[Dim Location].[City Name].&amp;[Ajmer]", "[Dim Location].[City Name].&amp;[Alappuzha]", "[Dim Location].[City Name].&amp;[Allahabad]", "[Dim Location].[City Name].&amp;[Amravati]", "[Dim Location].[City Name].&amp;[Amritsar]", "[Dim Location].[City Name].&amp;[Aurangabad]", "[Dim Location].[City Name].&amp;[Bhopal]", "[Dim Location].[City Name].&amp;[Bangalore]", "[Dim Location].[City Name].&amp;[Bhubaneswar]", "[Dim Location].[City Name].&amp;[Chandigarh]", "[Dim Location].[City Name].&amp;[Chennai]", "[Dim Location].[City Name].&amp;[Coimbatore]", "[Dim Location].[City Name].&amp;[Cuttack]", "[Dim Location].[City Name].&amp;[Darjeeling]", "[Dim Location].[City Name].&amp;[Dehradun]", "[Dim Location].[City Name].&amp;[Dharamshala]", "[Dim Location].[City Name].&amp;[Faridabad]", "[Dim Location].[City Name].&amp;[Gandhinagar]", "[Dim Location].[City Name].&amp;[Gangtok]", "[Dim Location].[City Name].&amp;[Ghaziabad]", "[Dim Location].[City Name].&amp;[Goa]", "[Dim Location].[City Name].&amp;[Gorakhpur]", "[Dim Location].[City Name].&amp;[Greater Noida]", "[Dim Location].[City Name].&amp;[Guntur]", "[Dim Location].[City Name].&amp;[Gurgaon]", "[Dim Location].[City Name].&amp;[Guwahati]", "[Dim Location].[City Name].&amp;[Gwalior]", "[Dim Location].[City Name].&amp;[Haridwar]", "[Dim Location].[City Name].&amp;[Howrah]", "[Dim Location].[City Name].&amp;[Hyderabad]", "[Dim Location].[City Name].&amp;[Indore]", "[Dim Location].[City Name].&amp;[Jabalpur]", "[Dim Location].[City Name].&amp;[Jaipur]", "[Dim Location].[City Name].&amp;[Jalandhar]", "[Dim Location].[City Name].&amp;[Jammu]", "[Dim Location].[City Name].&amp;[Jamnagar]", "[Dim Location].[City Name].&amp;[Jamshedpur]", "[Dim Location].[City Name].&amp;[Jhansi]", "[Dim Location].[City Name].&amp;[Jodhpur]", "[Dim Location].[City Name].&amp;[Junagadh]", "[Dim Location].[City Name].&amp;[Kanpur]", "[Dim Location].[City Name].&amp;[Kharagpur]", "[Dim Location].[City Name].&amp;[Kochi]", "[Dim Location].[City Name].&amp;[Kolhapur]", "[Dim Location].[City Name].&amp;[Kolkata]", "[Dim Location].[City Name].&amp;[Kota]", "[Dim Location].[City Name].&amp;[Lucknow]", "[Dim Location].[City Name].&amp;[Ludhiana]", "[Dim Location].[City Name].&amp;[Madurai]", "[Dim Location].[City Name].&amp;[Manali]", "[Dim Location].[City Name].&amp;[Mangalore]", "[Dim Location].[City Name].&amp;[Manipal]", "[Dim Location].[City Name].&amp;[Meerut]", "[Dim Location].[City Name].&amp;[Mohali]", "[Dim Location].[City Name].&amp;[Mumbai]", "[Dim Location].[City Name].&amp;[Mussoorie]", "[Dim Location].[City Name].&amp;[Mysore]", "[Dim Location].[City Name].&amp;[Nagpur]", "[Dim Location].[City Name].&amp;[Nainital]", "[Dim Location].[City Name].&amp;[Nashik]", "[Dim Location].[City Name].&amp;[Navi Mumbai]", "[Dim Location].[City Name].&amp;[Nayagaon]", "[Dim Location].[City Name].&amp;[Neemrana]", "[Dim Location].[City Name].&amp;[New Delhi]", "[Dim Location].[City Name].&amp;[Noida]", "[Dim Location].[City Name].&amp;[Ooty]", "[Dim Location].[City Name].&amp;[Palakkad]", "[Dim Location].[City Name].&amp;[Panchkula]", "[Dim Location].[City Name].&amp;[Patiala]", "[Dim Location].[City Name].&amp;[Patna]", "[Dim Location].[City Name].&amp;[Puducherry]", "[Dim Location].[City Name].&amp;[Pune]", "[Dim Location].[City Name].&amp;[Pushkar]", "[Dim Location].[City Name].&amp;[Raipur]", "[Dim Location].[City Name].&amp;[Rajkot]", "[Dim Location].[City Name].&amp;[Ranchi]", "[Dim Location].[City Name].&amp;[Rishikesh]", "[Dim Location].[City Name].&amp;[Salem]", "[Dim Location].[City Name].&amp;[Secunderabad]", "[Dim Location].[City Name].&amp;[Shimla]", "[Dim Location].[City Name].&amp;[Siliguri]", "[Dim Location].[City Name].&amp;[Srinagar]", "[Dim Location].[City Name].&amp;[Surat]", "[Dim Location].[City Name].&amp;[Thane]", "[Dim Location].[City Name].&amp;[Thrissur]", "[Dim Location].[City Name].&amp;[Tirupati]", "[Dim Location].[City Name].&amp;[Trichy]", "[Dim Location].[City Name].&amp;[Trivandrum]", "[Dim Location].[City Name].&amp;[Udaipur]", "[Dim Location].[City Name].&amp;[Udupi]", "[Dim Location].[City Name].&amp;[Vadodara]", "[Dim Location].[City Name].&amp;[Varanasi]", "[Dim Location].[City Name].&amp;[Vellore]", "[Dim Location].[City Name].&amp;[Vijayawada]", "[Dim Location].[City Name].&amp;[Vizag]", "[Dim Location].[City Name].&amp;[Zirakpur]"}</DefaultValue>
+          <ReadOnly>false</ReadOnly>
+          <Nullable>false</Nullable>
+          <OmitFromQuery>false</OmitFromQuery>
+          <rd:DbType>Object</rd:DbType>
+          <rd:IsMultiValued>true</rd:IsMultiValued>
+        </DataSetParameter>
+      </DataSetParameters>
+      <CommandText> SELECT NON EMPTY { [Measures].[AvgRating] } ON COLUMNS, NON EMPTY { ([Dim Restaurant].[Restaurant ID].[Restaurant ID].ALLMEMBERS * [Dim Restaurant].[Restaurant Name].[Restaurant Name].ALLMEMBERS * [Dim Restaurant].[Restaurant Address].[Restaurant Address].ALLMEMBERS * [Dim Cuisine].[Cuisine Name].[Cuisine Name].ALLMEMBERS ) } DIMENSION PROPERTIES MEMBER_CAPTION, MEMBER_VALUE, MEMBER_UNIQUE_NAME ON ROWS FROM ( SELECT ( STRTOSET(@DimLocationCityName, CONSTRAINED) ) ON COLUMNS FROM [dsv_ZomatoRestaurantsDW]) WHERE ( IIF( STRTOSET(@DimLocationCityName, CONSTRAINED).Count = 1, STRTOSET(@DimLocationCityName, CONSTRAINED), [Dim Location].[City Name].currentmember ) ) CELL PROPERTIES VALUE, BACK_COLOR, FORE_COLOR, FORMATTED_VALUE, FORMAT_STRING, FONT_NAME, FONT_SIZE, FONT_FLAGS</CommandText>
+      <rd:DesignerState>
+        <QueryDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.microsoft.com/AnalysisServices/QueryDefinition">
+          <CommandType>MDX</CommandType>
+          <QuerySpecification xsi:type="MDXQuerySpecification">
+            <Select>
+              <Items>
+                <Item>
+                  <ID xsi:type="Level">
+                    <DimensionName>Dim Restaurant</DimensionName>
+                    <HierarchyName>Restaurant ID</HierarchyName>
+                    <HierarchyUniqueName>[Dim Restaurant].[Restaurant ID]</HierarchyUniqueName>
+                    <LevelName>Restaurant ID</LevelName>
+                    <UniqueName>[Dim Restaurant].[Restaurant ID].[Restaurant ID]</UniqueName>
+                  </ID>
+                  <ItemCaption>Restaurant ID</ItemCaption>
+                  <UniqueName>true</UniqueName>
+                </Item>
+                <Item>
+                  <ID xsi:type="Level">
+                    <DimensionName>Dim Restaurant</DimensionName>
+                    <HierarchyName>Restaurant Name</HierarchyName>
+                    <HierarchyUniqueName>[Dim Restaurant].[Restaurant Name]</HierarchyUniqueName>
+                    <LevelName>Restaurant Name</LevelName>
+                    <UniqueName>[Dim Restaurant].[Restaurant Name].[Restaurant Name]</UniqueName>
+                  </ID>
+                  <ItemCaption>Restaurant Name</ItemCaption>
+                  <UniqueName>true</UniqueName>
+                </Item>
+                <Item>
+                  <ID xsi:type="Level">
+                    <DimensionName>Dim Restaurant</DimensionName>
+                    <HierarchyName>Restaurant Address</HierarchyName>
+                    <HierarchyUniqueName>[Dim Restaurant].[Restaurant Address]</HierarchyUniqueName>
+                    <LevelName>Restaurant Address</LevelName>
+                    <UniqueName>[Dim Restaurant].[Restaurant Address].[Restaurant Address]</UniqueName>
+                  </ID>
+                  <ItemCaption>Restaurant Address</ItemCaption>
+                  <UniqueName>true</UniqueName>
+                </Item>
+                <Item>
+                  <ID xsi:type="Level">
+                    <DimensionName>Dim Cuisine</DimensionName>
+                    <HierarchyName>Cuisine Name</HierarchyName>
+                    <HierarchyUniqueName>[Dim Cuisine].[Cuisine Name]</HierarchyUniqueName>
+                    <LevelName>Cuisine Name</LevelName>
+                    <UniqueName>[Dim Cuisine].[Cuisine Name].[Cuisine Name]</UniqueName>
+                  </ID>
+                  <ItemCaption>Cuisine Name</ItemCaption>
+                  <UniqueName>true</UniqueName>
+                </Item>
+                <Item>
+                  <ID xsi:type="Measure">
+                    <MeasureName>AvgRating</MeasureName>
+                    <UniqueName>[Measures].[AvgRating]</UniqueName>
+                  </ID>
+                  <ItemCaption>AvgRating</ItemCaption>
+                  <BackColor>true</BackColor>
+                  <ForeColor>true</ForeColor>
+                  <FontFamily>true</FontFamily>
+                  <FontSize>true</FontSize>
+                  <FontWeight>true</FontWeight>
+                  <FontStyle>true</FontStyle>
+                  <FontDecoration>true</FontDecoration>
+                  <FormattedValue>true</FormattedValue>
+                  <FormatString>true</FormatString>
+                </Item>
+              </Items>
+            </Select>
+            <AutoExecute>false</AutoExecute>
+            <From>dsv_ZomatoRestaurantsDW</From>
+            <Filter>
+              <FilterItems>
+                <FilterItem>
+                  <HierarchyUniqueName>[Dim Location].[City Name]</HierarchyUniqueName>
+                  <Condition xsi:type="EqualTo">
+                    <Members>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Agra]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Ahmedabad]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Ajmer]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Alappuzha]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Allahabad]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Amravati]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Amritsar]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Aurangabad]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Bhopal]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Bangalore]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Bhubaneswar]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Chandigarh]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Chennai]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Coimbatore]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Cuttack]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Darjeeling]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Dehradun]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Dharamshala]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Faridabad]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Gandhinagar]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Gangtok]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Ghaziabad]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Goa]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Gorakhpur]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Greater Noida]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Guntur]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Gurgaon]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Guwahati]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Gwalior]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Haridwar]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Howrah]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Hyderabad]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Indore]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Jabalpur]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Jaipur]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Jalandhar]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Jammu]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Jamnagar]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Jamshedpur]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Jhansi]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Jodhpur]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Junagadh]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Kanpur]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Kharagpur]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Kochi]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Kolhapur]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Kolkata]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Kota]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Lucknow]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Ludhiana]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Madurai]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Manali]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Mangalore]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Manipal]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Meerut]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Mohali]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Mumbai]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Mussoorie]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Mysore]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Nagpur]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Nainital]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Nashik]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Navi Mumbai]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Nayagaon]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Neemrana]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[New Delhi]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Noida]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Ooty]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Palakkad]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Panchkula]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Patiala]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Patna]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Puducherry]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Pune]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Pushkar]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Raipur]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Rajkot]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Ranchi]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Rishikesh]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Salem]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Secunderabad]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Shimla]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Siliguri]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Srinagar]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Surat]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Thane]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Thrissur]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Tirupati]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Trichy]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Trivandrum]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Udaipur]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Udupi]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Vadodara]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Varanasi]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Vellore]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Vijayawada]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Vizag]</MemberUniqueName>
+                      </Member>
+                      <Member>
+                        <MemberUniqueName>[Dim Location].[City Name].&amp;[Zirakpur]</MemberUniqueName>
+                      </Member>
+                    </Members>
+                    <Parametrized>true</Parametrized>
+                  </Condition>
+                </FilterItem>
+              </FilterItems>
+            </Filter>
+            <Calculations />
+            <Aggregates />
+            <QueryProperties>
+              <IncludeMemberValue>true</IncludeMemberValue>
+            </QueryProperties>
+          </QuerySpecification>
+          <Query>
+            <Statement> SELECT NON EMPTY { [Measures].[AvgRating] } ON COLUMNS, NON EMPTY { ([Dim Restaurant].[Restaurant ID].[Restaurant ID].ALLMEMBERS * [Dim Restaurant].[Restaurant Name].[Restaurant Name].ALLMEMBERS * [Dim Restaurant].[Restaurant Address].[Restaurant Address].ALLMEMBERS * [Dim Cuisine].[Cuisine Name].[Cuisine Name].ALLMEMBERS ) } DIMENSION PROPERTIES MEMBER_CAPTION, MEMBER_VALUE, MEMBER_UNIQUE_NAME ON ROWS FROM ( SELECT ( STRTOSET(@DimLocationCityName, CONSTRAINED) ) ON COLUMNS FROM [dsv_ZomatoRestaurantsDW]) WHERE ( IIF( STRTOSET(@DimLocationCityName, CONSTRAINED).Count = 1, STRTOSET(@DimLocationCityName, CONSTRAINED), [Dim Location].[City Name].currentmember ) ) CELL PROPERTIES VALUE, BACK_COLOR, FORE_COLOR, FORMATTED_VALUE, FORMAT_STRING, FONT_NAME, FONT_SIZE, FONT_FLAGS</Statement>
+            <ParameterDefinitions>
+              <ParameterDefinition>
+                <Name>DimLocationCityName</Name>
+                <DefaultValues>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Agra]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Ahmedabad]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Ajmer]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Alappuzha]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Allahabad]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Amravati]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Amritsar]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Aurangabad]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Bhopal]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Bangalore]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Bhubaneswar]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Chandigarh]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Chennai]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Coimbatore]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Cuttack]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Darjeeling]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Dehradun]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Dharamshala]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Faridabad]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Gandhinagar]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Gangtok]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Ghaziabad]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Goa]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Gorakhpur]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Greater Noida]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Guntur]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Gurgaon]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Guwahati]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Gwalior]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Haridwar]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Howrah]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Hyderabad]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Indore]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Jabalpur]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Jaipur]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Jalandhar]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Jammu]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Jamnagar]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Jamshedpur]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Jhansi]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Jodhpur]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Junagadh]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Kanpur]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Kharagpur]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Kochi]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Kolhapur]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Kolkata]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Kota]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Lucknow]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Ludhiana]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Madurai]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Manali]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Mangalore]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Manipal]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Meerut]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Mohali]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Mumbai]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Mussoorie]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Mysore]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Nagpur]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Nainital]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Nashik]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Navi Mumbai]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Nayagaon]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Neemrana]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[New Delhi]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Noida]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Ooty]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Palakkad]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Panchkula]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Patiala]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Patna]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Puducherry]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Pune]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Pushkar]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Raipur]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Rajkot]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Ranchi]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Rishikesh]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Salem]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Secunderabad]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Shimla]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Siliguri]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Srinagar]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Surat]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Thane]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Thrissur]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Tirupati]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Trichy]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Trivandrum]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Udaipur]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Udupi]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Vadodara]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Varanasi]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Vellore]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Vijayawada]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Vizag]</DefaultValue>
+                  <DefaultValue>[Dim Location].[City Name].&amp;[Zirakpur]</DefaultValue>
+                </DefaultValues>
+                <Caption>City Name</Caption>
+                <HierarchyUniqueName>[Dim Location].[City Name]</HierarchyUniqueName>
+                <ParameterValuesQuery>
+                  <Statement>WITH MEMBER [Measures].[ParameterCaption] AS [Dim Location].[City Name].CURRENTMEMBER.MEMBER_CAPTION MEMBER [Measures].[ParameterValue] AS [Dim Location].[City Name].CURRENTMEMBER.UNIQUENAME MEMBER [Measures].[ParameterLevel] AS [Dim Location].[City Name].CURRENTMEMBER.LEVEL.ORDINAL SELECT {[Measures].[ParameterCaption], [Measures].[ParameterValue], [Measures].[ParameterLevel]} ON COLUMNS , [Dim Location].[City Name].ALLMEMBERS ON ROWS FROM [dsv_ZomatoRestaurantsDW]</Statement>
+                  <ParameterizedStatement>
+                    <ReferencedParameters />
+                  </ParameterizedStatement>
+                </ParameterValuesQuery>
+                <MultipleValues>true</MultipleValues>
+              </ParameterDefinition>
+            </ParameterDefinitions>
+          </Query>
+        </QueryDefinition>
+      </rd:DesignerState>
+    </Query>
+    <Fields>
+      <Field Name="Restaurant_ID">
+        <DataField>&lt;?xml version="1.0" encoding="utf-8"?&gt;&lt;Field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="Level" UniqueName="[Dim Restaurant].[Restaurant ID].[Restaurant ID]" /&gt;</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="Restaurant_Name">
+        <DataField>&lt;?xml version="1.0" encoding="utf-8"?&gt;&lt;Field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="Level" UniqueName="[Dim Restaurant].[Restaurant Name].[Restaurant Name]" /&gt;</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="AvgRating">
+        <DataField>&lt;?xml version="1.0" encoding="utf-8"?&gt;&lt;Field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="Measure" UniqueName="[Measures].[AvgRating]" /&gt;</DataField>
+        <rd:TypeName>System.Int32</rd:TypeName>
+      </Field>
+      <Field Name="Restaurant_Address">
+        <DataField>&lt;?xml version="1.0" encoding="utf-8"?&gt;&lt;Field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="Level" UniqueName="[Dim Restaurant].[Restaurant Address].[Restaurant Address]" /&gt;</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="Cuisine_Name">
+        <DataField>&lt;?xml version="1.0" encoding="utf-8"?&gt;&lt;Field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="Level" UniqueName="[Dim Cuisine].[Cuisine Name].[Cuisine Name]" /&gt;</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+    </Fields>
+  </DataSet>
+</SharedDataSet>
