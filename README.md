@@ -30,3 +30,4 @@ Our project will analyze restaurant data that has been pulled from Zomato. Zomat
 This project uses the following license: 
 * [SQL Server Management Studio ](https://docs.microsoft.com/en-us/legal/sql/sql-server-management-studio-license-terms)
 * [SQL Server Data Tools ](https://docs.microsoft.com/en-us/legal/sql/sql-server-management-studio-license-terms)
+* [Microsoft Office 365](https://www.microsoft.com/en-us/Useterms/Retail/OfficeinMicrosoft365/Personal/Useterms_Retail_OfficeinMicrosoft365_Personal_English.htm)
