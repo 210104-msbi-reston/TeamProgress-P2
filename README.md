@@ -1,4 +1,5 @@
 <img src= "https://github.com/210104-msbi-reston/TeamProgress-P2/blob/master/Images/zomatologo5.png?raw=true">
+
 # Zomato Restaurant Business Analysis
 ## Description
 Our project will analyze restaurant data that has been pulled from Zomato. Zomato is a online resource that offers restaurant information, menus, customer reviews, as well as food delivery options from partnered restaurants in select areas. Several datasets will be extracted, transformed, and loaded into a singular data warehouse. Analytical services will be used to provide statistical data that can be utilized to make informed business decisions, including ideal locations to receive favorable reviews, what kind of cuisine will ensure a successful business, the ideal hours to keep the business open, and what kind of accomodations and services will lead to being favorably reviewed.
