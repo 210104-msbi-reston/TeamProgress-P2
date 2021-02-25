@@ -22,8 +22,9 @@ involves running a script file to setup the schema and then running the SSIS pac
 * git clone https://github.com/210104-msbi-reston/TeamProgress-P2.git
 
 ### Option 1 - Backups
-
-
+* Navigate to the TeamProgress-P2\Database Backup folder in the cloned repository.
+* Extract the files from ZomatoRestaurants.zip into your SQL Server Instance backup folder.
+  * This is typically located at C:\Program Files\Microsoft SQL Server\[instance name]\MSSQL\Backup
 ## Team Members
 * Jonathan Tucker - Team Leader
 * Kathleen Labog - Co-Leader
