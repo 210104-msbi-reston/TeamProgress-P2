@@ -32,6 +32,16 @@ involves running a script file to setup the schema and then running the SSIS pac
 * When the new windows appears, click "Add" and if you've done it successfully, you should see the backup files you unzipped listed.
 * Restore the ZomatoRestaurants.bak and the ZomatoRestaurantsDW.bak to load the relational database and the data warehouse.
 
+### Option 2 - Schemas
+* Navigate to the TeamProgress-P2\SQL folder in the cloned repository.
+* Extract the files from ZomatoRestaurants_SchemaData.zip.
+* Open the two SchemaData files in SSMS and execute each query.
+  * This will take anywhere from 5-10 minutes each.
+
+### Option 3 - SSIS Packages
+* Navigate to the TeamProgress-P2\SQL folder in the cloned repository.
+* Open the files named DBCreateTables.sql and DWCreateTables.sql in SSMS and execute the queries.
+
 ## Team Members
 * Jonathan Tucker - Team Leader
 * Kathleen Labog - Co-Leader
