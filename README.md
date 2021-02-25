@@ -2,7 +2,7 @@
 
 # Zomato Restaurant Business Analysis
 ## Description
-Our project will analyze restaurant data that has been pulled from Zomato. Zomato is a online resource that offers restaurant information, menus, customer reviews, as well as food delivery options from partnered restaurants in select areas. Several datasets will be extracted, transformed, and loaded into a singular data warehouse. Analytical services will be used to provide statistical data that can be utilized to make informed business decisions, including ideal locations to receive favorable reviews, what kind of cuisine will ensure a successful business, the ideal hours to keep the business open, and what kind of accomodations and services will lead to being favorably reviewed.
+Our project will analyze restaurant data that has been pulled from Zomato. Zomato is a online resource that offers restaurant information, menus, customer reviews, as well as food delivery options from partnered restaurants in select areas. Several datasets will be extracted, transformed, and loaded into a singular data warehouse. Analytical services will be used to provide statistical data that can be utilized to make informed business decisions, including ideal locations to receive favorable reviews, what kind of cuisine will ensure a successful business, what kind of accomodations and services will lead to being favorably reviewed, and what markets are oversaturated/untapped to assist businesses that are interested in opening a new restaurant in the country of India.
 
 ## Tech Stack
 * Microsoft Excel
@@ -11,6 +11,7 @@ Our project will analyze restaurant data that has been pulled from Zomato. Zomat
 * SQL Server Integrations Services (SSIS)
 * SQL Server Analysis Services (SSAS)
 * SQL Server Reporting Services (SSRS)
+* Microsoft Power Bi
 
 ## Getting Started
 There are two options to setup this project. The first option involves restoring backups of the Relational Database and the Data Warehouse. The second option
