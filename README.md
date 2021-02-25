@@ -6,11 +6,11 @@ Our project will analyze restaurant data that has been pulled from Zomato. Zomat
 
 ## Tech Stack
 * Microsoft Excel
-* Microsoft Server 2016
-* Microsoft SQL Server Management Studio
-* SQL Server Integrations Services
-* SQL Server Analysis Services
-* SQL Server Reporting Services
+* Microsoft SQL Server 2016
+* Microsoft SQL Server Management Studio (SSMS)
+* SQL Server Integrations Services (SSIS)
+* SQL Server Analysis Services (SSAS)
+* SQL Server Reporting Services (SSRS)
 
 ## Getting Started
 There are two options to setup this project. The first option involves restoring backups of the Relational Database and the Data Warehouse. The second option
@@ -25,6 +25,12 @@ involves running a script file to setup the schema and then running the SSIS pac
 * Navigate to the TeamProgress-P2\Database Backup folder in the cloned repository.
 * Extract the files from ZomatoRestaurants.zip into your SQL Server Instance backup folder.
   * This is typically located at C:\Program Files\Microsoft SQL Server\\[instance name]\MSSQL\Backup
+* Once successful, open SSMS and connect to the database engine/SQL Instance you put the backup files in.
+* After connecting, right click the Databases folder and select "Restore Database.
+* Under "Source" select Device and click the button with the ellipses "..."
+* When the new windows appears, click "Add" and if you've done it successfully, you should see the backup files you unzipped listed.
+* Restore the ZomatoRestaurants.bak and the ZomatoRestaurantsDW.bak to load the relational database and the data warehouse.
+
 ## Team Members
 * Jonathan Tucker - Team Leader
 * Kathleen Labog - Co-Leader
