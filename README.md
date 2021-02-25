@@ -12,6 +12,18 @@ Our project will analyze restaurant data that has been pulled from Zomato. Zomat
 * SQL Server Analysis Services
 * SQL Server Reporting Services
 
+## Getting Started
+There are two options to setup this project. The first option involves restoring backups of the Relational Database and the Data Warehouse. The second option
+involves running a script file to setup the schema and then running the SSIS packages to load the database.
+
+### Requirements
+* Ensure SQL Server Management Studio is installed.
+* Ensure Visual Studio 2017 (SSDT) is installed.
+* git clone https://github.com/210104-msbi-reston/TeamProgress-P2.git
+
+### Option 1 - Backups
+
+
 ## Team Members
 * Jonathan Tucker - Team Leader
 * Kathleen Labog - Co-Leader
