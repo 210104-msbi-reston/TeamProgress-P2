@@ -40,7 +40,11 @@ There are three options to setup this project. The first option involves restori
 ### Option 2 - Schemas
 * Navigate to the TeamProgress-P2\SQL folder in the cloned repository.
 * Extract the files from ZomatoRestaurants_SchemaData.zip.
-* Open the two SchemaData files in SSMS and execute each query.
+* Open the two SchemaData files in SSMS
+* Adjust the FILENAME attribute in lines 7 & 9 to point to your respective Microsoft SQL directories  
+<img src = "https://github.com/210104-msbi-reston/TeamProgress-P2/blob/master/Images/Image%20for%20Renaming%20Path%20in%20Schema%20script.png?raw=true" width = "600">
+
+* Execute each query.
   * This will take anywhere from 5-10 minutes each.
 
 ### Option 3 - SSIS Packages
