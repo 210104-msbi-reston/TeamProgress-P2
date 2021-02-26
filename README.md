@@ -42,6 +42,12 @@ involves running a script file to setup the schema and then running the SSIS pac
 * Navigate to the TeamProgress-P2\SQL folder in the cloned repository.
 * Open the files named DBCreateTables.sql and DWCreateTables.sql in SSMS and execute the queries.
 
+#### Populate Distinct Tables
+
+
+#### Restaurant Facts
+
+
 ## SSAS and the Cube
 * Navigate to TeamProgress-P2\SSAS in the cloned repository.
 * Extract the files from ZomatoCube.zip.
