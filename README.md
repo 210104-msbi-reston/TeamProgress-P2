@@ -42,6 +42,23 @@ involves running a script file to setup the schema and then running the SSIS pac
 * Navigate to the TeamProgress-P2\SQL folder in the cloned repository.
 * Open the files named DBCreateTables.sql and DWCreateTables.sql in SSMS and execute the queries.
 
+## SSAS and the Cube
+* Navigate to TeamProgress-P2\SSAS in the cloned repository.
+* Extract the files from ZomatoCube.zip.
+* Open ZomatoCube.sln with Visual Studio 2017 (SSDT).
+* Right click the bold ZomatoCube and select Properties.
+* In Configuration Properties on the left, click Deployment.
+* Insert the name of the Analysis Service instance you want to deploy to. Hit OK.
+* Double click ds_ZomatoRestaurantsDW.ds in Data Sources and click Edit under Connection String.
+* Change the Server Name to the Database Engine instance you hosted the data warehouse on.
+* In the "Connect to a databse" section, click the drop down arrow and select "ZomatoRestaurantsDW". Click OK.
+* Click the "Impersonation Information" tab at the top and select "Use a specific Windows user name and password".
+* Enter the credentials of the Windows account you are currently logged into. Click OK.
+* Right click dsv_ZomatoRestaurantsDW.cube and click Process.
+* Click yes in both menus and enter your login information if prompted.
+* Click Run... on the Process Cube window when prompted.
+* Click close when finished processing. The cube should now be successfully deployed and queryable through both SSMS and SSAS.
+
 ## Team Members
 * Jonathan Tucker - Team Leader
 * Kathleen Labog - Co-Leader
