@@ -14,8 +14,7 @@ Our project will analyze restaurant data that has been pulled from Zomato. Zomat
 * Microsoft Power Bi
 
 ## Getting Started
-There are two options to setup this project. The first option involves restoring backups of the Relational Database and the Data Warehouse. The second option
-involves running a script file to setup the schema and then running the SSIS packages to load the database.
+There are three options to setup this project. The first option involves restoring backups of the Relational Database and the Data Warehouse. The second option involves executing the SchemaData sql files for the Relational Database and the Data Warehouse. The third option involves running script files to setup the schemas and then running the SSIS packages to load the database and data warehouse.
 
 ### Requirements
 * Ensure SQL Server Management Studio is installed.
