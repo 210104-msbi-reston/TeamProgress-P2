@@ -1,4 +1,4 @@
-<img src= "https://github.com/210104-msbi-reston/TeamProgress-P2/blob/master/Images/zomatologo5.png?raw=true">
+<img src= "https://github.com/210104-msbi-reston/TeamProgress-P2/blob/master/Images/zomatoheader.png">
 
 # Zomato Restaurant Business Analysis
 ## Description
