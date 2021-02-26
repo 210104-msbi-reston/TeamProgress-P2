@@ -59,6 +59,9 @@ involves running a script file to setup the schema and then running the SSIS pac
 * Click Run... on the Process Cube window when prompted.
 * Click close when finished processing. The cube should now be successfully deployed and queryable through both SSMS and SSAS.
 
+## SSRS and Power Bi
+
+
 ## Team Members
 * Jonathan Tucker - Team Leader
 * Kathleen Labog - Co-Leader
