@@ -4,17 +4,17 @@ USE ZomatoRestaurants
 
 
 --DROP TABLES
-DROP TABLE tbl_RestaurantHighlights
-DROP TABLE tbl_RestaurantCuisines
-DROP TABLE tbl_Restaurants
-DROP TABLE tbl_Localities
-DROP TABLE tbl_Cities
-DROP TABLE tbl_States
-DROP TABLE tbl_PriceRanges
-DROP TABLE tbl_Highlights
-DROP TABLE tbl_Cuisines
-DROP TABLE tbl_Genres
-DROP TABLE tbl_Countries
+--DROP TABLE tbl_RestaurantHighlights
+--DROP TABLE tbl_RestaurantCuisines
+--DROP TABLE tbl_Restaurants
+--DROP TABLE tbl_Localities
+--DROP TABLE tbl_Cities
+--DROP TABLE tbl_States
+--DROP TABLE tbl_PriceRanges
+--DROP TABLE tbl_Highlights
+--DROP TABLE tbl_Cuisines
+--DROP TABLE tbl_Genres
+--DROP TABLE tbl_Countries
 
 --CREATE TABLES
 CREATE TABLE tbl_Countries
