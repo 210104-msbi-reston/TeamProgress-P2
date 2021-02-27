@@ -64,7 +64,38 @@ There are two options to setup this project. The first option involves restoring
 * Click close when finished processing. The cube should now be successfully deployed and queryable through both SSMS and SSAS.
 
 ## SSRS and Power Bi
+* Navigate to TeamProgress-P2\Reports\SSRS.
+* Extract the files from the ZomatoReportsFormatted.zip.
 
+* Open Reporting Services Configuration Manager. 
+* Connect to your Reporting instance.
+* Go to Web Service URL and click Apply.
+* Go to Web Portal URL and click Apply.
+* Go back to Web Service URL and copy the link under Report Server Web Service URLs.
+
+* Open ZomatoReports.sln with Visual Studio 2017 (SSDT).
+* Right click the bolded ZomatoReports under the Solution Explorer pane.
+* Go to Properties.
+* In General under Deployment, paste the Web Service URL link into TargetServerURL. Click OK.
+
+* In the Solution Explorer under Shared Data Sources, double click ZomatoCubeKL.rds. 
+* In Shared Data Properties, ensure the Type is Microsoft SQL Server Analysis Services.
+* Click Build...
+* Type in the name of your Analysis server under Server name.
+* Select ZomatoCube for Select or enter a database name.
+* Click Test Connection to ensure the connection works. Click OK.
+* Go to Credentials and ensure Use Windows Authentication (integrated security) is selected. Click OK.
+* Ensure you can view the reports by clicking preview in the design window of the OverSaturatedMarkets report. This report does not require parameters and is not linked so should load within seconds.
+* If successfully able to preview, right click the bolded ZomatoReports under the Solution Explorer pane.
+* Click Build and ensure the build is successful.
+* Right click the bolded ZomatoReports and click Deploy. 
+
+* Go back to Reporting Services Configuration Manager.
+* Go to Web Portal URL and click on the URL.
+
+* On the SQL Server Reporting Services website, select the ZomatoReports folder.
+* In the folder, there should be 14 paginated reports. 
+* Click MapController to navigate through all the available reports.
 
 ## Team Members
 * Jonathan Tucker - Team Leader
