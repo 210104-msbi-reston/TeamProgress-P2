@@ -14,8 +14,7 @@ Our project will analyze restaurant data that has been pulled from Zomato. Zomat
 * Microsoft Power Bi
 
 ## Getting Started
-There are three options to setup this project. The first option involves restoring backups of the Relational Database and the Data Warehouse. The second option involves executing the SchemaData sql files for the Relational Database and the Data Warehouse. The third option involves running script files to setup the schemas and then running the SSIS packages to load the database and data warehouse.
-
+There are two options to setup this project. The first option involves restoring backups of the Relational Database and the Data Warehouse. The second option involves executing the SchemaData sql files for the Relational Database and the Data Warehouse. 
 ### Requirements
 * Ensure SQL Server Management Studio is installed.
 * Ensure Visual Studio 2017 (SSDT) is installed.
@@ -47,16 +46,6 @@ There are three options to setup this project. The first option involves restori
 * Execute each query.
   * This will take anywhere from 5-10 minutes each.
 
-### Option 3 - SSIS Packages
-* Navigate to the TeamProgress-P2\SQL folder in the cloned repository.
-* Open the files named DBCreateTables.sql and DWCreateTables.sql in SSMS and execute the queries.
-
-#### Populate Distinct Tables
-
-
-#### Restaurant Facts
-
-
 ## SSAS and the Cube
 * Navigate to TeamProgress-P2\SSAS in the cloned repository.
 * Extract the files from ZomatoCube.zip.
@@ -75,7 +64,38 @@ There are three options to setup this project. The first option involves restori
 * Click close when finished processing. The cube should now be successfully deployed and queryable through both SSMS and SSAS.
 
 ## SSRS and Power Bi
+* Navigate to TeamProgress-P2\Reports\SSRS.
+* Extract the files from the ZomatoReportsFormatted.zip.
 
+* Open Reporting Services Configuration Manager. 
+* Connect to your Reporting instance.
+* Go to Web Service URL and click Apply.
+* Go to Web Portal URL and click Apply.
+* Go back to Web Service URL and copy the link under Report Server Web Service URLs.
+
+* Open ZomatoReports.sln with Visual Studio 2017 (SSDT).
+* Right click the bolded ZomatoReports under the Solution Explorer pane.
+* Go to Properties.
+* In General under Deployment, paste the Web Service URL link into TargetServerURL. Click OK.
+
+* In the Solution Explorer under Shared Data Sources, double click ZomatoCubeKL.rds. 
+* In Shared Data Properties, ensure the Type is Microsoft SQL Server Analysis Services.
+* Click Build...
+* Type in the name of your Analysis server under Server name.
+* Select ZomatoCube for Select or enter a database name.
+* Click Test Connection to ensure the connection works. Click OK.
+* Go to Credentials and ensure Use Windows Authentication (integrated security) is selected. Click OK.
+* Ensure you can view the reports by clicking preview in the design window of the OverSaturatedMarkets report. This report does not require parameters and is not linked so should load within seconds.
+* If successfully able to preview, right click the bolded ZomatoReports under the Solution Explorer pane.
+* Click Build and ensure the build is successful.
+* Right click the bolded ZomatoReports and click Deploy. 
+
+* Go back to Reporting Services Configuration Manager.
+* Go to Web Portal URL and click on the URL.
+
+* On the SQL Server Reporting Services website, select the ZomatoReports folder.
+* In the folder, there should be 14 paginated reports. 
+* Click MapController to navigate through all the available reports.
 
 ## Team Members
 * Jonathan Tucker - Team Leader
