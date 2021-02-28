@@ -111,6 +111,9 @@ CREATE TABLE tbl_RestaurantHighlights
 --kill 56
 --SELECT DISTINCT highlightID FROM tbl_RestaurantHighlights ORDER BY highlightID ASC
 --SELECT DISTINCT cuisineID FROM tbl_RestaurantCuisines ORDER BY cuisineID ASC
+--TRUNCATE TABLE tbl_RestaurantCuisines
+--SELECT COUNT(*) FROM tbl_RestaurantCuisines
+--SELECT DISTINCT cuisineID FROM tbl_RestaurantCuisines ORDER BY cuisineID ASC
 --TRUNCATE TABLE tbl_RestaurantHighlights
-
---SELECT Count(*) FROM tbl_RestaurantHighlights
+--SELECT COUNT(*) FROM tbl_RestaurantHighlights
+--SELECT DISTINCT highlightID FROM tbl_RestaurantHighlights ORDER BY highlightID ASC
