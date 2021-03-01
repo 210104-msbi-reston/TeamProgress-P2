@@ -68,10 +68,9 @@ There are three options to setup this project. The first option involves restori
 * Press Start at the top to begin populating your ZomatoRestaurants DB. (This can take 20+ minutes depending on your system. Please be patient)
 * After the PopulateDistinctTables.dtsx package finishes, from the Solution Explorer, double-click the RestaurantFacts.dtsx file to open the Design window for the package
 * In the Connection Managers pane at the bottom of the Design window, reconnect one connection manager to your SQL Server DB instance and the other to your SQL Server DW instance
-<img src ="https://github.com/210104-msbi-reston/TeamProgress-P2/blob/CleaningSSISDbPackage/Images/Image%20to%20Reset%20Connection%20Managers%20DW.png?raw=true" width="800">  
-
   * LAPTOP-VCDB75JF\REVATUREJT.ZomatoRestaurants connects to your ZomatoRestaurants DB instance in SSMS
-  * LAPTOP-VCDB75JF\REVATUREJT.ZomatoRestaurantsDW connects to your ZomatoRestaurantsDW Dw instance in SSMS 
+  * LAPTOP-VCDB75JF\REVATUREJT.ZomatoRestaurantsDW connects to your ZomatoRestaurantsDW Dw instance in SSMS  
+<img src ="https://github.com/210104-msbi-reston/TeamProgress-P2/blob/CleaningSSISDbPackage/Images/Image%20to%20Reset%20Connection%20Managers%20DW.png?raw=true" width="800">  
 * Press Start at the top to begin populating your ZomatoRestaurants DW. (This will only take 1-2 minutes depending on your system. Please be patient)  
 
 ## SSAS and the Cube
