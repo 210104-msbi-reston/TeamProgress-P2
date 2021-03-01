@@ -4,17 +4,17 @@ USE ZomatoRestaurants
 
 
 --DROP TABLES
-DROP TABLE tbl_RestaurantHighlights
-DROP TABLE tbl_RestaurantCuisines
-DROP TABLE tbl_Restaurants
-DROP TABLE tbl_Localities
-DROP TABLE tbl_Cities
-DROP TABLE tbl_States
-DROP TABLE tbl_PriceRanges
-DROP TABLE tbl_Highlights
-DROP TABLE tbl_Cuisines
-DROP TABLE tbl_Genres
-DROP TABLE tbl_Countries
+--DROP TABLE tbl_RestaurantHighlights
+--DROP TABLE tbl_RestaurantCuisines
+--DROP TABLE tbl_Restaurants
+--DROP TABLE tbl_Localities
+--DROP TABLE tbl_Cities
+--DROP TABLE tbl_States
+--DROP TABLE tbl_PriceRanges
+--DROP TABLE tbl_Highlights
+--DROP TABLE tbl_Cuisines
+--DROP TABLE tbl_Genres
+--DROP TABLE tbl_Countries
 
 --CREATE TABLES
 CREATE TABLE tbl_Countries
@@ -111,6 +111,9 @@ CREATE TABLE tbl_RestaurantHighlights
 --kill 56
 --SELECT DISTINCT highlightID FROM tbl_RestaurantHighlights ORDER BY highlightID ASC
 --SELECT DISTINCT cuisineID FROM tbl_RestaurantCuisines ORDER BY cuisineID ASC
+--TRUNCATE TABLE tbl_RestaurantCuisines
+--SELECT COUNT(*) FROM tbl_RestaurantCuisines
+--SELECT DISTINCT cuisineID FROM tbl_RestaurantCuisines ORDER BY cuisineID ASC
 --TRUNCATE TABLE tbl_RestaurantHighlights
-
---SELECT Count(*) FROM tbl_RestaurantHighlights
+--SELECT COUNT(*) FROM tbl_RestaurantHighlights
+--SELECT DISTINCT highlightID FROM tbl_RestaurantHighlights ORDER BY highlightID ASC

@@ -1,15 +1,15 @@
 CREATE DATABASE ZomatoRestaurantsDW
 USE ZomatoRestaurantsDW
 
-DROP TABLE fct_RestaurantFacts
-DROP TABLE brg_RestaurantCuisine
-DROP TABLE brg_RestaurantHighlight
-DROP TABLE dim_Restaurant
-DROP TABLE dim_Cuisine
-DROP TABLE dim_Highlight
-DROP TABLE dim_PriceRange
-DROP TABLE dim_Location
-DROP TABLE dim_Genre
+--DROP TABLE fct_RestaurantFacts
+--DROP TABLE brg_RestaurantCuisine
+--DROP TABLE brg_RestaurantHighlight
+--DROP TABLE dim_Restaurant
+--DROP TABLE dim_Cuisine
+--DROP TABLE dim_Highlight
+--DROP TABLE dim_PriceRange
+--DROP TABLE dim_Location
+--DROP TABLE dim_Genre
 
 
 CREATE TABLE dim_Genre
@@ -90,8 +90,8 @@ CREATE TABLE fct_RestaurantFacts
 	numberOfVotes INT
 )
 
-CREATE PROCEDURE voteIntegrity
-AS
-BEGIN
-UPDATE fct_RestaurantFacts set restaurantRating=NULL WHERE numberOfVotes=0
-END
+--CREATE PROCEDURE voteIntegrity
+--AS
+--BEGIN
+--UPDATE fct_RestaurantFacts set restaurantRating=NULL WHERE numberOfVotes=0
+--END
