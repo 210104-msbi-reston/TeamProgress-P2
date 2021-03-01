@@ -72,6 +72,7 @@ There are three options to setup this project. The first option involves restori
   * LAPTOP-VCDB75JF\REVATUREJT.ZomatoRestaurants connects to your ZomatoRestaurants DB instance in SSMS
   * LAPTOP-VCDB75JF\REVATUREJT.ZomatoRestaurantsDW connects to your ZomatoRestaurantsDW Dw instance in SSMS  
 <img src ="https://github.com/210104-msbi-reston/TeamProgress-P2/blob/CleaningSSISDbPackage/Images/Image%20to%20Reset%20Connection%20Managers%20DW.png?raw=true" width="800">  
+
 * Press Start at the top to begin populating your ZomatoRestaurants DW. (This will only take 1-2 minutes depending on your system. Please be patient)  
 
 ## SSAS and the Cube
