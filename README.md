@@ -54,8 +54,6 @@ There are three options to setup this project. The first option involves restori
 * In the solution explorer, right-click the SSIS Packages folder and add PopulateDistinctTables.dtsx and RestaurantFacts.dtsx from the TeamProgress-P2\SSIS folder
 * From the Solution Explorer, double-click the PopulateDistinctTables.dtsx file to open the Design window for the package
 * In the Connection Managers pane at the bottom of the Design window, reconnect each connection manager to a similarly named flat file in TeamProgress-P2\Datasets folder or to your SQL Server DB as necessary
-<img src ="https://github.com/210104-msbi-reston/TeamProgress-P2/blob/CleaningSSISDbPackage/Images/Image%20to%20Reset%20Connection%20Managers%20DB.png?raw=true" width="800">  
-
   * DistinctCities connects to DistinctCities.txt
   * DistinctCountries connects to DistinctCountries.txt 
   * DistinctCuisines connects to DistinctCuisines.txt
@@ -65,7 +63,8 @@ There are three options to setup this project. The first option involves restori
   * DistinctPriceRanges connects to DistinctPriceRanges.txt
   * DistinctRestaurants connects to DistinctRestaurants.txt
   * DistinctStates connects to DistinctStates.txt
-  * LAPTOP-SDFHP9DE.ZomatoRestaurants 1 connects to your ZomatoRestaurants DB instance in SSMS
+  * LAPTOP-SDFHP9DE.ZomatoRestaurants 1 connects to your ZomatoRestaurants DB instance in SSMS 
+<img src ="https://github.com/210104-msbi-reston/TeamProgress-P2/blob/CleaningSSISDbPackage/Images/Image%20to%20Reset%20Connection%20Managers%20DB.png?raw=true" width="800">  
 * Press Start at the top to begin populating your ZomatoRestaurants DB. (This can take 20+ minutes depending on your system. Please be patient)
 * After the PopulateDistinctTables.dtsx package finishes, from the Solution Explorer, double-click the RestaurantFacts.dtsx file to open the Design window for the package
 * In the Connection Managers pane at the bottom of the Design window, reconnect one connection manager to your SQL Server DB instance and the other to your SQL Server DW instance
